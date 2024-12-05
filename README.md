@@ -14,7 +14,7 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 To get started with the project, you'll need to set up a virtual environment and install the
 required dependencies. Follow the steps below to set up your environment.
 
-WARNING: Apple Silicon does not work. x86 machines only. 
+WARNING: Apple Silicon does not work. x86 machines only. ⚠️
 
 ### 1. 🧪 Create a Virtual Environment 🧪
 
