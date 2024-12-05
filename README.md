@@ -8,6 +8,8 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 To get started with the project, you'll need to set up a virtual environment and install the
 required dependencies. Follow the steps below to set up your environment.
 
+WARNING: Apple Silicon does not work. x86 machines only.
+
 ### 1. Create a Virtual Environment
 
 Ensure that you have Python 3.7+ installed on your system.
@@ -21,3 +23,11 @@ python3 -m venv venv
 source /venv/bin/activate
 ```
 You should notice a change in your terminal prompt. It should now display (venv) at the beginning, indicating that the virtual environment is active.
+
+### 3. Install Dependencies
+```bash
+pip install pandas
+```
+```bash
+pip install python-dp
+```
