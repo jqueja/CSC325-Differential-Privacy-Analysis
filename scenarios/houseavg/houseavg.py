@@ -145,6 +145,54 @@ class ClassReporter:
         noisy_mean = laplace_mechanism.result()  # Get the noisy mean
         
         return noisy_mean
+    
+
+    '''
+    def count_above(self, limit: int) -> int:
+        return self._df[self._df.hours_worked > limit].count().iloc[4]
+
+    # Function to calculate maximum number of hours worked in the column.
+    def max(self) -> int:
+        return self._df.max().iloc[4]
+
+    # Function to return the remaining privacy budget.
+    def privacy_budget(self) -> float:
+        return self._privacy_budget
+
+    # Function to return the DP sum of all hours worked.
+    def private_sum(self, privacy_budget: float) -> float:
+        x = BoundedSum(
+            epsilon=privacy_budget,
+            delta=0,
+            lower_bound=0,
+            upper_bound=100,
+            dtype="float",
+        )
+        return x.quick_result(list(self._df["hours_worked"]))
+
+    # Function to return the DP mean of all hours worked.
+    def private_mean(self, privacy_budget: float) -> float:
+        x = BoundedMean(
+            epsilon=privacy_budget, lower_bound=0, upper_bound=100, dtype="float"
+        )
+        return x.quick_result(list(self._df["hours_worked"]))
+
+    # Function to return the DP count of the number of elves who worked more than "limit" hours.
+    def private_count_above(
+        self, privacy_budget: float, limit: int
+    ) -> Union[int, float]:
+        x = Count(epsilon=privacy_budget, dtype="int")
+        return x.quick_result(
+            list(self._df[self._df.hours_worked > limit]["hours_worked"])
+        )
+
+    # Function to return the DP maximum of the number of carrots eaten by any one animal.
+    def private_max(self, privacy_budget: float) -> Union[int, float]:
+        # 0 and 150 are the upper and lower limits for the search bound.
+        x = Max(epsilon=privacy_budget, lower_bound=0, upper_bound=100, dtype="int")
+        return x.quick_result(list(self._df["hours_worked"]))
+    '''
+
 
 # get absolute path
 path = Path(os.path.dirname(os.path.abspath(__file__)))
