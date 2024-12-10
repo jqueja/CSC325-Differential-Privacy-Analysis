@@ -1,0 +1,5001 @@
+id,student_name,house,potions,herbology,darkarts,flying
+1,Wizard2100,Slytherin,88,87,75,94
+2,Wizard40,Hufflepuff,61,44,75,73
+3,Wizard1501,Slytherin,84,77,72,84
+4,Wizard293,Hufflepuff,47,81,52,77
+5,Wizard1205,Hufflepuff,72,57,78,44
+6,Wizard2643,Ravenclaw,92,88,91,95
+7,Wizard2645,Slytherin,72,89,78,86
+8,Wizard1420,Ravenclaw,89,93,94,90
+9,Wizard1204,Gryffindor,74,69,78,52
+10,Molly Dumbledore,Slytherin,77,77,93,82
+11,Wizard4017,Gryffindor,69,74,85,57
+12,Wizard2937,Gryffindor,52,68,68,77
+13,Wizard3725,Ravenclaw,95,100,89,99
+14,Wizard993,Slytherin,86,94,95,82
+15,Wizard2598,Slytherin,86,84,82,76
+16,Wizard1870,Hufflepuff,42,42,82,73
+17,Wizard3943,Ravenclaw,88,88,98,86
+18,Wizard3907,Ravenclaw,92,98,89,92
+19,Wizard3609,Slytherin,75,92,93,87
+20,Salazar Zabini,Ravenclaw,87,91,100,100
+21,Wizard4072,Ravenclaw,90,91,87,90
+22,Wizard1412,Gryffindor,59,84,88,84
+23,Wizard3414,Slytherin,84,85,78,77
+24,Wizard2194,Ravenclaw,92,87,99,90
+25,Wizard299,Slytherin,92,74,93,94
+26,Wizard1164,Ravenclaw,98,97,91,93
+27,Wizard726,Ravenclaw,90,91,89,98
+28,Wizard906,Gryffindor,59,63,68,81
+29,Godric Tonks,Slytherin,91,95,76,91
+30,Wizard272,Ravenclaw,96,85,98,85
+31,Wizard3111,Ravenclaw,89,93,98,85
+32,Wizard3965,Hufflepuff,44,42,56,75
+33,Wizard2757,Slytherin,79,91,71,87
+34,Filius Lupin,Ravenclaw,94,98,87,90
+35,Wizard4008,Gryffindor,57,55,79,83
+36,Remus Black,Hufflepuff,44,53,51,49
+37,Wizard3999,Gryffindor,64,71,81,72
+38,Wizard2183,Hufflepuff,77,58,56,63
+39,Bridget Crouch,Ravenclaw,85,100,98,88
+40,Wizard810,Gryffindor,65,64,69,77
+41,Wizard1382,Slytherin,72,81,90,73
+42,Wizard106,Gryffindor,52,88,87,61
+43,Wizard3440,Hufflepuff,79,72,75,69
+44,Molly Pucey,Slytherin,84,94,73,71
+45,Wizard2378,Hufflepuff,57,45,76,83
+46,Wizard4042,Ravenclaw,96,87,87,98
+47,Wizard682,Slytherin,87,92,90,77
+48,Tom Tonks,Gryffindor,76,52,83,78
+49,Wizard414,Hufflepuff,76,82,80,50
+50,Wizard2017,Hufflepuff,85,68,67,73
+51,Wizard1313,Hufflepuff,77,58,52,77
+52,Wizard2921,Gryffindor,74,85,71,76
+53,Wizard2570,Hufflepuff,46,43,60,40
+54,Wizard3750,Gryffindor,57,80,78,60
+55,Hepzibah Selwyn,Ravenclaw,91,95,87,95
+56,Wizard3136,Gryffindor,82,61,62,53
+57,Wizard3939,Slytherin,94,88,93,71
+58,Wizard1691,Slytherin,74,72,82,88
+59,Wizard848,Gryffindor,70,65,74,88
+60,Wizard3279,Gryffindor,57,69,67,86
+61,Wizard4,Slytherin,74,78,76,88
+62,Wizard3487,Slytherin,82,94,93,93
+63,Bellatrix Lestrange,Ravenclaw,89,86,91,100
+64,Wizard1665,Slytherin,77,81,95,72
+65,Lucius Grindelwald,Slytherin,74,92,87,79
+66,Wizard3242,Gryffindor,58,81,89,83
+67,Wizard3785,Hufflepuff,59,57,57,50
+68,Tom Lupin,Hufflepuff,49,77,58,45
+69,Wizard1992,Slytherin,72,82,79,93
+70,Wizard2535,Slytherin,71,90,80,88
+71,Wizard3424,Hufflepuff,56,74,57,53
+72,Hepzibah Flitwick,Ravenclaw,94,95,89,94
+73,Minerva Hooch,Hufflepuff,52,81,54,64
+74,Wizard2352,Ravenclaw,94,98,94,88
+75,Wizard2704,Gryffindor,86,77,65,57
+76,Horace McGonagall,Slytherin,83,88,71,72
+77,Nymphadora Crabbe,Gryffindor,56,90,78,90
+78,Wizard2891,Hufflepuff,67,79,50,71
+79,Wizard1684,Hufflepuff,52,63,82,53
+80,Wizard834,Ravenclaw,96,86,89,93
+81,Kingsley Greengrass,Hufflepuff,83,47,78,64
+82,Wizard3515,Ravenclaw,96,92,89,98
+83,Wizard3877,Hufflepuff,41,56,74,54
+84,Wizard3569,Slytherin,82,86,79,74
+85,Hepzibah Greengrass,Hufflepuff,73,45,74,83
+86,Wizard1458,Hufflepuff,62,81,70,61
+87,Wizard2797,Hufflepuff,84,72,47,45
+88,Wizard1060,Ravenclaw,85,100,86,85
+89,Rubeus Crabbe,Ravenclaw,88,93,87,92
+90,Wizard1115,Slytherin,85,93,73,74
+91,Wizard3738,Ravenclaw,92,100,87,88
+92,Wizard1988,Hufflepuff,50,63,71,50
+93,Wizard2952,Ravenclaw,86,87,100,86
+94,Wizard510,Ravenclaw,98,88,91,97
+95,Wizard85,Hufflepuff,48,48,65,61
+96,Remus Riddle,Ravenclaw,90,94,96,100
+97,Wizard1929,Ravenclaw,94,92,91,87
+98,Wizard1089,Gryffindor,72,65,77,79
+99,Severus Goyle,Hufflepuff,58,74,61,75
+100,Wizard603,Gryffindor,54,52,79,89
+101,Wizard3359,Ravenclaw,99,90,85,93
+102,Wizard3805,Gryffindor,85,61,64,62
+103,Godric Selwyn,Slytherin,93,84,95,83
+104,Wizard3120,Ravenclaw,96,95,100,98
+105,Horace Greengrass,Ravenclaw,86,93,97,97
+106,Wizard3132,Hufflepuff,44,62,65,56
+107,Wizard2459,Hufflepuff,62,43,78,64
+108,Wizard3085,Gryffindor,76,75,80,55
+109,Wizard926,Slytherin,92,77,73,70
+110,Wizard2544,Ravenclaw,99,99,87,86
+111,Wizard1097,Ravenclaw,100,100,99,98
+112,Wizard4078,Gryffindor,74,66,65,83
+113,Wizard2989,Ravenclaw,92,87,96,100
+114,Wizard4079,Gryffindor,55,73,82,59
+115,Wizard2301,Slytherin,90,86,71,86
+116,Wizard4053,Gryffindor,51,72,70,75
+117,Horace Riddle,Hufflepuff,57,62,56,72
+118,Wizard484,Gryffindor,72,61,81,70
+119,Molly Crabbe,Gryffindor,51,60,55,83
+120,Wizard1526,Ravenclaw,89,93,97,91
+121,Wizard1002,Gryffindor,71,83,88,87
+122,Wizard479,Gryffindor,86,86,76,64
+123,Wizard14,Hufflepuff,81,57,75,71
+124,Wizard2363,Hufflepuff,59,60,63,61
+125,Wizard1389,Slytherin,88,81,72,84
+126,Hepzibah Weasley,Gryffindor,69,71,70,50
+127,Wizard3213,Slytherin,94,78,77,71
+128,Wizard1751,Slytherin,91,89,85,91
+129,Wizard3526,Gryffindor,66,79,74,81
+130,Wizard2103,Ravenclaw,96,98,95,94
+131,Filius Goyle,Hufflepuff,47,59,66,70
+132,Kingsley Pucey,Gryffindor,90,52,84,56
+133,Wizard3536,Hufflepuff,51,65,42,70
+134,Rowena Grindelwald,Gryffindor,60,90,86,73
+135,Wizard544,Gryffindor,73,81,85,59
+136,Wizard781,Gryffindor,71,57,62,79
+137,Wizard1900,Gryffindor,75,72,58,66
+138,Wizard1401,Gryffindor,62,87,77,57
+139,Albus Snape,Gryffindor,50,79,65,61
+140,Wizard2749,Ravenclaw,93,90,90,93
+141,Wizard1044,Hufflepuff,65,58,81,84
+142,Wizard2766,Gryffindor,84,87,59,84
+143,Wizard863,Ravenclaw,96,86,88,85
+144,Salazar Hooch,Hufflepuff,40,68,64,47
+145,Wizard1047,Hufflepuff,54,76,63,73
+146,Wizard1806,Ravenclaw,99,86,86,89
+147,Wizard1555,Gryffindor,89,52,84,89
+148,Wizard3539,Hufflepuff,41,77,82,54
+149,Wizard286,Gryffindor,66,75,76,69
+150,Wizard1199,Ravenclaw,92,94,88,93
+151,Wizard3857,Hufflepuff,83,73,50,67
+152,Wizard3887,Slytherin,87,71,73,93
+153,Wizard3648,Ravenclaw,85,100,95,87
+154,Wizard86,Slytherin,92,77,89,74
+155,Wizard2745,Ravenclaw,89,91,88,94
+156,Wizard691,Hufflepuff,56,46,75,62
+157,Wizard3730,Gryffindor,75,67,58,77
+158,Wizard4097,Slytherin,93,82,80,95
+159,Wizard31,Gryffindor,54,85,56,63
+160,Wizard4069,Slytherin,80,88,74,71
+161,Wizard2092,Ravenclaw,91,87,85,97
+162,Remus Peverell,Gryffindor,59,52,52,74
+163,Wizard3205,Ravenclaw,92,89,97,90
+164,Wizard260,Slytherin,84,70,73,83
+165,Wizard121,Gryffindor,83,80,54,58
+166,Tom Slughorn,Hufflepuff,60,44,65,68
+167,Wizard817,Hufflepuff,52,83,56,45
+168,Wizard1732,Hufflepuff,57,80,48,70
+169,Wizard1139,Slytherin,87,92,93,74
+170,Wulfric Crabbe,Ravenclaw,98,91,96,92
+171,Wizard3927,Hufflepuff,43,75,45,42
+172,Wizard2371,Gryffindor,61,84,53,51
+173,Wizard1523,Gryffindor,56,64,77,74
+174,Wizard1175,Ravenclaw,96,100,88,90
+175,Wizard1617,Slytherin,87,71,85,87
+176,Wizard3674,Slytherin,77,90,77,82
+177,Newt Hagrid,Slytherin,78,76,81,71
+178,Wizard2717,Hufflepuff,79,84,74,66
+179,Wizard2219,Hufflepuff,45,55,85,41
+180,Wizard710,Ravenclaw,87,99,94,89
+181,Salazar Grindelwald,Hufflepuff,56,64,81,56
+182,Wizard3255,Slytherin,80,79,86,94
+183,Gellert Slughorn,Ravenclaw,98,93,88,100
+184,Wizard2409,Hufflepuff,62,48,82,76
+185,Wizard2337,Slytherin,80,94,91,90
+186,Lucius Crabbe,Hufflepuff,69,57,55,48
+187,Wizard4039,Gryffindor,62,60,71,60
+188,Wizard3944,Slytherin,71,75,95,85
+189,Salazar Selwyn,Slytherin,81,92,75,88
+190,Wizard1572,Ravenclaw,98,94,85,92
+191,Wizard2472,Slytherin,73,77,83,95
+192,Wizard3391,Gryffindor,74,84,55,89
+193,Wizard3764,Gryffindor,65,68,61,75
+194,Wizard1653,Ravenclaw,99,95,92,88
+195,Wizard808,Gryffindor,50,81,71,60
+196,Wizard2517,Slytherin,88,71,83,73
+197,Wizard3831,Hufflepuff,78,65,51,81
+198,Wizard4036,Slytherin,75,70,95,78
+199,Wizard711,Hufflepuff,44,66,66,73
+200,Wizard3915,Slytherin,93,77,70,83
+201,Wizard2441,Ravenclaw,99,96,95,88
+202,Wizard2361,Slytherin,88,78,93,72
+203,Wizard3520,Slytherin,74,83,76,78
+204,Wizard1673,Hufflepuff,84,41,68,60
+205,Dilys Crabbe,Slytherin,95,79,84,84
+206,Wizard2044,Gryffindor,90,79,54,67
+207,Wizard3160,Slytherin,95,75,88,76
+208,Rubeus Carrow,Slytherin,70,70,93,84
+209,Wizard1616,Hufflepuff,40,58,84,55
+210,Wizard1154,Hufflepuff,73,52,84,48
+211,Wizard3976,Hufflepuff,56,53,71,60
+212,Wizard3941,Slytherin,79,82,81,87
+213,Wizard938,Slytherin,84,91,79,76
+214,Wizard2169,Hufflepuff,65,59,59,76
+215,Wizard740,Ravenclaw,95,92,90,87
+216,Wizard1980,Hufflepuff,78,44,82,44
+217,Wizard1021,Hufflepuff,60,59,62,85
+218,Wizard1087,Slytherin,82,71,84,95
+219,Wizard564,Ravenclaw,100,89,88,90
+220,Wizard1539,Slytherin,70,73,70,78
+221,Wizard149,Gryffindor,80,56,60,55
+222,Wizard985,Gryffindor,63,76,63,76
+223,Wizard653,Hufflepuff,74,66,45,42
+224,Wizard1100,Slytherin,86,81,71,85
+225,Wizard3575,Ravenclaw,86,99,94,98
+226,Arthur Slughorn,Hufflepuff,61,84,68,67
+227,Wizard1050,Gryffindor,84,71,84,83
+228,Wizard2052,Slytherin,78,94,91,82
+229,Wizard576,Hufflepuff,84,63,44,50
+230,Wizard3516,Slytherin,89,82,94,73
+231,Wizard2907,Hufflepuff,58,80,64,81
+232,Wizard2872,Slytherin,88,71,91,91
+233,Wizard512,Hufflepuff,41,82,60,78
+234,Wizard2863,Slytherin,74,85,76,82
+235,Wizard2178,Slytherin,79,80,89,70
+236,Wizard997,Hufflepuff,50,46,65,79
+237,Wizard779,Ravenclaw,98,86,94,86
+238,Wizard870,Gryffindor,78,52,55,58
+239,Salazar Flitwick,Ravenclaw,95,97,90,92
+240,Wizard1640,Ravenclaw,100,99,88,89
+241,Wizard987,Hufflepuff,44,52,50,71
+242,Wizard2721,Slytherin,72,95,89,83
+243,Wizard4052,Ravenclaw,96,86,85,97
+244,Bridget Bones,Slytherin,85,79,91,88
+245,Wizard2965,Ravenclaw,91,87,90,100
+246,Wizard1537,Slytherin,83,79,91,87
+247,Sirius Flitwick,Slytherin,72,85,81,84
+248,Wizard3665,Ravenclaw,85,88,86,96
+249,Leta Diggory,Slytherin,78,85,83,95
+250,Hepzibah Lestrange,Ravenclaw,95,96,89,93
+251,Horace Goyle,Slytherin,78,93,85,81
+252,Wizard89,Slytherin,82,77,93,90
+253,Rowena Zabini,Slytherin,87,93,76,91
+254,Wizard3799,Hufflepuff,41,65,57,62
+255,Wizard2708,Slytherin,82,82,89,71
+256,Wizard632,Ravenclaw,87,99,95,91
+257,Dilys Tonks,Hufflepuff,45,44,52,85
+258,Wizard1584,Slytherin,85,90,78,74
+259,Wizard2177,Slytherin,78,92,74,83
+260,Wizard729,Ravenclaw,95,95,86,93
+261,Wizard1020,Gryffindor,64,90,57,81
+262,Wizard3942,Hufflepuff,46,76,76,69
+263,Wizard2582,Hufflepuff,68,77,82,59
+264,Salazar Black,Hufflepuff,76,75,43,77
+265,Wizard3685,Slytherin,91,75,95,82
+266,Wizard1623,Slytherin,70,87,79,89
+267,Wizard320,Hufflepuff,47,74,84,61
+268,Wizard558,Slytherin,82,81,83,94
+269,Wizard3820,Gryffindor,52,54,70,77
+270,Wizard731,Gryffindor,87,58,81,52
+271,Wizard2107,Ravenclaw,90,98,94,87
+272,Wizard4040,Hufflepuff,63,45,57,41
+273,Wizard2209,Slytherin,78,79,83,94
+274,Wizard596,Slytherin,93,88,85,94
+275,Wizard3215,Hufflepuff,78,52,51,47
+276,Wizard1416,Hufflepuff,42,79,56,48
+277,Wizard1918,Gryffindor,63,69,71,67
+278,Wizard3821,Gryffindor,82,77,83,81
+279,Wizard1899,Hufflepuff,60,58,68,72
+280,Hepzibah Lupin,Ravenclaw,94,92,97,86
+281,Wizard140,Slytherin,81,90,73,85
+282,Wizard2768,Ravenclaw,96,93,93,99
+283,Wizard244,Hufflepuff,42,76,83,71
+284,Wizard4030,Slytherin,77,85,85,77
+285,Wizard2893,Hufflepuff,63,73,84,41
+286,Wizard3623,Hufflepuff,61,68,61,51
+287,Wizard2077,Hufflepuff,53,42,69,85
+288,Wizard2114,Gryffindor,82,85,72,85
+289,Minerva Crabbe,Slytherin,90,82,82,91
+290,Percy Flitwick,Gryffindor,79,90,83,66
+291,Wizard408,Hufflepuff,66,82,85,76
+292,Wizard994,Hufflepuff,72,55,55,75
+293,Wizard1531,Hufflepuff,61,84,59,57
+294,Wizard3660,Hufflepuff,68,73,78,63
+295,Wizard3708,Gryffindor,79,90,82,60
+296,Wizard700,Hufflepuff,58,83,69,56
+297,Wizard972,Ravenclaw,90,85,86,92
+298,Wizard3224,Gryffindor,51,62,66,64
+299,Salazar Greengrass,Slytherin,81,74,76,74
+300,Wizard2990,Ravenclaw,100,94,88,97
+301,Wizard3735,Gryffindor,74,84,84,88
+302,Theseus Weasley,Gryffindor,62,66,53,84
+303,Wizard397,Slytherin,83,81,91,95
+304,Wizard1345,Slytherin,82,75,83,80
+305,Wizard1489,Ravenclaw,86,87,100,86
+306,Wizard1461,Gryffindor,58,55,61,67
+307,Wizard246,Gryffindor,51,66,52,65
+308,Wizard458,Hufflepuff,66,52,60,47
+309,Wizard1230,Gryffindor,80,66,89,52
+310,Wizard3634,Hufflepuff,59,63,41,51
+311,Wizard675,Ravenclaw,100,98,92,97
+312,Wizard2426,Slytherin,83,78,91,94
+313,Wizard90,Slytherin,79,87,74,95
+314,Bathilda Parkinson,Gryffindor,54,63,62,66
+315,Wizard2261,Gryffindor,59,62,66,63
+316,Wizard2413,Ravenclaw,92,92,98,90
+317,Wizard2904,Gryffindor,83,73,78,76
+318,Nymphadora Slughorn,Hufflepuff,52,47,65,51
+319,Rowena Selwyn,Gryffindor,79,57,60,89
+320,Wizard388,Slytherin,81,75,86,80
+321,Godric Pucey,Hufflepuff,65,44,53,73
+322,Wilhelmina Snape,Slytherin,89,90,93,87
+323,Horace Zabini,Gryffindor,62,60,80,85
+324,Wizard693,Slytherin,80,94,93,93
+325,Wizard957,Hufflepuff,42,75,67,45
+326,Wizard2132,Hufflepuff,40,52,85,64
+327,Wizard1994,Ravenclaw,95,91,95,89
+328,Wizard312,Slytherin,95,70,77,93
+329,Wizard3635,Slytherin,75,77,94,94
+330,Wizard1882,Gryffindor,51,84,52,50
+331,Albus Lupin,Gryffindor,60,83,58,58
+332,Wizard3412,Gryffindor,88,65,55,60
+333,Wizard3917,Hufflepuff,53,64,81,70
+334,Bellatrix Black,Hufflepuff,60,73,46,59
+335,Wizard4032,Gryffindor,67,61,78,85
+336,Wizard3098,Ravenclaw,100,93,97,89
+337,Wizard513,Gryffindor,85,66,84,88
+338,Wizard4080,Gryffindor,89,69,79,51
+339,Dilys McGonagall,Ravenclaw,88,98,98,97
+340,Wizard1607,Ravenclaw,96,91,91,88
+341,Wizard3169,Gryffindor,79,69,71,79
+342,Wizard3499,Ravenclaw,88,86,93,88
+343,Wizard3381,Gryffindor,83,67,67,71
+344,Wizard441,Hufflepuff,46,54,46,82
+345,Wizard1711,Ravenclaw,87,92,92,99
+346,Wizard3835,Gryffindor,89,51,83,81
+347,Wizard2712,Hufflepuff,53,43,76,53
+348,Wizard2513,Gryffindor,68,81,82,88
+349,Horace Hooch,Slytherin,94,94,92,86
+350,Wizard2346,Ravenclaw,91,98,100,97
+351,Wizard2496,Hufflepuff,51,45,63,66
+352,Wizard3301,Slytherin,95,89,91,75
+353,Wizard1273,Hufflepuff,49,71,40,75
+354,Molly Parkinson,Ravenclaw,92,98,90,94
+355,Wizard2562,Ravenclaw,100,86,86,91
+356,Tom Black,Ravenclaw,91,86,99,100
+357,Wizard2621,Hufflepuff,61,44,40,56
+358,Wizard4028,Slytherin,85,79,75,78
+359,Bellatrix Yaxley,Gryffindor,76,71,82,55
+360,Wizard2940,Hufflepuff,77,64,80,76
+361,Wizard3727,Ravenclaw,96,88,95,87
+362,Wizard2644,Slytherin,82,91,89,77
+363,Wizard1937,Ravenclaw,93,91,94,95
+364,Wizard1236,Gryffindor,82,70,84,78
+365,Wizard1643,Slytherin,84,78,81,91
+366,Tom Hagrid,Ravenclaw,99,100,97,96
+367,Hepzibah Lovegood,Gryffindor,68,53,77,62
+368,Severus Grindelwald,Slytherin,80,76,93,87
+369,Lucius Hooch,Ravenclaw,87,92,99,93
+370,Wizard554,Gryffindor,72,71,77,56
+371,Wizard969,Ravenclaw,96,97,100,97
+372,Molly Selwyn,Gryffindor,75,58,88,71
+373,Wizard1228,Gryffindor,81,75,70,65
+374,Wizard1708,Slytherin,77,79,89,75
+375,Wizard2397,Ravenclaw,93,100,95,91
+376,Wizard1201,Hufflepuff,44,78,70,69
+377,Wizard1545,Gryffindor,77,82,74,63
+378,Wizard3467,Slytherin,77,85,82,88
+379,Wizard1532,Gryffindor,75,63,85,68
+380,Wizard2516,Hufflepuff,63,46,40,71
+381,Wizard3492,Hufflepuff,79,82,41,74
+382,Wizard1677,Hufflepuff,65,52,68,51
+383,Wizard2618,Ravenclaw,96,94,100,94
+384,Wizard1881,Gryffindor,77,75,66,83
+385,Wizard288,Hufflepuff,75,62,81,40
+386,Bellatrix Hagrid,Ravenclaw,100,91,92,95
+387,Wizard2579,Ravenclaw,95,100,92,100
+388,Wizard2756,Hufflepuff,42,71,71,48
+389,Wizard2528,Slytherin,95,78,74,92
+390,Wizard2554,Hufflepuff,76,70,63,82
+391,Wizard1888,Gryffindor,65,70,58,68
+392,Wizard2294,Hufflepuff,58,81,82,68
+393,Wizard2849,Ravenclaw,100,96,99,89
+394,Wizard647,Hufflepuff,55,62,47,67
+395,Wizard3265,Slytherin,89,72,89,81
+396,Wizard1386,Ravenclaw,88,99,96,90
+397,Wizard888,Slytherin,80,81,78,81
+398,Wizard227,Hufflepuff,48,47,82,55
+399,Wizard1090,Hufflepuff,42,42,64,62
+400,Wizard1288,Hufflepuff,47,58,85,69
+401,Wizard1001,Hufflepuff,77,41,50,75
+402,Wizard2636,Hufflepuff,43,70,74,74
+403,Wizard504,Slytherin,81,85,76,92
+404,Wizard1902,Gryffindor,90,66,54,77
+405,Wizard681,Gryffindor,57,62,54,58
+406,Leta Bones,Gryffindor,77,61,74,52
+407,Wizard4011,Ravenclaw,90,99,95,94
+408,Wizard3586,Hufflepuff,81,74,83,58
+409,Wizard1823,Ravenclaw,88,93,89,98
+410,Wizard2157,Ravenclaw,98,100,95,97
+411,Wizard1680,Gryffindor,63,80,90,71
+412,Leta Lestrange,Hufflepuff,46,71,70,57
+413,Wizard2425,Gryffindor,55,73,76,61
+414,Wizard27,Gryffindor,75,60,53,60
+415,Wizard88,Hufflepuff,43,77,67,55
+416,Wizard446,Hufflepuff,41,42,60,42
+417,Wizard3252,Slytherin,73,91,84,83
+418,Wizard2746,Ravenclaw,86,89,94,91
+419,Wizard4082,Hufflepuff,42,41,50,80
+420,Wizard1701,Hufflepuff,43,42,44,78
+421,Wizard1016,Hufflepuff,77,56,46,55
+422,Wizard2918,Slytherin,86,75,72,74
+423,Leta Dumbledore,Hufflepuff,58,78,78,60
+424,Percy Crabbe,Gryffindor,62,68,90,52
+425,Wizard114,Gryffindor,70,85,69,61
+426,Wizard1566,Slytherin,93,80,92,78
+427,Wizard2308,Ravenclaw,93,94,88,92
+428,Wizard3135,Hufflepuff,48,83,69,85
+429,Wizard3498,Slytherin,84,89,82,70
+430,Wilhelmina Riddle,Hufflepuff,48,44,40,73
+431,Leta Hooch,Hufflepuff,51,53,84,69
+432,Wizard3564,Slytherin,87,90,71,92
+433,Wizard618,Hufflepuff,54,75,45,55
+434,Wizard1513,Hufflepuff,41,79,45,80
+435,Wizard500,Gryffindor,84,73,68,53
+436,Wizard3642,Hufflepuff,50,60,74,42
+437,Wizard2792,Hufflepuff,47,44,83,84
+438,Wizard1460,Gryffindor,55,73,65,75
+439,Wizard2099,Gryffindor,68,66,57,63
+440,Leta Crouch,Ravenclaw,87,92,88,93
+441,Kingsley Grindelwald,Ravenclaw,85,90,95,86
+442,Wizard2531,Hufflepuff,74,82,82,79
+443,Wizard348,Ravenclaw,85,87,86,86
+444,Wizard2752,Gryffindor,61,83,83,70
+445,Wizard3787,Gryffindor,54,82,67,63
+446,Wizard990,Gryffindor,52,55,64,86
+447,Wizard2334,Gryffindor,60,85,64,51
+448,Wizard1669,Hufflepuff,70,82,76,79
+449,Wizard4003,Ravenclaw,91,98,86,90
+450,Wizard3633,Hufflepuff,79,49,45,45
+451,Wizard3656,Slytherin,74,80,91,76
+452,Wizard2038,Ravenclaw,98,90,91,91
+453,Wizard572,Hufflepuff,75,76,83,55
+454,Wizard2400,Gryffindor,78,67,81,74
+455,Wizard2658,Gryffindor,67,87,77,79
+456,Bellatrix Diggory,Hufflepuff,83,65,71,42
+457,Wizard2982,Ravenclaw,90,97,91,94
+458,Wizard1088,Hufflepuff,59,66,55,58
+459,Wizard2477,Ravenclaw,95,89,90,96
+460,Dilys Riddle,Slytherin,72,77,81,76
+461,Wizard3369,Slytherin,75,73,83,93
+462,Wizard1342,Gryffindor,73,89,66,74
+463,Wizard3299,Slytherin,81,79,93,91
+464,Wizard831,Gryffindor,71,63,81,70
+465,Wizard222,Hufflepuff,47,76,42,59
+466,Albus McGonagall,Gryffindor,60,71,90,76
+467,Wizard1850,Gryffindor,78,71,50,58
+468,Wizard1217,Hufflepuff,56,79,65,52
+469,Wizard1952,Gryffindor,64,75,54,76
+470,Wizard1815,Ravenclaw,96,95,85,100
+471,Wizard2740,Hufflepuff,84,57,69,54
+472,Wizard1727,Ravenclaw,100,93,99,95
+473,Wizard306,Slytherin,80,91,89,82
+474,Wizard1084,Ravenclaw,88,100,87,98
+475,Wizard1702,Gryffindor,51,85,74,74
+476,Wizard1111,Gryffindor,73,80,56,65
+477,Wizard2958,Slytherin,85,82,84,84
+478,Wizard3207,Hufflepuff,59,61,48,74
+479,Wizard667,Hufflepuff,77,78,47,72
+480,Wizard1821,Ravenclaw,96,93,96,96
+481,Wizard1811,Ravenclaw,96,100,89,97
+482,Wizard2731,Ravenclaw,98,88,93,93
+483,Wizard1220,Slytherin,94,84,81,91
+484,Lucius Zabini,Slytherin,81,83,84,70
+485,Tom Crabbe,Gryffindor,63,50,50,70
+486,Wizard2834,Slytherin,74,78,95,79
+487,Wizard462,Ravenclaw,87,87,91,96
+488,Wizard3090,Gryffindor,52,84,80,58
+489,Wizard1195,Hufflepuff,43,68,66,61
+490,Wizard3347,Ravenclaw,89,91,97,98
+491,Wizard2898,Gryffindor,58,64,59,80
+492,Wizard3190,Hufflepuff,43,75,63,43
+493,Hepzibah Grindelwald,Hufflepuff,64,83,66,40
+494,Theseus Parkinson,Gryffindor,70,50,50,63
+495,Wizard2995,Slytherin,95,73,84,85
+496,Wizard1810,Ravenclaw,99,85,99,87
+497,Wizard2320,Hufflepuff,81,53,63,77
+498,Wizard3806,Gryffindor,55,86,51,85
+499,Severus Selwyn,Hufflepuff,43,77,42,63
+500,Helga Peverell,Gryffindor,77,76,54,52
+501,Wizard666,Ravenclaw,99,87,87,100
+502,Wizard1805,Gryffindor,89,56,87,85
+503,Wizard2900,Ravenclaw,89,90,90,95
+504,Wizard1503,Gryffindor,61,72,51,74
+505,Wizard3451,Gryffindor,88,75,90,77
+506,Wizard3151,Gryffindor,61,76,89,87
+507,Wizard2155,Gryffindor,51,58,74,60
+508,Helga Grindelwald,Gryffindor,71,87,87,90
+509,Wizard2478,Ravenclaw,100,88,89,97
+510,Wizard2546,Hufflepuff,46,43,77,57
+511,Wizard1764,Slytherin,79,91,89,86
+512,Wizard3356,Gryffindor,58,59,69,68
+513,Wizard331,Slytherin,73,79,94,85
+514,Wizard488,Slytherin,84,93,80,83
+515,Wizard92,Slytherin,70,86,90,82
+516,Wizard3510,Gryffindor,84,90,79,65
+517,Wizard3920,Slytherin,76,89,94,93
+518,Wizard3854,Gryffindor,51,86,58,64
+519,Wizard3672,Hufflepuff,71,84,67,84
+520,Wizard2251,Gryffindor,80,65,61,81
+521,Wizard2734,Slytherin,87,83,94,79
+522,Wizard1397,Gryffindor,88,64,84,72
+523,Wizard3813,Gryffindor,79,87,55,82
+524,Wizard2837,Slytherin,81,83,84,73
+525,Wizard3370,Slytherin,78,74,90,70
+526,Wizard3934,Gryffindor,80,68,50,89
+527,Wizard407,Slytherin,79,89,87,79
+528,Wizard934,Gryffindor,72,52,58,67
+529,Wizard940,Hufflepuff,40,64,52,77
+530,Wizard377,Ravenclaw,94,96,97,99
+531,Wizard1728,Gryffindor,90,77,57,85
+532,Wizard2069,Ravenclaw,92,92,92,90
+533,Wizard2750,Gryffindor,84,77,66,74
+534,Wizard1595,Hufflepuff,40,74,62,80
+535,Wizard1105,Hufflepuff,44,59,76,69
+536,Wizard3149,Slytherin,71,92,86,80
+537,Hepzibah McGonagall,Hufflepuff,61,78,84,63
+538,Wizard0,Hufflepuff,75,83,77,77
+539,Wizard97,Slytherin,85,95,78,83
+540,Wizard3286,Slytherin,91,73,82,77
+541,Molly Lovegood,Ravenclaw,91,85,99,92
+542,Filius Diggory,Gryffindor,87,55,84,65
+543,Wizard541,Hufflepuff,80,56,55,68
+544,Wizard1712,Slytherin,81,83,80,79
+545,Wizard424,Slytherin,82,85,88,72
+546,Wizard1354,Slytherin,82,87,83,73
+547,Wizard1908,Slytherin,79,85,73,94
+548,Godric Flitwick,Hufflepuff,85,62,71,54
+549,Wizard3145,Slytherin,78,71,85,81
+550,Sirius Snape,Gryffindor,52,82,53,58
+551,Wizard3069,Slytherin,93,76,95,80
+552,Severus Parkinson,Gryffindor,50,56,56,88
+553,Wizard2883,Slytherin,71,84,71,85
+554,Wizard1329,Slytherin,88,78,78,82
+555,Wizard1165,Hufflepuff,46,82,68,64
+556,Wizard1809,Slytherin,94,93,92,76
+557,Wizard322,Ravenclaw,100,95,94,98
+558,Wizard3154,Ravenclaw,98,94,92,94
+559,Wizard2452,Slytherin,72,72,73,88
+560,Wizard4093,Slytherin,89,86,77,77
+561,Hepzibah Riddle,Gryffindor,54,70,88,74
+562,Wizard2661,Gryffindor,83,89,53,64
+563,Percy Goyle,Ravenclaw,91,85,98,100
+564,Rubeus Yaxley,Ravenclaw,99,97,90,92
+565,Wizard713,Ravenclaw,96,88,87,90
+566,Wizard1543,Ravenclaw,86,86,98,100
+567,Wizard61,Hufflepuff,47,45,54,80
+568,Wizard4051,Slytherin,83,72,86,95
+569,Wizard2880,Hufflepuff,45,54,62,84
+570,Wizard3790,Gryffindor,73,82,80,60
+571,Leta Black,Hufflepuff,76,75,83,55
+572,Sirius Dumbledore,Gryffindor,82,89,63,74
+573,Wizard3285,Gryffindor,57,72,55,88
+574,Wizard1884,Ravenclaw,94,98,87,93
+575,Wizard1940,Slytherin,87,86,92,77
+576,Wizard316,Hufflepuff,78,49,60,45
+577,Wizard3707,Slytherin,70,78,82,91
+578,Wizard1685,Ravenclaw,90,92,95,100
+579,Wizard3039,Ravenclaw,94,89,99,98
+580,Wulfric Lovegood,Ravenclaw,94,95,91,90
+581,Wizard353,Ravenclaw,90,91,97,89
+582,Wizard1590,Hufflepuff,78,55,51,77
+583,Wizard3054,Gryffindor,58,77,62,89
+584,Wizard2028,Gryffindor,89,77,71,51
+585,Wizard290,Slytherin,92,85,78,73
+586,Wizard1585,Hufflepuff,82,77,45,50
+587,Wizard3457,Ravenclaw,90,90,96,94
+588,Wizard2081,Gryffindor,64,86,82,87
+589,Wizard2935,Slytherin,78,81,87,87
+590,Wizard223,Gryffindor,54,90,73,71
+591,Wizard2149,Gryffindor,71,83,71,86
+592,Wizard3494,Hufflepuff,61,51,43,62
+593,Wizard1898,Hufflepuff,41,45,69,82
+594,Wizard1143,Ravenclaw,96,100,99,88
+595,Wizard1872,Slytherin,71,73,83,81
+596,Wizard601,Slytherin,93,81,77,95
+597,Wizard1926,Hufflepuff,67,60,53,79
+598,Arthur Weasley,Slytherin,78,70,84,81
+599,Remus Crabbe,Slytherin,73,91,88,94
+600,Wizard415,Gryffindor,75,78,66,74
+601,Salazar McGonagall,Gryffindor,54,86,79,68
+602,Wizard386,Gryffindor,65,72,56,51
+603,Remus Hagrid,Ravenclaw,88,91,91,97
+604,Bathilda Black,Gryffindor,75,78,50,51
+605,Wizard3919,Slytherin,72,88,79,88
+606,Wizard2200,Ravenclaw,87,92,98,93
+607,Albus Goyle,Hufflepuff,61,48,82,52
+608,Wizard2536,Gryffindor,63,63,67,60
+609,Wizard3706,Gryffindor,64,51,57,89
+610,Wizard2648,Hufflepuff,55,79,80,61
+611,Wizard282,Gryffindor,74,84,80,62
+612,Wizard3225,Gryffindor,70,77,77,59
+613,Wizard3480,Slytherin,92,92,77,70
+614,Wizard1278,Gryffindor,72,81,52,69
+615,Bridget Diggory,Gryffindor,66,53,64,70
+616,Wizard3591,Gryffindor,63,56,53,63
+617,Wizard2809,Hufflepuff,53,66,48,57
+618,Wizard1714,Hufflepuff,57,78,63,45
+619,Wizard1183,Hufflepuff,66,82,41,43
+620,Wizard2886,Slytherin,73,74,85,77
+621,Wizard1126,Gryffindor,88,59,53,55
+622,Wizard3108,Gryffindor,62,53,79,89
+623,Wizard102,Gryffindor,67,72,88,84
+624,Wizard3664,Hufflepuff,52,79,84,41
+625,Helga Zabini,Gryffindor,82,54,71,50
+626,Wizard2567,Ravenclaw,94,96,100,98
+627,Wizard2906,Gryffindor,89,73,78,69
+628,Wizard124,Hufflepuff,67,50,73,78
+629,Wizard3007,Ravenclaw,91,98,87,95
+630,Wizard2210,Hufflepuff,52,49,68,53
+631,Wizard727,Gryffindor,81,78,75,88
+632,Wizard800,Gryffindor,66,60,56,89
+633,Wizard3581,Slytherin,76,74,94,94
+634,Wizard3244,Gryffindor,76,53,52,86
+635,Wizard1437,Gryffindor,55,82,89,61
+636,Wizard3858,Hufflepuff,77,64,60,79
+637,Newt Selwyn,Hufflepuff,42,72,47,64
+638,Wizard1093,Hufflepuff,55,48,48,76
+639,Wizard580,Hufflepuff,59,66,72,66
+640,Wizard1796,Hufflepuff,71,64,43,62
+641,Wizard2048,Gryffindor,53,52,81,85
+642,Wizard2693,Gryffindor,59,74,90,66
+643,Wizard103,Gryffindor,59,53,87,56
+644,Wizard1946,Gryffindor,73,60,52,72
+645,Wizard551,Slytherin,93,81,94,94
+646,Wizard1981,Slytherin,77,93,78,72
+647,Wizard208,Ravenclaw,89,98,92,87
+648,Gellert McGonagall,Ravenclaw,85,97,92,90
+649,Wizard2812,Ravenclaw,100,90,94,85
+650,Wizard3418,Hufflepuff,61,60,52,60
+651,Remus Zabini,Ravenclaw,91,89,94,91
+652,Wizard2853,Hufflepuff,56,80,62,67
+653,Lucius Goyle,Gryffindor,65,86,86,71
+654,Wizard2674,Ravenclaw,89,94,96,97
+655,Wizard3185,Gryffindor,65,82,75,86
+656,Wizard2230,Gryffindor,89,78,57,69
+657,Wizard1235,Gryffindor,61,86,53,55
+658,Wizard1930,Hufflepuff,72,57,53,45
+659,Wizard3655,Gryffindor,70,69,67,78
+660,Wilhelmina Shacklebolt,Ravenclaw,94,98,91,93
+661,Wizard1886,Ravenclaw,100,92,98,93
+662,Kingsley Carrow,Slytherin,82,93,70,95
+663,Wizard1867,Hufflepuff,73,50,80,42
+664,Wizard749,Gryffindor,55,70,88,72
+665,Wizard1893,Ravenclaw,93,99,95,90
+666,Hepzibah Slughorn,Ravenclaw,97,87,92,96
+667,Filius Parkinson,Hufflepuff,75,76,60,62
+668,Nymphadora Lestrange,Gryffindor,74,79,87,86
+669,Wizard3949,Ravenclaw,89,86,99,99
+670,Severus Lupin,Ravenclaw,99,86,85,88
+671,Wizard2125,Slytherin,94,81,92,81
+672,Wizard65,Ravenclaw,98,92,93,97
+673,Horace Weasley,Slytherin,77,78,89,88
+674,Wulfric Carrow,Ravenclaw,98,100,98,99
+675,Wizard2225,Ravenclaw,88,91,92,92
+676,Kingsley Flitwick,Gryffindor,88,66,72,64
+677,Dilys Shacklebolt,Ravenclaw,96,98,87,95
+678,Wizard2333,Ravenclaw,100,94,94,95
+679,Wizard1586,Slytherin,72,77,87,78
+680,Wizard1652,Hufflepuff,55,62,84,77
+681,Wizard1311,Gryffindor,83,80,77,83
+682,Wizard2943,Slytherin,84,89,81,92
+683,Wizard487,Slytherin,73,73,89,88
+684,Lucius Lupin,Gryffindor,63,55,63,73
+685,Wizard3493,Ravenclaw,85,92,99,85
+686,Wizard431,Slytherin,88,87,76,92
+687,Horace Parkinson,Ravenclaw,98,94,96,93
+688,Severus Lovegood,Hufflepuff,63,51,51,84
+689,Wizard2056,Ravenclaw,91,94,98,93
+690,Wizard880,Slytherin,74,75,80,76
+691,Wizard1842,Gryffindor,66,85,63,51
+692,Tom Zabini,Gryffindor,63,84,60,78
+693,Theseus Dumbledore,Gryffindor,89,88,54,77
+694,Wilhelmina Lupin,Slytherin,87,81,81,82
+695,Wizard2846,Gryffindor,73,65,81,64
+696,Wizard655,Gryffindor,76,51,73,90
+697,Wizard104,Ravenclaw,99,100,100,92
+698,Wizard3180,Slytherin,88,77,86,76
+699,Wizard1287,Slytherin,83,79,77,79
+700,Wizard3925,Gryffindor,67,65,85,71
+701,Wizard2592,Hufflepuff,67,83,63,53
+702,Wizard2854,Hufflepuff,59,83,70,44
+703,Wizard1025,Slytherin,91,77,89,78
+704,Wizard879,Gryffindor,84,59,56,61
+705,Newt Hooch,Ravenclaw,89,97,100,96
+706,Wizard161,Ravenclaw,97,95,87,98
+707,Wizard837,Slytherin,93,86,71,84
+708,Wizard1530,Gryffindor,68,64,90,51
+709,Rowena Peverell,Hufflepuff,84,85,45,40
+710,Wizard3435,Slytherin,91,76,95,87
+711,Wizard4071,Hufflepuff,66,64,57,43
+712,Wizard2705,Ravenclaw,86,100,92,85
+713,Remus Shacklebolt,Slytherin,86,83,94,93
+714,Wizard3167,Ravenclaw,96,100,93,94
+715,Wizard1913,Slytherin,92,82,84,83
+716,Wizard3818,Ravenclaw,100,88,96,90
+717,Salazar Lestrange,Hufflepuff,67,58,50,74
+718,Wizard310,Hufflepuff,67,52,81,65
+719,Wizard3433,Hufflepuff,84,56,55,54
+720,Wizard2607,Gryffindor,64,52,72,58
+721,Wizard709,Slytherin,80,88,85,78
+722,Godric Goyle,Slytherin,79,83,75,73
+723,Wizard788,Ravenclaw,96,93,97,94
+724,Wizard99,Ravenclaw,85,91,96,85
+725,Wizard3042,Slytherin,86,84,82,93
+726,Wizard3991,Gryffindor,75,57,64,90
+727,Severus Bones,Hufflepuff,41,47,42,70
+728,Wizard856,Gryffindor,69,65,90,51
+729,Wilhelmina Goyle,Gryffindor,64,61,68,70
+730,Rubeus Selwyn,Slytherin,94,71,72,71
+731,Wizard2466,Hufflepuff,76,49,43,68
+732,Rowena McGonagall,Gryffindor,87,61,89,62
+733,Wizard1103,Slytherin,75,78,70,72
+734,Wizard3778,Hufflepuff,73,52,43,84
+735,Wizard2428,Gryffindor,60,71,81,87
+736,Wizard617,Gryffindor,77,83,87,89
+737,Wizard1499,Ravenclaw,96,94,94,91
+738,Wizard2616,Hufflepuff,70,54,73,58
+739,Wizard11,Hufflepuff,62,41,73,78
+740,Wizard3842,Ravenclaw,96,87,94,99
+741,Wizard1615,Ravenclaw,99,90,88,97
+742,Wizard281,Gryffindor,67,77,84,87
+743,Wizard3152,Slytherin,77,85,79,85
+744,Wizard1561,Hufflepuff,78,72,65,55
+745,Rowena Tonks,Slytherin,76,76,80,91
+746,Wilhelmina Peverell,Gryffindor,58,89,70,59
+747,Wizard3323,Ravenclaw,87,92,99,93
+748,Wizard127,Ravenclaw,91,90,86,97
+749,Wizard838,Gryffindor,61,51,58,56
+750,Wizard3445,Hufflepuff,71,83,66,62
+751,Wizard1070,Slytherin,76,89,77,77
+752,Wizard206,Slytherin,94,90,85,76
+753,Wizard716,Gryffindor,77,87,72,73
+754,Wizard2737,Gryffindor,60,71,78,54
+755,Wizard1099,Hufflepuff,69,60,56,67
+756,Wizard3602,Ravenclaw,98,85,91,92
+757,Wizard3202,Hufflepuff,81,57,56,66
+758,Wizard2994,Slytherin,75,75,87,73
+759,Wizard189,Gryffindor,64,78,75,86
+760,Wizard378,Gryffindor,68,66,66,69
+761,Wizard1967,Gryffindor,71,86,58,67
+762,Wizard1167,Gryffindor,70,58,52,53
+763,Wizard3097,Gryffindor,81,50,65,60
+764,Wizard2491,Ravenclaw,86,97,96,97
+765,Wizard169,Gryffindor,62,56,75,63
+766,Lucius Slughorn,Hufflepuff,78,84,69,75
+767,Wizard122,Hufflepuff,71,69,81,43
+768,Wizard3567,Ravenclaw,92,89,96,88
+769,Newt Goyle,Gryffindor,63,89,85,87
+770,Filius Shacklebolt,Gryffindor,57,52,71,72
+771,Wizard2724,Ravenclaw,89,93,86,99
+772,Wizard3626,Gryffindor,84,78,71,69
+773,Wizard404,Hufflepuff,70,74,40,59
+774,Wizard2373,Hufflepuff,85,69,58,40
+775,Wizard3728,Gryffindor,67,68,52,70
+776,Percy Weasley,Hufflepuff,77,43,58,51
+777,Wizard3114,Slytherin,73,79,95,71
+778,Wizard3970,Slytherin,87,72,82,71
+779,Wizard2278,Ravenclaw,100,92,94,95
+780,Wizard3074,Slytherin,88,94,81,93
+781,Wizard801,Gryffindor,55,66,85,73
+782,Wizard3416,Hufflepuff,61,49,53,74
+783,Arthur Crouch,Ravenclaw,100,86,95,87
+784,Wizard270,Gryffindor,52,63,89,51
+785,Wizard2755,Ravenclaw,86,85,86,88
+786,Helga Snape,Slytherin,95,72,94,75
+787,Wizard1242,Slytherin,70,86,81,75
+788,Leta Zabini,Hufflepuff,50,46,48,66
+789,Bathilda McGonagall,Gryffindor,51,60,88,53
+790,Wizard3272,Slytherin,92,87,76,89
+791,Wizard3266,Gryffindor,72,64,77,52
+792,Wizard2146,Gryffindor,78,79,55,62
+793,Arthur Lovegood,Slytherin,88,89,80,73
+794,Wizard455,Slytherin,75,94,73,83
+795,Wizard3200,Hufflepuff,49,84,62,50
+796,Wizard828,Slytherin,70,71,88,84
+797,Bellatrix Lovegood,Slytherin,86,88,76,86
+798,Wizard2208,Gryffindor,63,67,56,53
+799,Wizard1807,Ravenclaw,93,99,93,89
+800,Wizard909,Ravenclaw,87,93,92,98
+801,Wizard2714,Gryffindor,81,58,65,57
+802,Wizard3338,Hufflepuff,73,79,56,77
+803,Wizard723,Ravenclaw,85,89,94,100
+804,Wizard1413,Slytherin,75,79,92,94
+805,Wizard3911,Ravenclaw,98,86,100,85
+806,Wizard1651,Gryffindor,67,60,63,90
+807,Kingsley Riddle,Slytherin,85,75,75,82
+808,Wizard2585,Gryffindor,86,57,79,85
+809,Wizard3346,Hufflepuff,61,69,74,55
+810,Newt Parkinson,Slytherin,81,75,90,81
+811,Newt Lestrange,Ravenclaw,95,94,100,87
+812,Wizard220,Slytherin,80,91,82,95
+813,Wizard3561,Gryffindor,64,90,54,50
+814,Wizard680,Slytherin,94,83,86,74
+815,Wizard3439,Slytherin,89,90,84,88
+816,Percy Hooch,Hufflepuff,67,46,45,62
+817,Wizard1736,Slytherin,81,82,93,70
+818,Wizard2087,Gryffindor,67,63,78,81
+819,Wizard1182,Gryffindor,61,56,88,50
+820,Wizard592,Gryffindor,77,61,76,72
+821,Bellatrix Zabini,Ravenclaw,91,92,93,96
+822,Wizard3594,Slytherin,88,94,92,91
+823,Godric Weasley,Gryffindor,72,86,88,76
+824,Wizard319,Hufflepuff,47,58,75,55
+825,Bellatrix Bones,Gryffindor,83,85,50,87
+826,Wizard964,Hufflepuff,56,68,71,47
+827,Wizard179,Slytherin,83,77,76,85
+828,Wizard2747,Hufflepuff,40,85,47,62
+829,Wizard983,Ravenclaw,99,91,88,99
+830,Wizard3363,Gryffindor,77,66,64,83
+831,Wizard536,Slytherin,87,94,85,95
+832,Wizard1517,Hufflepuff,70,45,68,77
+833,Percy Hagrid,Ravenclaw,87,86,98,91
+834,Arthur Pucey,Gryffindor,77,57,72,65
+835,Wizard1429,Slytherin,88,71,94,73
+836,Wizard1162,Slytherin,87,79,71,79
+837,Wizard3661,Gryffindor,57,83,69,54
+838,Wizard1847,Gryffindor,53,70,58,53
+839,Wizard661,Hufflepuff,67,51,53,79
+840,Wizard812,Gryffindor,85,54,56,67
+841,Wizard1876,Slytherin,86,81,75,78
+842,Wizard3636,Slytherin,81,92,78,72
+843,Wizard2138,Ravenclaw,93,91,97,92
+844,Severus Lestrange,Ravenclaw,91,86,86,94
+845,Wizard1248,Ravenclaw,97,90,98,91
+846,Wizard3141,Hufflepuff,59,49,77,81
+847,Wizard113,Gryffindor,75,68,85,69
+848,Wizard3781,Ravenclaw,94,89,98,97
+849,Wizard259,Ravenclaw,91,85,100,97
+850,Wizard162,Hufflepuff,84,76,47,65
+851,Wizard1079,Gryffindor,89,62,90,71
+852,Tom Lovegood,Slytherin,83,75,80,75
+853,Wizard4088,Ravenclaw,89,100,96,88
+854,Wizard744,Ravenclaw,87,94,91,90
+855,Severus Yaxley,Gryffindor,77,59,83,57
+856,Wizard3165,Hufflepuff,57,74,52,41
+857,Wizard3040,Ravenclaw,95,95,94,91
+858,Wizard2335,Slytherin,85,77,91,79
+859,Wizard2930,Gryffindor,67,79,83,67
+860,Newt Riddle,Ravenclaw,99,95,89,92
+861,Wizard1291,Hufflepuff,52,49,44,56
+862,Hepzibah Tonks,Hufflepuff,55,56,61,69
+863,Wizard2925,Ravenclaw,94,96,87,94
+864,Wizard1920,Ravenclaw,94,100,97,97
+865,Wizard1556,Gryffindor,52,55,56,82
+866,Wizard3089,Ravenclaw,85,95,97,88
+867,Wulfric Riddle,Ravenclaw,97,100,97,88
+868,Wizard1793,Ravenclaw,90,89,89,89
+869,Wizard604,Ravenclaw,91,86,91,98
+870,Wizard2136,Ravenclaw,98,86,99,95
+871,Wizard255,Hufflepuff,76,60,50,57
+872,Wizard921,Hufflepuff,45,72,55,49
+873,Wizard10,Ravenclaw,94,91,93,93
+874,Wizard1058,Ravenclaw,93,90,97,90
+875,Nymphadora Hagrid,Slytherin,92,91,95,87
+876,Wizard501,Ravenclaw,95,85,97,92
+877,Filius Pucey,Ravenclaw,94,96,97,95
+878,Wizard2234,Slytherin,93,83,92,84
+879,Wizard672,Ravenclaw,89,96,98,99
+880,Wizard1051,Slytherin,93,72,70,74
+881,Wizard1267,Ravenclaw,89,93,96,99
+882,Bridget Crabbe,Ravenclaw,90,94,93,90
+883,Wizard3280,Slytherin,78,90,74,82
+884,Minerva Goyle,Slytherin,94,87,82,86
+885,Wizard1214,Hufflepuff,55,41,43,54
+886,Newt Zabini,Hufflepuff,64,68,65,50
+887,Wizard2848,Gryffindor,65,65,57,52
+888,Wizard1688,Slytherin,86,72,88,82
+889,Wizard2348,Slytherin,71,70,86,95
+890,Wizard568,Ravenclaw,85,99,92,98
+891,Wulfric Zabini,Ravenclaw,99,99,96,98
+892,Wizard3947,Hufflepuff,53,48,65,73
+893,Wizard531,Hufflepuff,45,70,78,49
+894,Wizard1597,Slytherin,74,72,71,90
+895,Horace Snape,Ravenclaw,88,88,93,94
+896,Hepzibah Shacklebolt,Gryffindor,82,65,72,61
+897,Wizard2032,Ravenclaw,90,85,92,93
+898,Wizard2896,Ravenclaw,96,94,96,96
+899,Wizard405,Slytherin,86,73,76,89
+900,Newt Diggory,Ravenclaw,87,93,97,99
+901,Godric Lupin,Ravenclaw,97,86,96,85
+902,Wizard690,Slytherin,76,74,81,84
+903,Wizard389,Ravenclaw,90,85,85,95
+904,Wizard854,Slytherin,79,71,78,80
+905,Wizard2027,Ravenclaw,95,90,93,98
+906,Wizard3535,Ravenclaw,94,96,92,95
+907,Wizard2263,Ravenclaw,94,87,89,95
+908,Wizard1722,Slytherin,85,79,81,74
+909,Wizard2317,Ravenclaw,91,96,99,96
+910,Wizard494,Ravenclaw,98,89,95,91
+911,Wizard1475,Slytherin,79,88,75,84
+912,Wizard1970,Hufflepuff,57,65,65,51
+913,Wizard1770,Ravenclaw,97,88,100,86
+914,Wizard553,Ravenclaw,86,89,92,91
+915,Wizard1007,Hufflepuff,47,79,44,70
+916,Wizard1409,Ravenclaw,98,85,91,94
+917,Wizard1862,Hufflepuff,62,80,50,66
+918,Wizard1331,Ravenclaw,88,90,91,91
+919,Wizard1550,Hufflepuff,61,43,46,47
+920,Wizard557,Ravenclaw,92,86,95,96
+921,Wizard3343,Gryffindor,82,90,83,87
+922,Wizard2545,Slytherin,91,83,85,76
+923,Wizard956,Gryffindor,89,64,59,87
+924,Wizard1492,Gryffindor,68,61,53,73
+925,Wizard1117,Ravenclaw,85,89,85,97
+926,Wizard621,Ravenclaw,87,94,98,91
+927,Wizard698,Hufflepuff,56,63,43,74
+928,Wizard382,Hufflepuff,84,43,69,70
+929,Wizard910,Gryffindor,89,73,66,70
+930,Filius Bones,Gryffindor,81,88,77,73
+931,Wizard1657,Hufflepuff,62,46,57,81
+932,Wizard3387,Slytherin,91,94,74,78
+933,Wizard1496,Gryffindor,57,59,59,89
+934,Wizard2310,Gryffindor,83,87,75,59
+935,Wizard218,Ravenclaw,92,95,92,90
+936,Percy Dumbledore,Slytherin,79,91,90,73
+937,Wizard853,Gryffindor,84,62,65,62
+938,Wizard3109,Gryffindor,56,72,88,70
+939,Wizard1282,Ravenclaw,90,86,95,90
+940,Wizard3267,Gryffindor,69,58,53,58
+941,Horace Dumbledore,Hufflepuff,67,84,65,50
+942,Theseus Lupin,Gryffindor,52,79,90,63
+943,Wizard3403,Ravenclaw,100,96,89,86
+944,Wizard2931,Gryffindor,83,74,72,85
+945,Wizard1400,Slytherin,70,71,79,77
+946,Arthur Tonks,Slytherin,88,84,85,88
+947,Wizard2241,Ravenclaw,89,98,100,100
+948,Wizard2790,Ravenclaw,100,93,99,85
+949,Kingsley Goyle,Hufflepuff,52,79,62,52
+950,Wizard1697,Slytherin,90,93,90,74
+951,Wizard3817,Ravenclaw,95,92,100,92
+952,Wizard2232,Gryffindor,86,85,55,75
+953,Wizard1558,Ravenclaw,89,99,95,89
+954,Wizard3294,Slytherin,85,71,80,72
+955,Wizard3008,Gryffindor,89,86,79,80
+956,Wizard930,Slytherin,93,73,73,77
+957,Wizard4091,Hufflepuff,80,83,72,42
+958,Nymphadora Lovegood,Gryffindor,64,71,80,74
+959,Filius Dumbledore,Hufflepuff,80,55,71,62
+960,Wizard2469,Slytherin,94,87,74,72
+961,Wizard3555,Slytherin,82,76,87,77
+962,Wizard41,Slytherin,70,71,91,73
+963,Wizard1045,Ravenclaw,98,92,96,93
+964,Wizard3358,Hufflepuff,63,79,74,66
+965,Wizard3238,Hufflepuff,59,49,65,82
+966,Wizard1659,Hufflepuff,85,84,83,53
+967,Wizard3469,Hufflepuff,70,57,62,70
+968,Wizard620,Ravenclaw,90,93,99,96
+969,Wizard20,Gryffindor,54,76,65,83
+970,Wizard477,Gryffindor,59,56,54,74
+971,Wizard1259,Slytherin,70,84,72,78
+972,Wizard668,Slytherin,79,88,80,81
+973,Wizard2656,Ravenclaw,93,89,100,98
+974,Wizard2083,Ravenclaw,95,95,89,94
+975,Kingsley Malfoy,Slytherin,82,92,73,77
+976,Gellert Diggory,Ravenclaw,94,90,96,85
+977,Wizard171,Slytherin,79,87,91,91
+978,Wizard878,Gryffindor,90,78,85,85
+979,Nymphadora Zabini,Ravenclaw,92,92,100,96
+980,Wizard2769,Slytherin,75,75,93,88
+981,Wizard2424,Ravenclaw,96,91,85,95
+982,Wizard775,Hufflepuff,43,63,53,52
+983,Newt Shacklebolt,Ravenclaw,96,86,95,98
+984,Wizard849,Ravenclaw,89,98,89,96
+985,Wizard1738,Ravenclaw,92,99,87,90
+986,Wizard2004,Ravenclaw,94,94,99,98
+987,Wizard4035,Hufflepuff,77,72,73,54
+988,Wizard3700,Hufflepuff,63,60,65,73
+989,Wizard2926,Gryffindor,63,60,60,67
+990,Wizard509,Slytherin,84,94,80,81
+991,Filius Malfoy,Ravenclaw,94,91,93,85
+992,Wizard951,Gryffindor,50,63,81,80
+993,Wizard1169,Hufflepuff,55,70,68,66
+994,Wizard2541,Slytherin,95,86,74,95
+995,Wizard1703,Slytherin,88,70,70,87
+996,Lucius Riddle,Hufflepuff,48,67,66,79
+997,Wizard2482,Ravenclaw,93,97,91,90
+998,Wizard4018,Gryffindor,80,56,59,79
+999,Wilhelmina Flitwick,Ravenclaw,100,86,93,88
+1000,Wizard2915,Ravenclaw,95,91,93,98
+1001,Wizard3686,Ravenclaw,90,90,99,88
+1002,Salazar Peverell,Gryffindor,65,56,80,77
+1003,Wizard2856,Gryffindor,56,69,51,55
+1004,Wizard3801,Gryffindor,71,67,73,54
+1005,Lucius Diggory,Hufflepuff,40,51,55,50
+1006,Wizard1348,Slytherin,76,75,93,89
+1007,Wizard2707,Hufflepuff,47,41,45,83
+1008,Wizard3140,Slytherin,90,81,88,84
+1009,Wizard1903,Slytherin,92,91,95,91
+1010,Wizard980,Slytherin,84,88,81,89
+1011,Wizard2231,Slytherin,89,84,75,80
+1012,Rowena Hagrid,Slytherin,84,88,85,89
+1013,Wizard2711,Ravenclaw,98,98,95,88
+1014,Wizard1327,Slytherin,94,87,94,92
+1015,Leta Crabbe,Slytherin,83,85,95,95
+1016,Wizard3340,Ravenclaw,90,98,95,93
+1017,Wizard1591,Hufflepuff,54,66,74,48
+1018,Lucius Dumbledore,Gryffindor,62,73,58,75
+1019,Wizard627,Ravenclaw,100,92,89,93
+1020,Wizard1157,Ravenclaw,89,85,98,88
+1021,Wizard1788,Hufflepuff,77,50,53,48
+1022,Wizard2946,Slytherin,87,94,81,86
+1023,Wizard1177,Hufflepuff,41,62,63,71
+1024,Wizard1943,Gryffindor,62,83,79,80
+1025,Wizard178,Gryffindor,80,56,56,81
+1026,Wizard3082,Hufflepuff,83,63,58,64
+1027,Wizard119,Slytherin,85,78,95,76
+1028,Wizard35,Hufflepuff,46,68,61,63
+1029,Wizard3035,Gryffindor,64,80,56,75
+1030,Wizard4063,Gryffindor,80,58,61,53
+1031,Wizard391,Gryffindor,89,62,66,51
+1032,Wizard3121,Gryffindor,64,66,73,68
+1033,Wizard3788,Hufflepuff,75,68,77,58
+1034,Arthur Black,Gryffindor,69,58,68,74
+1035,Nymphadora Lupin,Gryffindor,61,58,65,56
+1036,Wizard296,Gryffindor,86,89,74,57
+1037,Wizard2594,Ravenclaw,100,94,99,93
+1038,Gellert Weasley,Ravenclaw,99,92,100,90
+1039,Albus Black,Gryffindor,57,66,57,82
+1040,Wizard3201,Slytherin,79,87,83,92
+1041,Bathilda Peverell,Slytherin,75,79,95,89
+1042,Wilhelmina Black,Slytherin,70,84,70,91
+1043,Wizard1004,Ravenclaw,99,96,98,90
+1044,Theseus Tonks,Ravenclaw,93,88,99,90
+1045,Wizard2596,Ravenclaw,90,86,99,86
+1046,Wizard2855,Ravenclaw,95,90,86,91
+1047,Wizard3870,Slytherin,88,88,80,72
+1048,Wizard471,Gryffindor,54,79,81,71
+1049,Wizard2844,Slytherin,79,82,86,89
+1050,Wizard1369,Hufflepuff,74,65,79,80
+1051,Wizard1325,Slytherin,78,72,81,71
+1052,Wizard1065,Ravenclaw,93,100,94,94
+1053,Wizard889,Hufflepuff,44,54,77,41
+1054,Sirius Riddle,Gryffindor,56,70,88,73
+1055,Wizard892,Hufflepuff,47,74,73,85
+1056,Wizard1606,Ravenclaw,89,98,88,90
+1057,Wizard375,Slytherin,70,92,87,84
+1058,Wizard33,Slytherin,91,86,79,74
+1059,Wizard1455,Ravenclaw,90,85,98,96
+1060,Wizard1160,Ravenclaw,96,96,92,97
+1061,Wizard2098,Gryffindor,57,76,88,56
+1062,Wizard2551,Hufflepuff,77,69,57,76
+1063,Salazar Shacklebolt,Hufflepuff,47,84,77,65
+1064,Minerva Shacklebolt,Ravenclaw,89,98,95,88
+1065,Remus Snape,Gryffindor,66,70,85,90
+1066,Molly Tonks,Gryffindor,61,72,72,67
+1067,Wizard381,Hufflepuff,52,73,67,75
+1068,Leta Shacklebolt,Ravenclaw,91,87,93,85
+1069,Wizard216,Gryffindor,72,63,79,85
+1070,Wizard2652,Gryffindor,78,58,76,65
+1071,Wizard3104,Gryffindor,69,86,51,72
+1072,Wizard1580,Ravenclaw,94,89,100,100
+1073,Wizard1419,Ravenclaw,94,86,98,99
+1074,Wizard3961,Ravenclaw,87,99,85,92
+1075,Wizard1433,Hufflepuff,54,78,43,56
+1076,Wizard2718,Slytherin,71,89,95,92
+1077,Wizard1281,Gryffindor,87,58,56,67
+1078,Wizard1270,Hufflepuff,42,85,77,62
+1079,Wizard3527,Gryffindor,78,51,51,55
+1080,Godric Dumbledore,Ravenclaw,85,93,98,92
+1081,Wizard133,Hufflepuff,84,50,84,51
+1082,Wilhelmina Lovegood,Gryffindor,75,81,52,70
+1083,Wizard1575,Hufflepuff,61,52,69,63
+1084,Wizard2738,Hufflepuff,68,52,70,57
+1085,Bridget Hooch,Slytherin,80,86,92,81
+1086,Wizard1758,Ravenclaw,85,89,85,86
+1087,Wizard3832,Ravenclaw,85,99,87,88
+1088,Godric Lovegood,Slytherin,73,89,84,88
+1089,Wizard578,Hufflepuff,83,61,46,72
+1090,Wizard925,Ravenclaw,86,86,95,100
+1091,Wizard1693,Hufflepuff,60,81,63,45
+1092,Wizard928,Gryffindor,88,71,69,80
+1093,Wizard2559,Ravenclaw,92,93,93,92
+1094,Wizard3902,Ravenclaw,91,92,97,100
+1095,Wizard2021,Gryffindor,81,53,83,88
+1096,Wizard2102,Ravenclaw,94,88,93,89
+1097,Wizard872,Gryffindor,84,50,86,60
+1098,Wizard2159,Gryffindor,83,61,84,67
+1099,Wizard3622,Ravenclaw,90,98,92,87
+1100,Wizard3237,Hufflepuff,57,77,45,47
+1101,Wizard2008,Slytherin,85,92,80,92
+1102,Wizard2617,Hufflepuff,64,83,66,80
+1103,Wizard1917,Slytherin,86,86,95,83
+1104,Wizard2427,Hufflepuff,46,84,74,71
+1105,Wizard2548,Slytherin,90,82,72,88
+1106,Wizard929,Gryffindor,75,74,69,74
+1107,Wizard1019,Slytherin,76,83,74,73
+1108,Wizard2782,Ravenclaw,98,96,90,97
+1109,Wizard1915,Gryffindor,59,73,87,61
+1110,Arthur Greengrass,Slytherin,84,76,88,88
+1111,Wizard2996,Hufflepuff,75,47,80,74
+1112,Wizard3269,Gryffindor,55,80,58,80
+1113,Wizard3940,Gryffindor,69,61,85,90
+1114,Dilys Slughorn,Hufflepuff,64,54,77,46
+1115,Wizard3678,Ravenclaw,99,88,97,99
+1116,Wizard1551,Slytherin,70,82,76,91
+1117,Wizard796,Slytherin,73,71,83,71
+1118,Wizard2526,Ravenclaw,89,98,90,86
+1119,Wizard3989,Hufflepuff,76,46,48,61
+1120,Wizard2484,Slytherin,79,72,84,88
+1121,Wizard868,Hufflepuff,52,67,66,42
+1122,Horace Hagrid,Gryffindor,63,79,87,59
+1123,Wizard3669,Slytherin,90,77,73,83
+1124,Wizard743,Ravenclaw,91,87,100,93
+1125,Wizard383,Ravenclaw,90,93,89,86
+1126,Wizard2049,Gryffindor,60,52,76,77
+1127,Wizard1874,Slytherin,94,94,75,91
+1128,Wizard3256,Gryffindor,82,83,72,51
+1129,Wizard942,Ravenclaw,90,88,89,95
+1130,Wizard314,Slytherin,83,71,92,84
+1131,Wizard560,Slytherin,92,78,75,82
+1132,Wizard4027,Ravenclaw,86,87,89,87
+1133,Wizard1293,Slytherin,73,88,73,91
+1134,Wizard3538,Hufflepuff,85,82,43,56
+1135,Wizard3681,Gryffindor,52,53,72,53
+1136,Lucius Tonks,Gryffindor,87,51,68,61
+1137,Wizard714,Hufflepuff,56,80,45,64
+1138,Wizard234,Ravenclaw,86,93,91,88
+1139,Gellert Hagrid,Ravenclaw,88,91,86,99
+1140,Wizard1151,Ravenclaw,93,88,92,92
+1141,Wizard126,Gryffindor,59,69,78,79
+1142,Wizard3978,Gryffindor,84,70,84,61
+1143,Wizard756,Ravenclaw,92,88,93,95
+1144,Wizard1340,Gryffindor,67,61,60,89
+1145,Wizard228,Gryffindor,76,77,86,71
+1146,Wizard1939,Slytherin,88,92,78,74
+1147,Wizard3620,Ravenclaw,91,87,88,85
+1148,Wizard1925,Ravenclaw,94,96,92,93
+1149,Wizard962,Hufflepuff,83,81,40,60
+1150,Wizard2165,Ravenclaw,85,97,87,98
+1151,Wizard1134,Slytherin,78,73,79,75
+1152,Wizard3314,Ravenclaw,97,88,97,91
+1153,Wizard495,Slytherin,74,92,76,75
+1154,Wizard3022,Hufflepuff,69,49,53,61
+1155,Wizard285,Gryffindor,85,53,70,80
+1156,Wizard1381,Hufflepuff,66,58,69,55
+1157,Wizard639,Slytherin,81,79,80,75
+1158,Wizard3742,Hufflepuff,58,64,72,83
+1159,Wizard62,Slytherin,85,78,77,74
+1160,Wizard1443,Slytherin,72,80,70,89
+1161,Wizard904,Gryffindor,70,64,64,61
+1162,Albus Hooch,Slytherin,91,82,77,75
+1163,Wizard3223,Hufflepuff,67,50,40,76
+1164,Wizard2839,Slytherin,84,95,79,77
+1165,Wizard933,Ravenclaw,89,89,99,100
+1166,Wizard669,Ravenclaw,86,90,91,96
+1167,Wizard2700,Hufflepuff,60,63,43,41
+1168,Wizard650,Hufflepuff,40,53,73,82
+1169,Wizard2728,Hufflepuff,67,62,84,50
+1170,Wizard2810,Gryffindor,67,75,61,90
+1171,Wizard769,Hufflepuff,56,56,62,72
+1172,Wizard131,Ravenclaw,95,86,100,97
+1173,Wizard2283,Gryffindor,59,71,54,80
+1174,Wizard197,Slytherin,86,78,93,72
+1175,Wizard3880,Hufflepuff,52,48,52,76
+1176,Filius Greengrass,Ravenclaw,91,85,86,98
+1177,Wizard3329,Gryffindor,70,85,90,59
+1178,Wizard2154,Hufflepuff,47,58,77,45
+1179,Wizard3814,Gryffindor,73,89,62,51
+1180,Wizard2614,Gryffindor,74,77,81,88
+1181,Wizard2489,Hufflepuff,62,72,61,77
+1182,Wizard2754,Slytherin,87,78,95,92
+1183,Wizard3537,Hufflepuff,53,63,52,44
+1184,Wizard3360,Hufflepuff,62,54,82,77
+1185,Wizard3675,Gryffindor,56,52,90,68
+1186,Wizard96,Slytherin,86,89,71,83
+1187,Wizard790,Hufflepuff,45,64,43,68
+1188,Wizard1346,Slytherin,79,81,78,78
+1189,Wizard1690,Gryffindor,60,82,78,61
+1190,Wizard890,Hufflepuff,51,85,55,69
+1191,Wizard2124,Ravenclaw,87,89,98,92
+1192,Wizard721,Ravenclaw,95,85,93,87
+1193,Dilys Dumbledore,Gryffindor,53,56,70,70
+1194,Wizard1166,Gryffindor,85,75,88,68
+1195,Wizard3721,Hufflepuff,67,66,63,69
+1196,Wizard3261,Slytherin,71,72,86,83
+1197,Wizard1326,Hufflepuff,61,83,44,69
+1198,Wizard396,Hufflepuff,77,52,61,44
+1199,Wizard2542,Slytherin,80,79,86,89
+1200,Wizard3769,Ravenclaw,89,91,98,88
+1201,Arthur Peverell,Gryffindor,73,50,55,67
+1202,Wulfric Weasley,Slytherin,92,79,77,77
+1203,Wizard4045,Ravenclaw,96,96,89,93
+1204,Wizard1316,Hufflepuff,42,64,73,70
+1205,Wizard3840,Hufflepuff,69,79,50,83
+1206,Wizard1660,Ravenclaw,90,96,91,88
+1207,Wizard2053,Hufflepuff,41,51,68,84
+1208,Kingsley Dumbledore,Slytherin,93,73,84,75
+1209,Wizard3471,Gryffindor,78,51,56,51
+1210,Bellatrix Snape,Slytherin,80,88,72,88
+1211,Gellert Lestrange,Ravenclaw,93,93,90,88
+1212,Wizard1367,Ravenclaw,96,89,86,100
+1213,Wizard1522,Ravenclaw,94,98,91,89
+1214,Wizard526,Hufflepuff,65,48,62,59
+1215,Wizard1772,Hufflepuff,83,53,44,83
+1216,Wizard3967,Gryffindor,83,74,57,88
+1217,Wizard3875,Ravenclaw,98,96,92,98
+1218,Wizard2869,Ravenclaw,94,95,96,97
+1219,Wizard2701,Slytherin,84,76,87,77
+1220,Wizard21,Ravenclaw,95,91,93,97
+1221,Wizard3308,Ravenclaw,93,85,92,99
+1222,Wizard799,Gryffindor,65,74,63,85
+1223,Rubeus Riddle,Gryffindor,88,52,60,56
+1224,Wizard3422,Hufflepuff,47,55,55,57
+1225,Wizard590,Ravenclaw,93,100,98,87
+1226,Wizard2201,Ravenclaw,90,88,88,92
+1227,Wizard581,Gryffindor,70,83,84,87
+1228,Wizard1480,Hufflepuff,52,49,43,47
+1229,Wizard696,Ravenclaw,98,96,98,95
+1230,Theseus McGonagall,Slytherin,84,88,89,80
+1231,Wizard814,Hufflepuff,55,68,75,71
+1232,Wizard3794,Ravenclaw,100,87,88,93
+1233,Wizard3992,Ravenclaw,97,91,88,95
+1234,Wizard2676,Slytherin,90,78,83,70
+1235,Wizard2719,Ravenclaw,94,87,86,85
+1236,Wizard3477,Hufflepuff,40,80,42,47
+1237,Wizard905,Gryffindor,73,50,85,68
+1238,Wizard3550,Gryffindor,55,57,80,72
+1239,Wulfric Dumbledore,Slytherin,76,77,94,71
+1240,Theseus Black,Gryffindor,56,83,67,66
+1241,Wizard238,Ravenclaw,97,96,92,90
+1242,Wizard3081,Hufflepuff,52,74,72,67
+1243,Wilhelmina Crabbe,Hufflepuff,63,58,54,67
+1244,Wizard2207,Gryffindor,78,63,86,90
+1245,Wizard819,Gryffindor,88,78,89,78
+1246,Wizard3334,Slytherin,95,85,87,78
+1247,Wizard1820,Slytherin,86,89,79,70
+1248,Severus Black,Slytherin,76,75,88,95
+1249,Wizard1473,Slytherin,90,78,87,89
+1250,Wizard215,Ravenclaw,96,92,85,100
+1251,Wizard3765,Ravenclaw,91,97,97,87
+1252,Wizard3248,Hufflepuff,59,77,72,53
+1253,Wizard3696,Hufflepuff,62,49,48,83
+1254,Wizard959,Hufflepuff,69,56,51,56
+1255,Wizard1463,Slytherin,72,86,95,85
+1256,Molly Grindelwald,Slytherin,84,86,70,70
+1257,Wizard2494,Gryffindor,50,67,51,80
+1258,Rubeus Grindelwald,Hufflepuff,80,72,85,52
+1259,Wizard1387,Gryffindor,67,90,79,57
+1260,Wizard1040,Ravenclaw,87,85,88,92
+1261,Wizard602,Slytherin,94,86,77,75
+1262,Wizard60,Gryffindor,60,80,79,75
+1263,Nymphadora Dumbledore,Ravenclaw,99,93,93,89
+1264,Wizard3411,Hufflepuff,53,51,73,69
+1265,Wizard1037,Ravenclaw,98,100,85,100
+1266,Wizard2318,Slytherin,70,95,76,85
+1267,Wizard2357,Slytherin,94,72,83,83
+1268,Wizard754,Slytherin,91,71,81,78
+1269,Bridget Peverell,Slytherin,85,71,90,77
+1270,Wizard337,Ravenclaw,86,96,89,94
+1271,Wizard2945,Hufflepuff,40,85,58,41
+1272,Wizard1191,Slytherin,81,73,87,82
+1273,Wizard3257,Ravenclaw,87,96,91,100
+1274,Wizard547,Hufflepuff,79,65,74,67
+1275,Wizard2775,Slytherin,78,76,75,87
+1276,Wizard2794,Slytherin,76,89,76,72
+1277,Wizard347,Hufflepuff,42,56,47,67
+1278,Wizard433,Slytherin,88,78,82,72
+1279,Wizard2065,Hufflepuff,77,47,56,51
+1280,Wizard442,Gryffindor,66,89,64,54
+1281,Wizard2220,Ravenclaw,94,90,87,96
+1282,Wizard3148,Hufflepuff,77,43,69,77
+1283,Wizard2954,Ravenclaw,93,87,99,86
+1284,Wizard1260,Hufflepuff,43,53,72,58
+1285,Remus Parkinson,Gryffindor,54,80,78,76
+1286,Wizard2879,Ravenclaw,90,95,86,85
+1287,Molly Black,Slytherin,83,84,88,86
+1288,Wizard952,Slytherin,94,94,86,91
+1289,Arthur Dumbledore,Gryffindor,70,65,89,50
+1290,Wizard3297,Ravenclaw,93,90,85,96
+1291,Wizard1411,Hufflepuff,79,58,79,57
+1292,Wizard3322,Hufflepuff,72,42,51,49
+1293,Molly Lestrange,Ravenclaw,88,92,97,90
+1294,Wizard3908,Slytherin,77,91,81,76
+1295,Wulfric Bones,Slytherin,91,91,91,92
+1296,Wizard2811,Slytherin,75,89,94,74
+1297,Wizard1553,Slytherin,81,84,72,87
+1298,Wizard701,Ravenclaw,93,99,91,96
+1299,Wizard3184,Slytherin,94,88,94,84
+1300,Wizard4065,Gryffindor,70,57,58,58
+1301,Wizard2549,Hufflepuff,55,42,63,73
+1302,Wizard2916,Hufflepuff,60,74,70,82
+1303,Wizard489,Ravenclaw,99,89,88,88
+1304,Wizard742,Hufflepuff,72,74,56,58
+1305,Wizard2727,Gryffindor,77,61,80,69
+1306,Wizard1581,Hufflepuff,80,77,73,49
+1307,Wizard3393,Ravenclaw,92,87,93,99
+1308,Wizard3766,Gryffindor,52,60,72,54
+1309,Wizard3791,Hufflepuff,42,79,44,41
+1310,Wizard1439,Hufflepuff,82,52,40,49
+1311,Wizard435,Gryffindor,82,56,73,77
+1312,Wizard472,Ravenclaw,94,97,90,95
+1313,Wizard599,Ravenclaw,93,87,88,99
+1314,Wizard1521,Slytherin,79,77,73,90
+1315,Arthur Goyle,Hufflepuff,43,47,74,50
+1316,Wizard3181,Slytherin,88,80,95,90
+1317,Albus Lovegood,Gryffindor,71,61,65,75
+1318,Tom Grindelwald,Hufflepuff,41,48,43,59
+1319,Wizard3458,Gryffindor,62,87,62,50
+1320,Wizard579,Gryffindor,82,85,86,66
+1321,Wizard2244,Ravenclaw,92,85,89,86
+1322,Nymphadora Pucey,Ravenclaw,95,88,90,91
+1323,Wizard3802,Gryffindor,62,83,69,85
+1324,Wizard3102,Gryffindor,76,88,76,84
+1325,Wizard2583,Gryffindor,63,75,66,76
+1326,Wizard3004,Gryffindor,73,54,65,52
+1327,Wizard3576,Slytherin,80,91,78,89
+1328,Wizard1373,Ravenclaw,89,90,92,99
+1329,Wizard2120,Ravenclaw,90,91,91,87
+1330,Molly Greengrass,Ravenclaw,89,93,93,100
+1331,Wizard1440,Gryffindor,61,76,79,90
+1332,Wizard1306,Slytherin,93,74,93,87
+1333,Lucius Lovegood,Gryffindor,78,54,73,75
+1334,Wizard1511,Ravenclaw,100,100,95,98
+1335,Wizard982,Ravenclaw,88,88,93,99
+1336,Wizard1644,Slytherin,73,71,78,70
+1337,Wizard2293,Ravenclaw,95,94,89,95
+1338,Wizard1066,Hufflepuff,47,73,69,47
+1339,Wizard2313,Slytherin,95,88,73,70
+1340,Salazar Diggory,Hufflepuff,73,71,61,58
+1341,Wizard2507,Ravenclaw,99,98,94,98
+1342,Wizard2126,Slytherin,85,75,78,70
+1343,Arthur McGonagall,Ravenclaw,91,92,95,86
+1344,Percy Malfoy,Hufflepuff,79,82,70,52
+1345,Arthur Yaxley,Ravenclaw,91,92,87,93
+1346,Wizard3270,Hufflepuff,71,84,47,49
+1347,Wizard770,Hufflepuff,72,65,76,67
+1348,Wizard3456,Gryffindor,76,59,77,73
+1349,Wizard3047,Ravenclaw,92,92,89,89
+1350,Wizard745,Gryffindor,55,73,58,64
+1351,Wizard1229,Gryffindor,50,87,71,89
+1352,Wizard3113,Gryffindor,55,74,86,57
+1353,Wilhelmina Yaxley,Slytherin,78,84,73,92
+1354,Wizard2506,Gryffindor,90,63,78,86
+1355,Wizard2268,Ravenclaw,86,99,91,95
+1356,Wizard2860,Gryffindor,74,73,55,54
+1357,Wizard899,Hufflepuff,57,72,73,62
+1358,Wizard3216,Hufflepuff,79,55,77,55
+1359,Albus Bones,Hufflepuff,80,67,58,50
+1360,Horace Lovegood,Slytherin,90,71,83,77
+1361,Wizard2018,Ravenclaw,90,97,99,86
+1362,Wizard3600,Hufflepuff,52,77,78,57
+1363,Wizard1968,Slytherin,79,91,82,83
+1364,Wizard3644,Ravenclaw,98,94,91,90
+1365,Wizard23,Gryffindor,85,68,83,52
+1366,Wizard2280,Slytherin,91,71,72,73
+1367,Wizard2057,Gryffindor,87,76,65,81
+1368,Wizard895,Slytherin,81,73,81,91
+1369,Wizard2914,Hufflepuff,84,77,61,63
+1370,Wizard3866,Gryffindor,88,81,60,68
+1371,Wizard1825,Hufflepuff,67,75,70,40
+1372,Wizard2997,Ravenclaw,95,99,89,95
+1373,Kingsley Crouch,Gryffindor,85,86,83,86
+1374,Minerva Lupin,Ravenclaw,94,100,94,100
+1375,Wizard2256,Hufflepuff,75,80,76,45
+1376,Wizard1091,Ravenclaw,97,95,89,97
+1377,Wizard1619,Slytherin,77,81,94,71
+1378,Horace Crabbe,Gryffindor,90,72,57,89
+1379,Wizard532,Gryffindor,73,80,86,58
+1380,Wizard1495,Hufflepuff,77,67,64,41
+1381,Wizard3691,Gryffindor,80,81,65,90
+1382,Wizard3654,Gryffindor,90,70,51,80
+1383,Wizard3176,Ravenclaw,87,96,86,93
+1384,Wizard2180,Slytherin,84,85,71,74
+1385,Wizard3552,Gryffindor,87,62,51,79
+1386,Wizard395,Slytherin,86,78,95,84
+1387,Wizard1570,Gryffindor,52,78,80,60
+1388,Wizard1989,Ravenclaw,96,98,98,92
+1389,Wizard4066,Gryffindor,55,85,65,88
+1390,Wizard505,Hufflepuff,43,85,80,73
+1391,Wizard2887,Slytherin,88,89,78,88
+1392,Wizard946,Ravenclaw,98,100,90,88
+1393,Wizard3142,Gryffindor,77,70,61,61
+1394,Wilhelmina Pucey,Gryffindor,59,51,62,55
+1395,Wizard77,Hufflepuff,55,73,84,69
+1396,Wizard1942,Hufflepuff,64,58,48,78
+1397,Wizard1682,Ravenclaw,95,100,91,90
+1398,Wizard871,Gryffindor,67,89,59,53
+1399,Rubeus Goyle,Ravenclaw,88,92,93,89
+1400,Wizard900,Slytherin,75,85,94,92
+1401,Wizard3364,Slytherin,72,76,94,86
+1402,Wizard1971,Slytherin,70,92,87,72
+1403,Wizard2148,Slytherin,82,95,70,93
+1404,Wizard264,Gryffindor,69,90,78,88
+1405,Theseus Riddle,Ravenclaw,86,94,96,87
+1406,Wizard2807,Hufflepuff,82,63,75,72
+1407,Wizard3031,Hufflepuff,75,60,47,43
+1408,Wizard2556,Ravenclaw,89,95,100,89
+1409,Wulfric McGonagall,Gryffindor,79,60,65,60
+1410,Wizard3437,Hufflepuff,77,45,58,66
+1411,Wizard538,Ravenclaw,96,91,87,98
+1412,Wizard1395,Ravenclaw,86,85,96,99
+1413,Wizard3698,Slytherin,90,90,78,75
+1414,Wizard45,Hufflepuff,47,72,49,67
+1415,Wizard1670,Gryffindor,68,65,54,56
+1416,Severus Pucey,Hufflepuff,66,55,41,71
+1417,Wizard1135,Gryffindor,70,77,51,61
+1418,Molly Flitwick,Hufflepuff,66,49,61,66
+1419,Wizard2105,Gryffindor,72,87,52,72
+1420,Wizard3251,Gryffindor,70,58,55,55
+1421,Wizard2166,Gryffindor,73,88,80,63
+1422,Gellert Greengrass,Slytherin,95,73,91,76
+1423,Wizard3481,Ravenclaw,95,94,89,86
+1424,Wizard2816,Gryffindor,71,61,76,76
+1425,Bathilda Malfoy,Gryffindor,69,74,73,60
+1426,Wizard2287,Hufflepuff,51,49,46,44
+1427,Wizard3311,Ravenclaw,91,89,89,96
+1428,Wilhelmina Carrow,Hufflepuff,84,69,42,61
+1429,Wizard2999,Gryffindor,82,82,65,79
+1430,Wizard3937,Hufflepuff,64,40,72,80
+1431,Wizard2800,Hufflepuff,49,82,73,82
+1432,Wizard2359,Hufflepuff,69,58,72,73
+1433,Wizard3849,Slytherin,72,90,89,85
+1434,Wizard2552,Gryffindor,60,73,89,74
+1435,Wizard3058,Hufflepuff,85,65,43,75
+1436,Wizard1529,Ravenclaw,86,85,99,90
+1437,Wizard1425,Slytherin,83,94,83,80
+1438,Wizard4034,Ravenclaw,89,96,89,89
+1439,Wizard239,Slytherin,85,70,91,93
+1440,Wizard3077,Ravenclaw,95,98,95,95
+1441,Wizard2913,Slytherin,94,81,70,70
+1442,Wizard2156,Gryffindor,75,83,69,81
+1443,Wizard2733,Ravenclaw,96,96,100,86
+1444,Wizard2226,Gryffindor,65,63,68,85
+1445,Wizard2112,Gryffindor,87,64,67,59
+1446,Wizard248,Ravenclaw,85,93,94,85
+1447,Wizard3865,Slytherin,77,71,89,81
+1448,Wulfric Crouch,Slytherin,82,85,92,92
+1449,Wizard3549,Gryffindor,78,71,77,87
+1450,Wizard707,Gryffindor,86,72,54,64
+1451,Wizard703,Ravenclaw,100,85,94,99
+1452,Wizard3162,Slytherin,77,93,89,95
+1453,Hepzibah Malfoy,Hufflepuff,71,82,74,65
+1454,Wizard3376,Gryffindor,78,57,70,50
+1455,Severus Crouch,Slytherin,91,70,75,93
+1456,Wizard3397,Ravenclaw,89,86,90,99
+1457,Dilys Pucey,Slytherin,85,93,70,78
+1458,Wizard3298,Gryffindor,61,72,58,79
+1459,Wizard117,Ravenclaw,98,86,100,85
+1460,Filius Yaxley,Gryffindor,81,86,87,50
+1461,Wizard168,Ravenclaw,89,94,89,85
+1462,Wizard287,Slytherin,72,87,87,78
+1463,Wizard2666,Slytherin,82,82,79,75
+1464,Wizard2305,Slytherin,72,89,83,75
+1465,Sirius Zabini,Slytherin,84,89,89,89
+1466,Wizard211,Hufflepuff,72,52,73,72
+1467,Wizard2398,Ravenclaw,94,92,100,86
+1468,Wizard1583,Slytherin,86,71,87,85
+1469,Wizard3282,Ravenclaw,88,99,93,90
+1470,Kingsley Tonks,Hufflepuff,44,49,81,66
+1471,Wizard1520,Gryffindor,58,55,84,83
+1472,Percy Tonks,Gryffindor,71,67,74,72
+1473,Nymphadora Flitwick,Slytherin,88,81,72,72
+1474,Wizard1958,Gryffindor,50,86,82,54
+1475,Wizard3632,Ravenclaw,92,99,87,92
+1476,Wizard4087,Hufflepuff,81,42,71,76
+1477,Wizard3427,Ravenclaw,91,98,99,95
+1478,Arthur Parkinson,Slytherin,72,76,88,70
+1479,Wizard2276,Slytherin,91,79,93,81
+1480,Wizard1860,Gryffindor,53,55,70,86
+1481,Gellert Snape,Gryffindor,58,51,61,90
+1482,Wizard4048,Ravenclaw,97,90,91,100
+1483,Filius Carrow,Gryffindor,71,50,76,78
+1484,Wizard1430,Gryffindor,67,79,70,84
+1485,Wizard1294,Slytherin,73,81,94,73
+1486,Wizard1885,Gryffindor,88,50,67,71
+1487,Wizard3775,Gryffindor,58,88,59,69
+1488,Wizard591,Slytherin,80,83,95,84
+1489,Wizard963,Ravenclaw,93,99,91,98
+1490,Wizard820,Hufflepuff,79,62,71,41
+1491,Kingsley Lupin,Ravenclaw,85,95,98,91
+1492,Wizard3511,Ravenclaw,99,89,85,99
+1493,Wizard2446,Gryffindor,65,71,50,88
+1494,Wizard1536,Ravenclaw,86,85,89,86
+1495,Wizard4062,Slytherin,79,85,95,80
+1496,Wizard2128,Gryffindor,88,89,75,72
+1497,Wulfric Hooch,Slytherin,94,72,92,72
+1498,Sirius Lupin,Hufflepuff,80,49,82,64
+1499,Wizard2014,Ravenclaw,87,92,88,97
+1500,Wizard2144,Gryffindor,75,54,88,65
+1501,Wizard3677,Hufflepuff,64,72,57,70
+1502,Wizard1957,Hufflepuff,65,63,85,82
+1503,Wizard3762,Gryffindor,82,63,73,69
+1504,Wizard1200,Ravenclaw,87,91,97,99
+1505,Wizard4058,Ravenclaw,91,90,100,99
+1506,Wizard3514,Slytherin,85,95,94,70
+1507,Remus Weasley,Slytherin,88,74,87,91
+1508,Wizard3893,Slytherin,92,70,75,82
+1509,Wizard3950,Ravenclaw,100,98,85,93
+1510,Wizard2522,Gryffindor,53,63,62,81
+1511,Helga Black,Ravenclaw,99,95,92,97
+1512,Wizard160,Hufflepuff,45,80,79,47
+1513,Helga Lupin,Gryffindor,62,75,64,78
+1514,Wizard3319,Gryffindor,74,56,89,56
+1515,Newt Malfoy,Hufflepuff,65,74,57,44
+1516,Wizard1192,Hufflepuff,67,67,70,73
+1517,Wizard1914,Hufflepuff,79,80,54,48
+1518,Wizard1671,Ravenclaw,95,85,94,89
+1519,Wizard1578,Hufflepuff,45,69,69,82
+1520,Wizard416,Gryffindor,68,63,64,58
+1521,Wizard851,Slytherin,91,93,73,76
+1522,Wizard1258,Slytherin,86,79,75,81
+1523,Wizard249,Hufflepuff,50,77,82,74
+1524,Wizard72,Ravenclaw,97,95,93,92
+1525,Wizard857,Slytherin,75,73,73,90
+1526,Wizard2094,Hufflepuff,57,75,47,62
+1527,Remus Carrow,Hufflepuff,74,42,72,51
+1528,Wizard3930,Slytherin,80,73,71,75
+1529,Wizard3021,Hufflepuff,51,80,57,50
+1530,Filius Selwyn,Hufflepuff,66,80,65,73
+1531,Wizard706,Ravenclaw,90,85,99,96
+1532,Wizard363,Gryffindor,90,69,65,62
+1533,Wizard465,Slytherin,87,84,73,95
+1534,Wizard2802,Slytherin,93,79,77,80
+1535,Wizard467,Slytherin,92,91,74,73
+1536,Wizard722,Hufflepuff,79,85,43,64
+1537,Remus Diggory,Gryffindor,72,81,78,70
+1538,Wizard2445,Gryffindor,74,70,88,64
+1539,Wizard2078,Slytherin,74,90,79,81
+1540,Wizard3733,Gryffindor,90,65,78,58
+1541,Wizard2063,Slytherin,78,93,93,74
+1542,Wizard2976,Gryffindor,83,69,71,90
+1543,Bathilda Grindelwald,Ravenclaw,88,89,100,96
+1544,Wizard3156,Ravenclaw,97,100,95,92
+1545,Wizard311,Ravenclaw,92,98,99,86
+1546,Wizard1155,Slytherin,91,95,73,84
+1547,Wizard1666,Ravenclaw,92,98,86,100
+1548,Wizard1654,Gryffindor,83,88,78,75
+1549,Wizard902,Hufflepuff,59,58,61,63
+1550,Wizard2037,Hufflepuff,48,61,60,83
+1551,Wizard304,Slytherin,70,89,79,78
+1552,Wizard2290,Slytherin,84,77,85,80
+1553,Dilys Hagrid,Hufflepuff,60,56,56,65
+1554,Wizard1548,Gryffindor,64,84,59,90
+1555,Wizard2977,Hufflepuff,48,78,44,47
+1556,Wizard3931,Ravenclaw,97,87,90,100
+1557,Wizard1733,Hufflepuff,84,42,67,56
+1558,Wizard1676,Gryffindor,70,50,71,70
+1559,Wizard1972,Ravenclaw,99,94,87,96
+1560,Wizard1662,Ravenclaw,87,97,99,88
+1561,Helga Bones,Gryffindor,65,81,78,61
+1562,Wizard3746,Slytherin,87,75,90,89
+1563,Wizard3227,Hufflepuff,78,85,65,66
+1564,Wizard2480,Hufflepuff,75,68,83,44
+1565,Wizard679,Gryffindor,89,57,50,84
+1566,Wizard2783,Ravenclaw,95,98,93,89
+1567,Sirius Crouch,Hufflepuff,85,82,82,44
+1568,Wizard2789,Ravenclaw,88,86,96,94
+1569,Wizard3293,Slytherin,84,80,87,88
+1570,Wizard3138,Hufflepuff,67,52,61,81
+1571,Bridget Tonks,Slytherin,77,70,85,87
+1572,Wizard3455,Hufflepuff,71,57,65,40
+1573,Wizard641,Hufflepuff,59,81,40,74
+1574,Wizard491,Gryffindor,88,82,80,82
+1575,Wizard339,Hufflepuff,74,51,60,69
+1576,Gellert Black,Hufflepuff,70,64,47,82
+1577,Kingsley Hooch,Ravenclaw,99,91,94,91
+1578,Wizard2973,Ravenclaw,94,100,88,94
+1579,Wizard3401,Ravenclaw,98,91,93,88
+1580,Wizard2519,Ravenclaw,95,94,92,98
+1581,Wilhelmina Selwyn,Gryffindor,72,84,52,50
+1582,Wizard1153,Gryffindor,90,70,69,82
+1583,Wizard3901,Hufflepuff,48,77,42,46
+1584,Wizard1869,Gryffindor,82,51,70,81
+1585,Wizard1469,Slytherin,73,91,84,80
+1586,Wizard2391,Hufflepuff,61,85,60,76
+1587,Wizard132,Gryffindor,59,60,80,89
+1588,Wizard2285,Slytherin,80,83,93,81
+1589,Wizard4044,Hufflepuff,41,50,61,70
+1590,Horace Malfoy,Ravenclaw,92,86,98,99
+1591,Wizard3921,Ravenclaw,96,86,85,95
+1592,Severus Greengrass,Slytherin,80,70,92,78
+1593,Wizard1438,Hufflepuff,73,40,47,76
+1594,Wizard2638,Ravenclaw,96,87,88,89
+1595,Remus Crouch,Slytherin,77,78,94,74
+1596,Wizard1592,Gryffindor,80,73,74,65
+1597,Wizard1052,Hufflepuff,85,43,61,77
+1598,Wizard3630,Hufflepuff,82,44,54,68
+1599,Wizard1209,Ravenclaw,92,94,86,88
+1600,Bellatrix Flitwick,Slytherin,89,82,86,79
+1601,Percy Bones,Ravenclaw,92,86,90,94
+1602,Wizard1305,Gryffindor,60,78,53,58
+1603,Wizard1675,Gryffindor,77,74,82,79
+1604,Wizard2908,Gryffindor,81,80,67,67
+1605,Wizard3932,Hufflepuff,72,57,62,63
+1606,Wizard1986,Gryffindor,80,51,77,68
+1607,Wizard615,Slytherin,82,76,77,77
+1608,Wizard1984,Gryffindor,58,60,89,51
+1609,Wizard3979,Gryffindor,59,78,52,60
+1610,Wizard587,Slytherin,85,89,93,91
+1611,Wizard2340,Slytherin,90,76,90,93
+1612,Wizard3605,Hufflepuff,84,75,46,85
+1613,Wizard3328,Slytherin,93,79,72,86
+1614,Wizard1247,Ravenclaw,93,93,94,99
+1615,Wizard143,Ravenclaw,90,86,96,98
+1616,Wulfric Lupin,Gryffindor,80,66,90,65
+1617,Wizard2881,Gryffindor,66,71,52,71
+1618,Wizard2858,Ravenclaw,85,92,96,88
+1619,Wizard3146,Ravenclaw,98,94,93,96
+1620,Wizard1979,Hufflepuff,69,70,71,79
+1621,Wizard2002,Ravenclaw,89,99,99,85
+1622,Wizard3063,Slytherin,92,89,89,77
+1623,Wizard2642,Gryffindor,50,80,65,63
+1624,Wizard2672,Hufflepuff,74,77,44,40
+1625,Wizard1735,Slytherin,84,80,79,84
+1626,Wizard562,Slytherin,90,75,93,76
+1627,Wizard356,Hufflepuff,52,74,76,58
+1628,Wizard2814,Hufflepuff,61,62,70,57
+1629,Wizard2966,Gryffindor,71,67,57,55
+1630,Wizard1285,Ravenclaw,90,97,99,95
+1631,Wizard2435,Ravenclaw,91,85,97,85
+1632,Wizard896,Slytherin,81,74,87,94
+1633,Wizard663,Hufflepuff,75,47,40,59
+1634,Wizard1301,Slytherin,86,80,88,93
+1635,Wizard3046,Slytherin,79,79,85,91
+1636,Wizard3036,Slytherin,88,86,74,76
+1637,Wizard2137,Hufflepuff,48,74,70,82
+1638,Wizard552,Hufflepuff,40,76,55,65
+1639,Wizard2683,Gryffindor,79,77,88,70
+1640,Wizard832,Hufflepuff,54,73,44,67
+1641,Wizard1246,Hufflepuff,71,73,54,45
+1642,Wizard3386,Gryffindor,65,66,86,85
+1643,Wizard3012,Ravenclaw,89,92,97,85
+1644,Wizard2329,Hufflepuff,70,48,75,50
+1645,Wizard1403,Gryffindor,57,53,51,87
+1646,Wizard69,Gryffindor,62,51,58,74
+1647,Wizard3748,Ravenclaw,99,85,94,89
+1648,Wizard3159,Hufflepuff,58,63,66,85
+1649,Wizard1995,Gryffindor,59,74,59,66
+1650,Wizard1211,Slytherin,89,76,77,95
+1651,Wizard2045,Gryffindor,68,85,88,78
+1652,Wizard3548,Hufflepuff,76,55,41,53
+1653,Gellert Parkinson,Hufflepuff,82,65,85,85
+1654,Wizard1249,Gryffindor,69,73,55,57
+1655,Minerva Carrow,Gryffindor,69,78,89,62
+1656,Wizard1786,Hufflepuff,67,81,56,55
+1657,Wizard2222,Ravenclaw,86,98,90,89
+1658,Wizard2557,Slytherin,77,85,92,89
+1659,Wizard2951,Hufflepuff,64,49,84,78
+1660,Wizard3460,Slytherin,81,76,95,91
+1661,Wizard3755,Ravenclaw,95,85,92,99
+1662,Wizard3291,Hufflepuff,53,82,68,54
+1663,Arthur Bones,Ravenclaw,96,93,99,95
+1664,Wizard1122,Gryffindor,53,79,70,68
+1665,Wizard1577,Hufflepuff,47,82,47,57
+1666,Wizard3436,Slytherin,77,95,77,82
+1667,Wizard2253,Slytherin,93,88,82,95
+1668,Wizard1,Ravenclaw,93,95,88,96
+1669,Percy Lovegood,Ravenclaw,91,85,92,85
+1670,Wizard751,Slytherin,86,72,72,74
+1671,Wulfric Grindelwald,Slytherin,73,86,76,94
+1672,Wizard2406,Ravenclaw,89,96,92,92
+1673,Wizard1734,Hufflepuff,61,51,64,42
+1674,Wizard2511,Gryffindor,60,79,86,52
+1675,Tom Snape,Gryffindor,65,79,82,79
+1676,Minerva Diggory,Gryffindor,79,53,82,72
+1677,Wizard135,Gryffindor,74,62,85,83
+1678,Wizard1059,Gryffindor,89,56,62,77
+1679,Wizard79,Slytherin,75,88,76,95
+1680,Wizard3822,Slytherin,93,75,71,77
+1681,Wizard3463,Hufflepuff,41,56,51,83
+1682,Horace Lestrange,Slytherin,92,89,83,90
+1683,Wizard1250,Slytherin,91,89,84,86
+1684,Wizard638,Gryffindor,68,86,79,56
+1685,Wizard719,Gryffindor,80,63,67,87
+1686,Wizard2831,Hufflepuff,80,84,51,50
+1687,Wizard2730,Ravenclaw,88,86,97,94
+1688,Wizard3197,Slytherin,74,83,85,79
+1689,Wizard302,Slytherin,75,73,90,74
+1690,Leta Yaxley,Gryffindor,62,52,63,78
+1691,Wizard1880,Slytherin,77,89,80,95
+1692,Wizard773,Ravenclaw,90,93,98,96
+1693,Hepzibah Parkinson,Gryffindor,51,82,60,52
+1694,Wizard1963,Hufflepuff,67,72,75,67
+1695,Wizard429,Slytherin,81,76,92,94
+1696,Wizard1855,Gryffindor,77,85,59,70
+1697,Wizard818,Ravenclaw,85,96,87,96
+1698,Wizard2568,Hufflepuff,80,77,84,64
+1699,Wizard651,Slytherin,70,94,87,90
+1700,Wizard3193,Ravenclaw,100,94,87,99
+1701,Wizard1185,Ravenclaw,97,99,96,87
+1702,Wizard2197,Gryffindor,70,78,79,56
+1703,Wizard2311,Slytherin,92,90,81,82
+1704,Wizard2184,Gryffindor,83,76,50,67
+1705,Wizard158,Hufflepuff,49,67,40,58
+1706,Wizard1362,Hufflepuff,46,77,62,52
+1707,Wizard886,Hufflepuff,76,43,67,47
+1708,Wizard3062,Hufflepuff,54,54,42,48
+1709,Wizard1022,Ravenclaw,100,96,85,86
+1710,Wizard3417,Gryffindor,89,60,53,76
+1711,Wizard3646,Slytherin,94,80,85,72
+1712,Wizard3973,Slytherin,85,75,85,86
+1713,Wizard3995,Slytherin,87,89,83,90
+1714,Wizard1927,Hufflepuff,65,80,68,55
+1715,Wizard2174,Hufflepuff,49,75,52,51
+1716,Wizard978,Hufflepuff,56,80,83,64
+1717,Helga Tonks,Gryffindor,53,56,78,76
+1718,Wizard947,Ravenclaw,87,100,86,87
+1719,Wizard2922,Gryffindor,59,62,79,87
+1720,Bellatrix Lupin,Hufflepuff,66,61,45,74
+1721,Wizard3889,Gryffindor,63,57,80,86
+1722,Wizard1527,Ravenclaw,87,96,98,85
+1723,Wizard1587,Hufflepuff,49,69,85,69
+1724,Wizard2188,Ravenclaw,86,94,98,85
+1725,Wizard3882,Slytherin,86,87,93,80
+1726,Wizard1257,Ravenclaw,90,97,95,88
+1727,Wizard236,Gryffindor,51,88,57,58
+1728,Wizard565,Slytherin,89,70,93,87
+1729,Wizard367,Hufflepuff,66,62,57,64
+1730,Wizard792,Hufflepuff,63,58,46,41
+1731,Wizard2601,Gryffindor,78,60,85,59
+1732,Wizard2852,Gryffindor,67,66,73,72
+1733,Wizard1233,Hufflepuff,59,62,45,44
+1734,Wizard3744,Ravenclaw,88,97,87,94
+1735,Wizard2453,Slytherin,81,75,75,88
+1736,Wizard345,Ravenclaw,92,96,86,86
+1737,Wizard1681,Hufflepuff,46,40,41,69
+1738,Wizard3553,Gryffindor,67,87,87,80
+1739,Wizard327,Ravenclaw,91,99,91,88
+1740,Albus Crabbe,Ravenclaw,87,92,90,91
+1741,Arthur Flitwick,Slytherin,72,91,80,76
+1742,Gellert Crouch,Ravenclaw,94,96,96,98
+1743,Wizard784,Hufflepuff,79,78,60,56
+1744,Sirius Bones,Ravenclaw,87,98,87,92
+1745,Filius Slughorn,Slytherin,92,92,89,94
+1746,Wizard3874,Gryffindor,52,74,69,57
+1747,Wizard4061,Hufflepuff,80,85,66,60
+1748,Wizard1277,Slytherin,94,82,90,89
+1749,Godric Slughorn,Gryffindor,66,66,57,70
+1750,Wizard2266,Gryffindor,85,67,84,66
+1751,Wizard1334,Slytherin,82,76,84,81
+1752,Helga Hooch,Slytherin,86,81,91,73
+1753,Wizard219,Gryffindor,58,84,77,70
+1754,Wizard3296,Slytherin,74,91,71,85
+1755,Wizard2298,Slytherin,75,81,77,94
+1756,Wizard91,Gryffindor,61,85,58,77
+1757,Wizard949,Gryffindor,86,67,87,51
+1758,Wizard3767,Hufflepuff,63,76,82,41
+1759,Wizard420,Hufflepuff,81,42,56,59
+1760,Wizard115,Gryffindor,69,74,52,71
+1761,Wizard3144,Gryffindor,84,88,88,51
+1762,Wizard352,Ravenclaw,91,100,89,91
+1763,Wizard1966,Gryffindor,57,89,89,50
+1764,Rowena Parkinson,Ravenclaw,99,93,94,98
+1765,Wizard2402,Hufflepuff,51,74,55,71
+1766,Wizard3307,Gryffindor,89,50,77,69
+1767,Wizard839,Hufflepuff,67,84,49,66
+1768,Lucius Snape,Slytherin,75,79,70,70
+1769,Wizard1565,Slytherin,93,86,72,94
+1770,Wizard3239,Gryffindor,70,85,75,78
+1771,Kingsley Parkinson,Slytherin,72,79,93,90
+1772,Wizard2040,Gryffindor,53,73,55,58
+1773,Bridget Hagrid,Ravenclaw,85,99,87,93
+1774,Wizard3163,Ravenclaw,96,85,91,96
+1775,Wizard3816,Ravenclaw,99,86,87,93
+1776,Wizard1208,Slytherin,85,88,83,71
+1777,Wizard1261,Ravenclaw,86,91,91,100
+1778,Wizard2486,Gryffindor,58,71,78,83
+1779,Wizard1343,Hufflepuff,58,52,44,57
+1780,Bellatrix Carrow,Gryffindor,75,89,75,54
+1781,Bridget Zabini,Hufflepuff,85,72,77,76
+1782,Wizard1948,Ravenclaw,100,94,100,90
+1783,Arthur Shacklebolt,Ravenclaw,92,92,89,99
+1784,Wizard1074,Hufflepuff,55,76,61,53
+1785,Theseus Malfoy,Hufflepuff,79,43,47,83
+1786,Wizard822,Gryffindor,73,85,65,55
+1787,Wizard2967,Ravenclaw,88,87,100,92
+1788,Wizard3212,Slytherin,81,94,83,76
+1789,Wizard2640,Gryffindor,62,83,87,61
+1790,Wizard1219,Hufflepuff,64,52,82,51
+1791,Wizard2327,Gryffindor,51,53,79,54
+1792,Wizard765,Gryffindor,59,50,56,51
+1793,Arthur Selwyn,Gryffindor,71,74,80,60
+1794,Wizard1689,Hufflepuff,53,71,83,76
+1795,Wizard268,Ravenclaw,100,93,91,86
+1796,Wizard1508,Gryffindor,82,72,84,50
+1797,Wizard1459,Gryffindor,63,51,53,65
+1798,Wizard648,Ravenclaw,94,95,92,90
+1799,Wizard1213,Hufflepuff,71,64,49,78
+1800,Wizard118,Hufflepuff,57,56,82,60
+1801,Wizard141,Slytherin,82,84,94,83
+1802,Wizard1549,Slytherin,79,88,73,90
+1803,Wizard2524,Hufflepuff,81,70,85,80
+1804,Remus Dumbledore,Hufflepuff,59,75,42,83
+1805,Wizard778,Gryffindor,62,54,58,62
+1806,Wizard525,Gryffindor,65,64,66,65
+1807,Wizard3599,Gryffindor,51,72,52,75
+1808,Wizard231,Ravenclaw,97,95,89,85
+1809,Wizard2625,Hufflepuff,67,69,71,49
+1810,Wizard3734,Gryffindor,57,75,53,68
+1811,Wizard174,Slytherin,70,82,84,95
+1812,Wizard1149,Hufflepuff,40,68,63,58
+1813,Wizard2185,Hufflepuff,72,55,77,49
+1814,Wizard2553,Hufflepuff,43,77,42,53
+1815,Albus Dumbledore,Slytherin,86,75,88,89
+1816,Wizard1557,Hufflepuff,48,65,54,43
+1817,Wizard1547,Ravenclaw,94,95,90,98
+1818,Wizard1104,Gryffindor,79,61,81,82
+1819,Wizard1279,Gryffindor,61,52,72,81
+1820,Leta Hagrid,Ravenclaw,87,97,96,86
+1821,Wizard460,Ravenclaw,91,97,95,98
+1822,Wizard786,Gryffindor,77,53,83,83
+1823,Wizard3228,Ravenclaw,96,94,97,90
+1824,Wizard3641,Hufflepuff,63,41,69,66
+1825,Wizard3676,Ravenclaw,89,95,100,90
+1826,Wizard2763,Ravenclaw,89,96,98,92
+1827,Wizard2791,Gryffindor,64,56,64,56
+1828,Wizard1133,Gryffindor,56,68,52,52
+1829,Wizard3845,Gryffindor,64,82,51,76
+1830,Wizard2297,Gryffindor,87,58,56,63
+1831,Salazar Weasley,Hufflepuff,72,43,41,82
+1832,Wizard2064,Hufflepuff,81,47,76,69
+1833,Wizard1276,Gryffindor,80,76,78,72
+1834,Wizard809,Ravenclaw,87,85,100,98
+1835,Wizard166,Hufflepuff,68,59,82,46
+1836,Wizard344,Slytherin,87,80,70,86
+1837,Wizard1743,Gryffindor,51,62,57,52
+1838,Wizard757,Slytherin,76,74,95,88
+1839,Wizard2820,Slytherin,82,78,75,76
+1840,Wizard1196,Slytherin,87,76,72,95
+1841,Molly Crouch,Slytherin,83,94,85,74
+1842,Wizard3701,Slytherin,87,83,82,71
+1843,Wizard496,Hufflepuff,61,80,61,61
+1844,Rowena Hooch,Slytherin,80,91,94,82
+1845,Wizard1484,Slytherin,90,85,80,80
+1846,Wizard535,Ravenclaw,91,100,98,94
+1847,Wizard1725,Gryffindor,74,59,82,64
+1848,Wizard2129,Hufflepuff,55,81,59,58
+1849,Wizard1528,Slytherin,86,75,77,75
+1850,Wizard2338,Hufflepuff,56,68,51,56
+1851,Godric Yaxley,Slytherin,88,70,83,70
+1852,Wizard977,Slytherin,89,71,84,70
+1853,Wizard297,Gryffindor,52,57,70,83
+1854,Wizard2955,Gryffindor,87,54,82,57
+1855,Wizard341,Gryffindor,63,85,77,71
+1856,Wizard2586,Ravenclaw,86,91,93,94
+1857,Wizard1152,Slytherin,81,75,70,88
+1858,Wizard4049,Ravenclaw,93,89,91,100
+1859,Wizard3446,Ravenclaw,91,94,99,99
+1860,Wizard2093,Slytherin,89,80,92,80
+1861,Wizard1038,Gryffindor,59,76,71,54
+1862,Wizard3001,Ravenclaw,90,96,90,94
+1863,Wizard1073,Slytherin,89,78,84,92
+1864,Wizard1042,Slytherin,78,85,72,80
+1865,Wizard1533,Gryffindor,76,53,59,68
+1866,Wizard2006,Gryffindor,60,61,54,50
+1867,Wizard991,Ravenclaw,94,88,92,86
+1868,Wizard937,Hufflepuff,45,74,83,75
+1869,Wizard1338,Gryffindor,68,75,86,84
+1870,Wizard1366,Hufflepuff,41,45,52,78
+1871,Wizard1375,Gryffindor,64,64,52,58
+1872,Wizard1488,Slytherin,85,90,74,71
+1873,Wizard3565,Ravenclaw,95,98,85,96
+1874,Wizard300,Gryffindor,61,58,79,60
+1875,Wizard2543,Slytherin,81,92,85,95
+1876,Wizard3891,Gryffindor,69,85,53,89
+1877,Salazar Bones,Slytherin,82,75,90,75
+1878,Wizard3399,Gryffindor,52,87,81,69
+1879,Molly Bones,Hufflepuff,54,56,59,54
+1880,Wizard1048,Ravenclaw,93,85,94,90
+1881,Wizard3649,Hufflepuff,55,44,41,62
+1882,Wizard1427,Ravenclaw,86,91,85,99
+1883,Wizard2741,Gryffindor,51,69,90,50
+1884,Wizard2035,Ravenclaw,89,100,97,95
+1885,Wizard3631,Gryffindor,72,76,74,52
+1886,Wizard374,Slytherin,77,82,85,82
+1887,Wizard321,Slytherin,79,80,70,83
+1888,Wizard2186,Gryffindor,58,66,90,74
+1889,Wizard3839,Hufflepuff,68,81,49,84
+1890,Wizard2147,Ravenclaw,89,96,99,97
+1891,Wizard3951,Slytherin,80,75,87,70
+1892,Wizard2470,Ravenclaw,90,95,98,96
+1893,Wizard3101,Ravenclaw,89,86,99,96
+1894,Wizard1596,Slytherin,95,86,86,95
+1895,Wizard1747,Slytherin,90,94,92,91
+1896,Wizard3377,Ravenclaw,99,97,100,100
+1897,Wizard4074,Hufflepuff,85,60,78,60
+1898,Wizard3466,Gryffindor,62,71,84,76
+1899,Wizard2939,Gryffindor,89,51,57,59
+1900,Wizard24,Ravenclaw,86,92,97,87
+1901,Wizard1630,Slytherin,91,85,71,89
+1902,Wizard2770,Ravenclaw,97,86,100,100
+1903,Wizard2342,Ravenclaw,93,93,95,99
+1904,Wizard2675,Gryffindor,85,74,81,87
+1905,Molly Slughorn,Ravenclaw,91,87,97,89
+1906,Wizard399,Ravenclaw,94,92,97,93
+1907,Wizard2243,Ravenclaw,97,86,92,95
+1908,Wizard3809,Gryffindor,69,65,84,79
+1909,Percy Diggory,Ravenclaw,94,85,88,85
+1910,Wizard2580,Gryffindor,60,82,85,66
+1911,Wizard3367,Ravenclaw,96,95,91,89
+1912,Wizard4067,Ravenclaw,98,90,85,86
+1913,Bathilda Diggory,Gryffindor,79,68,80,59
+1914,Wizard3926,Ravenclaw,98,91,93,87
+1915,Wizard519,Slytherin,86,77,73,94
+1916,Wizard4024,Gryffindor,74,90,86,77
+1917,Wizard623,Slytherin,88,91,88,79
+1918,Wizard2912,Slytherin,71,78,75,76
+1919,Wizard1637,Ravenclaw,95,93,86,86
+1920,Wizard827,Gryffindor,60,55,58,65
+1921,Wizard2523,Ravenclaw,87,90,98,90
+1922,Wizard4073,Gryffindor,74,50,58,54
+1923,Wizard252,Ravenclaw,88,85,96,93
+1924,Wulfric Black,Gryffindor,81,74,50,87
+1925,Wizard474,Hufflepuff,55,67,61,77
+1926,Wizard444,Hufflepuff,77,83,47,49
+1927,Wizard1568,Hufflepuff,42,44,71,49
+1928,Theseus Grindelwald,Gryffindor,74,63,81,68
+1929,Wizard1172,Slytherin,92,86,86,89
+1930,Percy Yaxley,Gryffindor,54,51,60,87
+1931,Wizard2380,Hufflepuff,64,49,51,71
+1932,Tom Dumbledore,Ravenclaw,88,95,93,85
+1933,Wizard1210,Ravenclaw,85,86,90,89
+1934,Wizard3268,Gryffindor,68,77,79,84
+1935,Horace Grindelwald,Slytherin,95,91,89,71
+1936,Wizard3918,Slytherin,86,70,91,86
+1937,Rubeus Lupin,Hufflepuff,50,62,53,71
+1938,Wizard2634,Ravenclaw,90,94,98,87
+1939,Wizard156,Hufflepuff,74,47,70,65
+1940,Wizard2606,Gryffindor,51,71,57,62
+1941,Wizard1933,Ravenclaw,99,89,94,95
+1942,Wizard3722,Gryffindor,50,87,51,70
+1943,Wizard945,Gryffindor,75,51,61,74
+1944,Wizard254,Slytherin,78,92,95,79
+1945,Wizard968,Gryffindor,65,90,62,89
+1946,Wizard2684,Gryffindor,64,68,71,71
+1947,Wizard894,Slytherin,83,79,72,77
+1948,Wizard1959,Gryffindor,65,51,64,52
+1949,Wizard1829,Gryffindor,63,77,80,58
+1950,Wizard1483,Ravenclaw,99,94,86,98
+1951,Wizard3331,Hufflepuff,55,65,62,77
+1952,Wizard3732,Ravenclaw,87,100,92,94
+1953,Wizard3779,Gryffindor,68,79,56,90
+1954,Wulfric Lestrange,Ravenclaw,88,91,94,99
+1955,Wizard295,Hufflepuff,43,62,61,48
+1956,Wizard164,Ravenclaw,85,90,100,100
+1957,Wizard842,Hufflepuff,84,65,68,78
+1958,Wizard1961,Ravenclaw,95,91,97,89
+1959,Wizard1298,Slytherin,70,92,95,92
+1960,Wilhelmina Weasley,Ravenclaw,95,87,93,95
+1961,Wizard508,Hufflepuff,53,71,84,54
+1962,Wizard3659,Hufflepuff,60,53,43,73
+1963,Wizard2344,Slytherin,85,90,87,95
+1964,Wizard2932,Slytherin,87,71,94,83
+1965,Wizard542,Gryffindor,63,90,67,61
+1966,Wilhelmina Grindelwald,Slytherin,75,79,94,70
+1967,Wizard3607,Gryffindor,50,60,56,73
+1968,Wizard965,Hufflepuff,53,84,83,42
+1969,Wizard936,Ravenclaw,85,97,98,91
+1970,Wizard2857,Hufflepuff,46,61,78,49
+1971,Wizard860,Slytherin,93,80,73,73
+1972,Wizard823,Ravenclaw,97,95,89,90
+1973,Wizard3770,Gryffindor,88,61,80,50
+1974,Wizard411,Hufflepuff,54,55,42,46
+1975,Wizard3174,Ravenclaw,94,85,99,90
+1976,Wizard932,Ravenclaw,93,97,97,87
+1977,Wizard2953,Ravenclaw,91,98,93,93
+1978,Wizard1896,Hufflepuff,40,49,70,65
+1979,Dilys Flitwick,Slytherin,72,95,82,79
+1980,Wizard2878,Slytherin,95,88,76,71
+1981,Rowena Dumbledore,Gryffindor,73,58,72,72
+1982,Wizard1567,Slytherin,91,93,74,81
+1983,Wizard1487,Gryffindor,71,57,90,81
+1984,Wizard2189,Hufflepuff,55,52,83,71
+1985,Wizard2026,Slytherin,95,71,85,88
+1986,Wizard2692,Gryffindor,90,65,85,60
+1987,Wizard2817,Ravenclaw,86,88,85,100
+1988,Wizard4096,Ravenclaw,96,85,88,86
+1989,Wizard2499,Slytherin,88,92,88,89
+1990,Wizard3260,Gryffindor,50,63,84,85
+1991,Albus Peverell,Ravenclaw,96,99,88,87
+1992,Wizard151,Slytherin,74,81,91,88
+1993,Wizard619,Hufflepuff,50,85,53,44
+1994,Wizard3852,Hufflepuff,79,68,66,46
+1995,Wizard2181,Ravenclaw,97,85,93,98
+1996,Wizard3029,Ravenclaw,85,89,86,87
+1997,Wizard1383,Gryffindor,87,60,89,78
+1998,Wizard777,Ravenclaw,93,97,98,98
+1999,Minerva Lovegood,Gryffindor,55,81,65,77
+2000,Wizard3038,Hufflepuff,75,56,56,47
+2001,Wizard2631,Slytherin,90,92,85,89
+2002,Wizard1179,Gryffindor,63,52,66,70
+2003,Wizard3924,Gryffindor,59,77,84,61
+2004,Wizard1849,Hufflepuff,73,41,81,49
+2005,Severus Diggory,Ravenclaw,92,93,91,95
+2006,Helga Flitwick,Gryffindor,80,79,88,55
+2007,Wizard1767,Gryffindor,56,57,67,52
+2008,Wizard4099,Hufflepuff,56,80,57,76
+2009,Wizard1856,Slytherin,81,70,71,70
+2010,Wizard3043,Gryffindor,59,62,86,83
+2011,Wizard390,Gryffindor,88,74,56,53
+2012,Wizard2599,Hufflepuff,57,53,52,47
+2013,Wizard1827,Slytherin,85,76,80,71
+2014,Wizard3658,Hufflepuff,71,45,82,74
+2015,Wizard3679,Hufflepuff,53,55,66,77
+2016,Wizard761,Ravenclaw,92,92,95,86
+2017,Wizard3709,Slytherin,91,80,85,74
+2018,Wizard251,Slytherin,94,80,85,72
+2019,Theseus Slughorn,Gryffindor,61,64,69,81
+2020,Wizard3703,Slytherin,72,80,75,93
+2021,Wizard1337,Ravenclaw,99,94,86,97
+2022,Wizard1814,Hufflepuff,73,58,59,56
+2023,Wizard1846,Slytherin,94,86,81,74
+2024,Wizard556,Slytherin,89,71,84,72
+2025,Sirius Shacklebolt,Hufflepuff,60,52,49,83
+2026,Wizard3662,Hufflepuff,42,41,54,75
+2027,Wizard205,Gryffindor,73,59,61,54
+2028,Filius Hooch,Slytherin,90,79,86,87
+2029,Wizard3838,Hufflepuff,83,48,57,48
+2030,Wizard924,Ravenclaw,100,96,95,87
+2031,Bridget Selwyn,Slytherin,75,77,75,88
+2032,Wizard243,Slytherin,84,91,79,72
+2033,Wizard1263,Gryffindor,67,77,90,50
+2034,Wizard2085,Gryffindor,56,77,70,80
+2035,Molly Peverell,Slytherin,83,93,85,83
+2036,Wizard798,Slytherin,89,71,81,82
+2037,Wizard2576,Ravenclaw,94,86,85,96
+2038,Percy Pucey,Ravenclaw,91,93,85,97
+2039,Wizard1746,Gryffindor,88,68,51,83
+2040,Wizard224,Ravenclaw,99,94,89,91
+2041,Wizard3372,Slytherin,93,73,95,92
+2042,Wizard3015,Hufflepuff,74,74,42,64
+2043,Lucius McGonagall,Ravenclaw,93,99,89,89
+2044,Wizard2198,Hufflepuff,58,42,76,67
+2045,Wizard3771,Hufflepuff,43,84,69,84
+2046,Lucius Lestrange,Slytherin,86,70,91,75
+2047,Wizard1599,Gryffindor,62,90,58,84
+2048,Wizard194,Hufflepuff,52,65,61,70
+2049,Wizard47,Hufflepuff,84,82,75,72
+2050,Helga Shacklebolt,Slytherin,84,79,77,89
+2051,Wizard2532,Slytherin,92,91,80,95
+2052,Wizard247,Gryffindor,80,85,80,78
+2053,Wizard1148,Slytherin,87,79,78,89
+2054,Godric McGonagall,Slytherin,90,71,88,83
+2055,Wizard2584,Ravenclaw,91,92,99,89
+2056,Wizard1897,Slytherin,91,77,75,78
+2057,Wizard362,Slytherin,77,83,87,86
+2058,Godric Riddle,Slytherin,92,84,74,81
+2059,Wizard2437,Ravenclaw,94,91,91,88
+2060,Wizard1330,Gryffindor,82,57,83,85
+2061,Wizard3841,Hufflepuff,58,42,49,73
+2062,Wizard3287,Hufflepuff,63,74,44,74
+2063,Wizard1156,Slytherin,94,73,93,81
+2064,Wizard4089,Hufflepuff,80,46,73,57
+2065,Wizard3541,Slytherin,86,78,78,70
+2066,Wizard1371,Gryffindor,70,84,67,80
+2067,Bathilda Tonks,Slytherin,92,88,77,81
+2068,Wizard2041,Hufflepuff,77,83,71,58
+2069,Percy Lestrange,Gryffindor,63,57,65,69
+2070,Bathilda Crouch,Ravenclaw,87,87,86,90
+2071,Wizard4025,Gryffindor,64,90,79,50
+2072,Wizard2245,Hufflepuff,83,57,81,71
+2073,Wizard485,Gryffindor,58,73,85,68
+2074,Wizard1370,Hufflepuff,79,54,66,67
+2075,Tom Flitwick,Ravenclaw,91,99,98,85
+2076,Rowena Weasley,Gryffindor,83,64,77,50
+2077,Wizard2633,Slytherin,75,87,81,74
+2078,Wizard428,Gryffindor,75,86,71,59
+2079,Wizard907,Slytherin,78,95,79,84
+2080,Wizard1300,Hufflepuff,47,54,78,53
+2081,Salazar Goyle,Ravenclaw,85,88,92,85
+2082,Theseus Diggory,Gryffindor,81,57,90,67
+2083,Wizard2903,Ravenclaw,97,86,93,85
+2084,Wizard2910,Hufflepuff,83,50,67,83
+2085,Wizard2949,Slytherin,80,81,77,95
+2086,Theseus Peverell,Slytherin,81,91,86,79
+2087,Wizard1441,Gryffindor,62,59,75,76
+2088,Bathilda Greengrass,Hufflepuff,83,58,72,64
+2089,Wizard970,Ravenclaw,100,100,96,86
+2090,Wizard1014,Slytherin,82,82,94,90
+2091,Wizard646,Gryffindor,76,74,67,57
+2092,Wizard1773,Ravenclaw,96,95,91,91
+2093,Wizard3563,Ravenclaw,98,87,93,94
+2094,Percy Crouch,Slytherin,78,74,89,71
+2095,Wizard2563,Hufflepuff,57,40,77,48
+2096,Wizard107,Slytherin,95,82,95,87
+2097,Wizard514,Hufflepuff,83,43,45,74
+2098,Wizard2468,Hufflepuff,52,64,49,68
+2099,Wizard3484,Hufflepuff,59,47,61,53
+2100,Wizard184,Hufflepuff,74,54,62,44
+2101,Wizard3379,Ravenclaw,91,99,92,89
+2102,Wizard1304,Hufflepuff,81,69,67,45
+2103,Wizard2873,Gryffindor,59,67,72,79
+2104,Wizard459,Slytherin,81,92,74,91
+2105,Nymphadora Bones,Gryffindor,80,64,55,51
+2106,Wizard841,Hufflepuff,75,74,67,80
+2107,Wizard2978,Hufflepuff,59,60,64,67
+2108,Rubeus Dumbledore,Slytherin,77,73,84,93
+2109,Wizard3968,Slytherin,74,84,84,85
+2110,Bathilda Pucey,Hufflepuff,79,66,66,62
+2111,Wizard1136,Slytherin,70,92,83,78
+2112,Wizard1636,Hufflepuff,68,47,82,43
+2113,Wizard3566,Gryffindor,76,70,79,56
+2114,Rubeus Greengrass,Gryffindor,74,68,86,58
+2115,Wizard815,Ravenclaw,97,97,93,96
+2116,Wizard3284,Ravenclaw,98,90,94,93
+2117,Wizard728,Hufflepuff,67,52,41,67
+2118,Wizard611,Ravenclaw,96,94,96,89
+2119,Wizard1075,Slytherin,86,78,93,80
+2120,Rowena Snape,Ravenclaw,100,93,100,99
+2121,Wizard1357,Slytherin,75,82,78,78
+2122,Wizard3106,Hufflepuff,81,70,81,80
+2123,Rubeus Diggory,Gryffindor,57,87,52,71
+2124,Wizard1965,Ravenclaw,93,91,89,97
+2125,Wizard313,Slytherin,77,88,74,77
+2126,Percy Carrow,Hufflepuff,62,64,80,40
+2127,Wizard1985,Gryffindor,88,51,75,72
+2128,Wilhelmina Dumbledore,Hufflepuff,41,42,60,70
+2129,Wizard1564,Gryffindor,87,51,67,85
+2130,Kingsley Crabbe,Ravenclaw,88,98,90,93
+2131,Filius Lovegood,Gryffindor,90,59,55,73
+2132,Wizard147,Gryffindor,68,72,90,60
+2133,Wizard2703,Hufflepuff,82,74,78,76
+2134,Theseus Pucey,Slytherin,86,71,70,89
+2135,Rubeus Crouch,Slytherin,85,85,83,72
+2136,Wizard840,Hufflepuff,67,66,80,40
+2137,Wizard1408,Hufflepuff,67,85,42,46
+2138,Wizard338,Hufflepuff,71,48,76,55
+2139,Wizard1716,Slytherin,72,84,89,95
+2140,Wizard2160,Gryffindor,73,60,82,73
+2141,Wizard2461,Hufflepuff,67,71,71,53
+2142,Wizard3128,Hufflepuff,64,68,75,54
+2143,Wizard110,Hufflepuff,50,61,66,40
+2144,Wizard3572,Slytherin,84,74,93,71
+2145,Wizard274,Ravenclaw,93,98,88,85
+2146,Salazar Carrow,Slytherin,82,91,77,78
+2147,Helga Crabbe,Hufflepuff,44,80,65,57
+2148,Wizard1318,Ravenclaw,89,85,88,94
+2149,Wizard3317,Ravenclaw,98,94,100,93
+2150,Wizard3041,Gryffindor,54,56,60,54
+2151,Wizard2936,Gryffindor,66,69,57,90
+2152,Wizard2417,Slytherin,74,87,85,93
+2153,Wizard3886,Gryffindor,76,62,57,62
+2154,Wizard2000,Hufflepuff,57,63,67,53
+2155,Wizard3352,Gryffindor,62,81,59,63
+2156,Wizard3683,Gryffindor,60,75,64,66
+2157,Wizard3904,Ravenclaw,96,93,88,99
+2158,Wizard1679,Hufflepuff,41,79,76,53
+2159,Wizard3131,Slytherin,95,73,80,93
+2160,Wizard1844,Gryffindor,73,70,59,90
+2161,Wizard1791,Ravenclaw,97,93,90,88
+2162,Rubeus Hagrid,Hufflepuff,71,83,56,82
+2163,Wizard152,Slytherin,89,79,75,94
+2164,Wizard2547,Slytherin,75,71,77,77
+2165,Wizard2894,Gryffindor,65,77,57,61
+2166,Wizard12,Ravenclaw,91,94,88,90
+2167,Wizard1631,Slytherin,87,88,71,82
+2168,Wizard3883,Ravenclaw,99,89,89,91
+2169,Wizard2650,Ravenclaw,98,85,97,100
+2170,Wizard16,Slytherin,94,89,80,78
+2171,Filius Flitwick,Ravenclaw,95,94,90,87
+2172,Wizard294,Gryffindor,77,76,85,85
+2173,Wizard2167,Ravenclaw,97,94,98,89
+2174,Bridget Black,Slytherin,76,80,76,84
+2175,Wizard4038,Hufflepuff,85,79,60,55
+2176,Leta Carrow,Gryffindor,64,61,62,51
+2177,Wizard3009,Slytherin,84,86,81,75
+2178,Wizard128,Ravenclaw,88,98,98,98
+2179,Dilys Peverell,Gryffindor,63,84,85,71
+2180,Wizard2632,Hufflepuff,45,65,44,70
+2181,Wizard3351,Ravenclaw,88,88,86,92
+2182,Wizard2968,Gryffindor,73,68,67,57
+2183,Wizard1384,Slytherin,86,83,74,92
+2184,Wizard159,Ravenclaw,90,88,86,95
+2185,Wizard628,Hufflepuff,70,60,44,58
+2186,Horace Diggory,Ravenclaw,87,91,99,87
+2187,Wizard3862,Gryffindor,76,83,60,57
+2188,Wizard3191,Slytherin,72,86,84,72
+2189,Wizard1830,Hufflepuff,66,78,49,62
+2190,Wizard2574,Hufflepuff,64,60,71,72
+2191,Wizard2031,Gryffindor,50,72,82,74
+2192,Wizard2135,Hufflepuff,45,46,41,69
+2193,Wizard1962,Ravenclaw,94,92,92,96
+2194,Wizard3432,Gryffindor,50,76,74,86
+2195,Newt Black,Ravenclaw,85,85,99,91
+2196,Wizard2835,Ravenclaw,94,85,87,97
+2197,Newt Lovegood,Slytherin,87,79,88,88
+2198,Wizard3837,Ravenclaw,92,99,97,91
+2199,Wizard1785,Slytherin,72,92,83,83
+2200,Rowena Slughorn,Hufflepuff,46,83,77,77
+2201,Wizard1150,Slytherin,82,78,94,77
+2202,Wizard2577,Gryffindor,62,89,78,75
+2203,Wizard3341,Ravenclaw,99,89,95,98
+2204,Wizard50,Hufflepuff,76,61,46,85
+2205,Wizard1792,Slytherin,74,80,85,87
+2206,Molly Yaxley,Ravenclaw,93,85,87,95
+2207,Wizard3697,Ravenclaw,87,92,89,93
+2208,Wizard1243,Hufflepuff,58,72,54,65
+2209,Wizard2299,Ravenclaw,94,91,100,92
+2210,Wizard1803,Ravenclaw,85,90,87,87
+2211,Wizard881,Ravenclaw,97,94,96,90
+2212,Wizard2229,Hufflepuff,58,71,71,79
+2213,Wizard3398,Slytherin,73,85,92,70
+2214,Wizard882,Hufflepuff,50,42,76,56
+2215,Wizard733,Ravenclaw,86,87,92,98
+2216,Bellatrix Hooch,Ravenclaw,86,88,100,97
+2217,Wizard967,Hufflepuff,82,70,84,66
+2218,Wizard2072,Hufflepuff,62,48,70,42
+2219,Wizard2687,Ravenclaw,92,97,95,95
+2220,Wizard2382,Ravenclaw,87,95,90,90
+2221,Wizard1353,Ravenclaw,100,86,97,96
+2222,Wizard325,Hufflepuff,64,66,73,75
+2223,Wizard1622,Slytherin,80,74,83,82
+2224,Wizard3525,Hufflepuff,59,70,50,57
+2225,Wizard2581,Slytherin,76,78,93,81
+2226,Wizard145,Ravenclaw,97,100,97,93
+2227,Wizard1082,Hufflepuff,54,77,47,53
+2228,Wizard3023,Hufflepuff,78,43,84,58
+2229,Wilhelmina Slughorn,Hufflepuff,49,60,47,57
+2230,Hepzibah Pucey,Ravenclaw,88,92,98,97
+2231,Wizard1428,Ravenclaw,98,89,94,93
+2232,Wizard2919,Ravenclaw,89,96,92,100
+2233,Wizard739,Hufflepuff,49,61,68,64
+2234,Wizard498,Hufflepuff,52,40,53,82
+2235,Wizard3158,Gryffindor,86,70,66,71
+2236,Nymphadora Selwyn,Gryffindor,90,57,84,80
+2237,Wizard1010,Ravenclaw,87,92,93,98
+2238,Wizard19,Gryffindor,57,77,62,77
+2239,Rowena Lupin,Ravenclaw,96,85,97,97
+2240,Wizard2443,Slytherin,87,93,93,92
+2241,Wizard685,Slytherin,87,71,83,84
+2242,Wizard3568,Ravenclaw,87,88,97,92
+2243,Wizard3720,Ravenclaw,93,93,92,93
+2244,Wizard1775,Gryffindor,74,86,74,64
+2245,Wizard2179,Gryffindor,50,87,71,54
+2246,Lucius Peverell,Slytherin,80,77,82,75
+2247,Wizard2974,Gryffindor,50,86,75,62
+2248,Wizard2649,Hufflepuff,58,65,75,55
+2249,Wizard29,Gryffindor,52,80,89,68
+2250,Wizard2485,Hufflepuff,40,41,72,54
+2251,Wizard2227,Slytherin,93,73,80,93
+2252,Wizard3667,Gryffindor,51,55,89,77
+2253,Wizard948,Gryffindor,58,58,54,64
+2254,Wizard1812,Hufflepuff,65,48,55,76
+2255,Wizard2221,Gryffindor,85,80,87,56
+2256,Wizard1610,Hufflepuff,51,47,48,75
+2257,Wizard44,Hufflepuff,61,45,41,40
+2258,Wizard1474,Gryffindor,69,54,77,73
+2259,Wizard3592,Hufflepuff,67,63,59,56
+2260,Gellert Flitwick,Ravenclaw,95,96,95,86
+2261,Wizard821,Gryffindor,66,56,50,89
+2262,Wizard419,Hufflepuff,69,75,58,64
+2263,Wizard2892,Ravenclaw,94,97,99,89
+2264,Wizard470,Hufflepuff,59,52,47,74
+2265,Wizard1789,Gryffindor,65,65,63,88
+2266,Wizard1468,Hufflepuff,66,47,52,46
+2267,Wizard2798,Hufflepuff,77,85,52,50
+2268,Wizard3699,Ravenclaw,100,85,92,86
+2269,Wizard2537,Slytherin,93,81,86,73
+2270,Wizard3203,Slytherin,72,85,72,86
+2271,Wizard2762,Slytherin,79,74,76,95
+2272,Wizard2655,Hufflepuff,80,40,53,75
+2273,Rubeus Black,Hufflepuff,83,50,73,45
+2274,Wizard811,Gryffindor,73,67,57,74
+2275,Wizard176,Hufflepuff,40,71,72,81
+2276,Wizard1692,Gryffindor,58,76,51,60
+2277,Wizard2267,Slytherin,86,82,91,85
+2278,Wizard4046,Ravenclaw,98,96,87,91
+2279,Remus Greengrass,Gryffindor,66,90,76,61
+2280,Wizard1605,Gryffindor,74,70,62,78
+2281,Wizard2487,Gryffindor,77,63,60,83
+2282,Wizard2702,Ravenclaw,87,96,91,99
+2283,Wizard1947,Slytherin,75,72,87,88
+2284,Wizard3064,Gryffindor,76,70,65,61
+2285,Wizard1426,Slytherin,91,86,95,91
+2286,Wizard3872,Gryffindor,59,60,87,50
+2287,Wizard3783,Hufflepuff,49,64,55,69
+2288,Wizard1237,Slytherin,91,85,81,93
+2289,Rubeus Flitwick,Gryffindor,61,73,54,83
+2290,Leta Parkinson,Hufflepuff,62,46,49,59
+2291,Percy Riddle,Gryffindor,81,86,88,77
+2292,Wizard3051,Ravenclaw,92,100,97,88
+2293,Wilhelmina Zabini,Ravenclaw,87,86,95,87
+2294,Wizard3671,Gryffindor,84,64,66,89
+2295,Wizard753,Gryffindor,70,61,86,63
+2296,Wizard1836,Hufflepuff,70,84,85,77
+2297,Wilhelmina Tonks,Slytherin,92,70,76,93
+2298,Sirius Diggory,Hufflepuff,56,46,82,71
+2299,Dilys Parkinson,Gryffindor,53,90,52,60
+2300,Wizard2172,Gryffindor,76,69,53,60
+2301,Wizard2058,Slytherin,86,76,77,92
+2302,Wizard1418,Ravenclaw,97,89,99,90
+2303,Wizard2383,Ravenclaw,95,86,93,92
+2304,Wizard68,Hufflepuff,54,40,70,58
+2305,Wizard3353,Hufflepuff,64,51,70,79
+2306,Wizard201,Hufflepuff,60,50,44,69
+2307,Wizard1801,Hufflepuff,77,69,57,74
+2308,Severus Snape,Gryffindor,79,66,82,88
+2309,Wizard2909,Hufflepuff,66,73,81,60
+2310,Bridget Weasley,Slytherin,89,95,77,87
+2311,Wizard326,Hufflepuff,60,71,82,75
+2312,Wizard1189,Slytherin,94,76,82,94
+2313,Wizard3692,Slytherin,71,90,90,90
+2314,Wizard600,Slytherin,82,88,86,88
+2315,Wizard2764,Ravenclaw,95,92,92,97
+2316,Lucius Greengrass,Hufflepuff,65,63,57,64
+2317,Wizard1709,Gryffindor,65,80,83,63
+2318,Minerva Hagrid,Ravenclaw,93,85,91,98
+2319,Wizard2259,Gryffindor,70,60,81,62
+2320,Percy Selwyn,Hufflepuff,59,69,71,85
+2321,Wizard3627,Slytherin,79,84,83,90
+2322,Wizard253,Hufflepuff,75,69,58,54
+2323,Wizard3506,Slytherin,83,71,72,80
+2324,Wizard958,Hufflepuff,48,57,72,73
+2325,Wizard2833,Slytherin,92,88,82,91
+2326,Wizard64,Gryffindor,77,62,69,53
+2327,Bridget Carrow,Hufflepuff,52,63,72,46
+2328,Wizard1642,Ravenclaw,91,86,87,89
+2329,Wizard25,Ravenclaw,99,85,89,86
+2330,Wizard2096,Ravenclaw,86,95,100,88
+2331,Wizard2901,Ravenclaw,88,99,98,96
+2332,Wizard2399,Ravenclaw,86,100,85,90
+2333,Nymphadora Yaxley,Ravenclaw,98,87,100,98
+2334,Severus Flitwick,Slytherin,72,76,92,91
+2335,Bellatrix Pucey,Hufflepuff,84,48,43,66
+2336,Tom Carrow,Gryffindor,62,83,58,53
+2337,Bellatrix Dumbledore,Gryffindor,60,50,84,75
+2338,Wizard1358,Hufflepuff,79,40,68,77
+2339,Wizard3752,Gryffindor,65,52,60,52
+2340,Wizard3528,Ravenclaw,97,92,96,89
+2341,Wizard1421,Gryffindor,57,56,57,51
+2342,Wizard2347,Ravenclaw,95,94,98,97
+2343,Minerva Pucey,Ravenclaw,85,93,91,87
+2344,Wizard1864,Gryffindor,88,79,79,51
+2345,Gellert Bones,Hufflepuff,84,48,53,85
+2346,Wizard3056,Hufflepuff,46,71,71,76
+2347,Salazar Tonks,Ravenclaw,99,97,94,87
+2348,Wizard3196,Gryffindor,62,87,63,85
+2349,Nymphadora Tonks,Ravenclaw,96,90,87,94
+2350,Wulfric Selwyn,Ravenclaw,100,85,99,89
+2351,Wizard677,Ravenclaw,92,90,86,97
+2352,Wizard3684,Ravenclaw,97,85,94,86
+2353,Wizard387,Slytherin,88,91,88,86
+2354,Wizard1510,Gryffindor,71,50,62,52
+2355,Wizard232,Slytherin,72,89,85,71
+2356,Wizard139,Hufflepuff,47,42,65,82
+2357,Wizard1649,Gryffindor,51,55,54,69
+2358,Wizard3729,Ravenclaw,91,94,97,85
+2359,Wizard2418,Slytherin,75,84,71,82
+2360,Wizard1239,Ravenclaw,93,98,100,88
+2361,Wizard1663,Hufflepuff,59,50,50,61
+2362,Severus Riddle,Hufflepuff,63,49,77,63
+2363,Wizard195,Slytherin,84,75,83,81
+2364,Wizard3680,Hufflepuff,70,53,67,60
+2365,Helga Hagrid,Gryffindor,56,55,67,75
+2366,Wizard1875,Gryffindor,80,53,84,58
+2367,Wizard1339,Gryffindor,63,71,52,84
+2368,Wizard3330,Ravenclaw,89,88,95,91
+2369,Wizard1012,Hufflepuff,42,68,58,71
+2370,Wizard3737,Gryffindor,68,86,55,65
+2371,Wizard3415,Hufflepuff,42,59,65,73
+2372,Wizard1032,Slytherin,71,94,75,72
+2373,Wizard1029,Hufflepuff,49,73,84,53
+2374,Wizard3254,Gryffindor,58,69,88,62
+2375,Wizard764,Gryffindor,66,88,85,76
+2376,Helga Goyle,Gryffindor,80,63,60,89
+2377,Wizard443,Gryffindor,61,75,90,88
+2378,Godric Carrow,Hufflepuff,75,70,63,43
+2379,Wizard2292,Hufflepuff,42,50,63,53
+2380,Wizard3724,Slytherin,77,81,85,89
+2381,Wizard976,Slytherin,81,73,76,92
+2382,Tom Weasley,Gryffindor,52,84,68,69
+2383,Wizard333,Ravenclaw,94,95,91,98
+2384,Wizard1964,Slytherin,86,80,93,84
+2385,Wizard225,Ravenclaw,85,99,89,100
+2386,Wizard2161,Ravenclaw,90,94,91,86
+2387,Wizard423,Hufflepuff,55,82,54,62
+2388,Wizard1360,Slytherin,90,74,77,78
+2389,Remus Selwyn,Ravenclaw,95,92,90,91
+2390,Wizard1783,Slytherin,74,80,92,91
+2391,Wizard1464,Hufflepuff,75,82,77,56
+2392,Wizard2358,Gryffindor,70,55,60,66
+2393,Wizard1396,Slytherin,73,85,86,84
+2394,Wizard2578,Ravenclaw,99,92,98,91
+2395,Wizard2726,Gryffindor,81,80,70,78
+2396,Wizard2374,Ravenclaw,96,93,85,95
+2397,Wizard2865,Slytherin,74,92,83,71
+2398,Wizard3405,Gryffindor,64,76,89,57
+2399,Wizard1828,Hufflepuff,40,65,60,45
+2400,Wizard1377,Gryffindor,53,74,73,69
+2401,Wizard2950,Gryffindor,77,59,70,65
+2402,Wizard276,Slytherin,76,87,94,70
+2403,Wulfric Goyle,Hufflepuff,40,42,60,42
+2404,Salazar Slughorn,Gryffindor,66,61,64,62
+2405,Wizard2924,Ravenclaw,95,86,90,99
+2406,Wizard1922,Hufflepuff,50,46,49,42
+2407,Wizard2514,Hufflepuff,42,41,77,78
+2408,Bridget Slughorn,Gryffindor,67,53,75,67
+2409,Wizard2759,Hufflepuff,45,79,60,67
+2410,Wizard3419,Gryffindor,84,63,84,70
+2411,Dilys Crouch,Ravenclaw,87,88,100,99
+2412,Wizard3851,Ravenclaw,95,92,91,94
+2413,Wizard3055,Hufflepuff,41,68,60,84
+2414,Salazar Riddle,Hufflepuff,65,80,61,78
+2415,Wizard961,Hufflepuff,70,50,74,56
+2416,Wizard2500,Ravenclaw,86,85,93,91
+2417,Wizard1137,Gryffindor,78,61,65,54
+2418,Helga Weasley,Gryffindor,74,65,80,89
+2419,Wizard2895,Hufflepuff,62,72,80,79
+2420,Wizard2497,Gryffindor,85,54,82,85
+2421,Wizard3647,Ravenclaw,85,85,88,88
+2422,Wizard3232,Hufflepuff,67,52,79,80
+2423,Wizard1865,Hufflepuff,69,77,82,84
+2424,Tom Yaxley,Slytherin,91,71,77,83
+2425,Wizard2396,Hufflepuff,76,55,43,52
+2426,Wizard1871,Hufflepuff,71,81,60,73
+2427,Wizard2630,Hufflepuff,73,46,63,78
+2428,Bathilda Weasley,Hufflepuff,80,42,81,46
+2429,Leta Peverell,Slytherin,73,91,84,82
+2430,Wizard1611,Gryffindor,70,69,57,86
+2431,Wizard1853,Slytherin,88,83,80,89
+2432,Wizard2393,Gryffindor,72,90,87,87
+2433,Wizard3853,Gryffindor,53,65,83,67
+2434,Molly Riddle,Slytherin,82,81,88,84
+2435,Wizard1361,Gryffindor,86,72,59,56
+2436,Newt Crabbe,Ravenclaw,88,87,99,96
+2437,Wizard3518,Gryffindor,70,77,65,85
+2438,Wizard1178,Ravenclaw,95,96,87,91
+2439,Severus Shacklebolt,Ravenclaw,95,94,85,91
+2440,Wizard2691,Gryffindor,84,87,63,89
+2441,Wizard2059,Gryffindor,87,73,75,78
+2442,Wilhelmina Greengrass,Gryffindor,73,68,88,65
+2443,Wizard63,Slytherin,78,78,73,91
+2444,Wizard3792,Hufflepuff,54,63,78,76
+2445,Wizard37,Ravenclaw,96,89,100,86
+2446,Wizard257,Slytherin,88,84,94,93
+2447,Wizard1359,Hufflepuff,43,66,67,47
+2448,Wizard2589,Slytherin,75,76,72,86
+2449,Gellert Tonks,Gryffindor,71,63,78,62
+2450,Wizard2504,Gryffindor,63,67,71,75
+2451,Wizard2888,Hufflepuff,85,45,73,58
+2452,Wizard1404,Ravenclaw,88,95,96,92
+2453,Wizard640,Gryffindor,82,76,60,58
+2454,Wizard1753,Gryffindor,62,55,52,75
+2455,Wizard2622,Slytherin,73,84,92,73
+2456,Wizard2508,Ravenclaw,89,98,87,87
+2457,Wizard32,Slytherin,87,71,80,73
+2458,Godric Peverell,Hufflepuff,61,48,44,73
+2459,Wizard1645,Slytherin,89,72,77,70
+2460,Kingsley Zabini,Hufflepuff,56,69,68,81
+2461,Wizard3873,Ravenclaw,96,88,98,93
+2462,Hepzibah Black,Ravenclaw,90,87,94,100
+2463,Wizard177,Hufflepuff,54,58,43,64
+2464,Gellert Peverell,Slytherin,95,74,74,94
+2465,Wizard2493,Gryffindor,65,69,62,52
+2466,Wizard1997,Gryffindor,80,53,55,55
+2467,Wizard1083,Ravenclaw,100,88,95,87
+2468,Wizard426,Gryffindor,82,85,76,70
+2469,Wizard2991,Gryffindor,62,72,75,69
+2470,Wizard2751,Hufflepuff,81,68,50,43
+2471,Wizard3100,Ravenclaw,96,91,86,95
+2472,Wizard1388,Ravenclaw,86,85,100,94
+2473,Wizard3812,Gryffindor,90,65,77,74
+2474,Wizard1350,Gryffindor,80,67,67,56
+2475,Wizard2639,Slytherin,79,91,77,70
+2476,Wizard1635,Gryffindor,52,73,88,82
+2477,Wizard3475,Ravenclaw,92,98,100,97
+2478,Bridget Pucey,Slytherin,90,88,77,73
+2479,Minerva Weasley,Ravenclaw,98,95,85,99
+2480,Wizard2282,Hufflepuff,78,84,68,56
+2481,Wizard3903,Slytherin,71,75,77,79
+2482,Rubeus Zabini,Hufflepuff,47,76,51,76
+2483,Wizard543,Hufflepuff,63,57,66,84
+2484,Wizard3863,Ravenclaw,92,98,90,96
+2485,Wizard4012,Ravenclaw,99,85,90,87
+2486,Wizard725,Slytherin,93,82,76,87
+2487,Wizard923,Gryffindor,52,84,59,86
+2488,Wizard2005,Hufflepuff,48,85,48,40
+2489,Wizard3577,Slytherin,85,88,75,72
+2490,Wizard3645,Ravenclaw,91,99,89,96
+2491,Wizard4070,Slytherin,76,83,70,84
+2492,Wizard163,Hufflepuff,47,51,62,83
+2493,Wizard4002,Slytherin,80,79,77,88
+2494,Wizard2785,Hufflepuff,67,50,44,52
+2495,Wizard1161,Slytherin,70,85,86,74
+2496,Wulfric Peverell,Slytherin,80,95,73,75
+2497,Leta Weasley,Slytherin,92,71,75,73
+2498,Wizard1576,Hufflepuff,44,45,63,66
+2499,Wizard2432,Hufflepuff,63,85,71,51
+2500,Wizard3834,Ravenclaw,88,96,98,87
+2501,Wizard4013,Slytherin,95,90,79,79
+2502,Wizard2411,Ravenclaw,99,88,87,96
+2503,Wizard1312,Slytherin,87,95,88,73
+2504,Wizard2349,Gryffindor,82,75,68,77
+2505,Wizard593,Ravenclaw,98,87,90,94
+2506,Wizard93,Hufflepuff,40,58,62,60
+2507,Wizard2479,Gryffindor,83,82,70,76
+2508,Wizard2462,Hufflepuff,57,47,49,64
+2509,Wizard588,Slytherin,84,86,80,73
+2510,Wizard3663,Hufflepuff,44,80,66,64
+2511,Wizard241,Gryffindor,88,77,51,71
+2512,Wizard2481,Slytherin,76,70,75,90
+2513,Wizard3057,Gryffindor,82,53,77,79
+2514,Wizard3016,Gryffindor,82,51,53,60
+2515,Wizard1385,Ravenclaw,93,93,88,95
+2516,Gellert Goyle,Gryffindor,69,60,52,78
+2517,Wizard346,Gryffindor,65,84,74,75
+2518,Wizard2023,Ravenclaw,90,98,85,89
+2519,Wizard984,Slytherin,95,81,77,77
+2520,Wizard1604,Hufflepuff,57,75,43,78
+2521,Wizard2236,Slytherin,77,93,92,79
+2522,Rowena Goyle,Ravenclaw,86,98,98,91
+2523,Wizard3080,Hufflepuff,84,70,71,70
+2524,Wizard1424,Hufflepuff,66,76,59,82
+2525,Wizard170,Ravenclaw,95,88,95,87
+2526,Wizard1323,Hufflepuff,60,80,68,49
+2527,Wizard185,Slytherin,81,84,77,87
+2528,Wizard74,Gryffindor,58,77,65,57
+2529,Wizard3912,Gryffindor,65,63,73,86
+2530,Wizard475,Ravenclaw,89,85,94,97
+2531,Wizard2739,Slytherin,91,75,74,76
+2532,Wizard1218,Slytherin,71,70,74,85
+2533,Wizard3394,Ravenclaw,100,95,100,96
+2534,Tom Crouch,Hufflepuff,67,47,53,40
+2535,Wizard1225,Slytherin,71,81,83,75
+2536,Wizard3133,Hufflepuff,84,71,81,64
+2537,Wizard3993,Slytherin,89,73,83,85
+2538,Wizard741,Ravenclaw,90,95,98,93
+2539,Wizard449,Ravenclaw,100,91,93,98
+2540,Wizard2218,Hufflepuff,68,53,82,59
+2541,Wizard919,Ravenclaw,97,87,90,97
+2542,Wizard794,Hufflepuff,71,66,75,67
+2543,Wizard3429,Gryffindor,71,59,59,89
+2544,Wizard2861,Ravenclaw,96,94,95,100
+2545,Remus McGonagall,Slytherin,93,94,83,77
+2546,Wizard2533,Slytherin,78,83,76,83
+2547,Wizard1116,Gryffindor,70,81,67,68
+2548,Wizard3290,Hufflepuff,84,42,80,83
+2549,Wizard3409,Slytherin,84,70,78,94
+2550,Wizard659,Hufflepuff,76,63,50,62
+2551,Wizard3408,Hufflepuff,70,48,82,72
+2552,Wizard561,Hufflepuff,50,47,70,53
+2553,Wizard1928,Hufflepuff,61,78,81,54
+2554,Wizard3690,Ravenclaw,96,95,100,98
+2555,Molly Malfoy,Slytherin,94,84,86,95
+2556,Wizard1715,Hufflepuff,45,82,61,43
+2557,Salazar Hagrid,Slytherin,87,75,75,73
+2558,Wizard883,Slytherin,80,73,83,82
+2559,Wizard3157,Ravenclaw,100,93,91,88
+2560,Wizard3624,Ravenclaw,90,87,92,99
+2561,Wizard3824,Ravenclaw,90,94,96,93
+2562,Wizard2988,Gryffindor,66,68,56,67
+2563,Wizard199,Slytherin,94,91,73,75
+2564,Wizard1878,Slytherin,71,91,70,95
+2565,Wizard2495,Ravenclaw,94,95,93,97
+2566,Wizard2322,Slytherin,77,82,95,72
+2567,Newt McGonagall,Gryffindor,69,64,88,55
+2568,Wizard3479,Ravenclaw,86,97,97,95
+2569,Wizard2264,Slytherin,95,75,74,83
+2570,Wizard1538,Hufflepuff,45,62,56,48
+2571,Wizard2306,Hufflepuff,77,44,73,78
+2572,Wizard3189,Slytherin,94,77,91,79
+2573,Wizard2778,Slytherin,71,87,74,72
+2574,Sirius Lestrange,Slytherin,85,90,86,92
+2575,Wizard3068,Ravenclaw,97,90,98,93
+2576,Wizard1991,Hufflepuff,46,77,51,46
+2577,Wizard2355,Gryffindor,82,76,87,57
+2578,Theseus Hooch,Gryffindor,76,85,83,54
+2579,Kingsley Lovegood,Ravenclaw,88,92,100,85
+2580,Leta Goyle,Gryffindor,71,70,57,70
+2581,Helga Carrow,Ravenclaw,90,88,97,90
+2582,Wizard1451,Slytherin,91,76,81,76
+2583,Wizard643,Hufflepuff,44,79,84,51
+2584,Wizard1034,Gryffindor,84,64,67,72
+2585,Wizard920,Gryffindor,86,61,90,68
+2586,Bathilda Hooch,Ravenclaw,94,91,93,88
+2587,Wizard999,Ravenclaw,98,94,96,89
+2588,Theseus Crabbe,Gryffindor,82,60,66,57
+2589,Wizard1698,Slytherin,74,91,82,70
+2590,Wizard3705,Hufflepuff,75,74,76,77
+2591,Wizard3958,Ravenclaw,86,87,90,94
+2592,Wizard1445,Hufflepuff,66,55,65,79
+2593,Severus Slughorn,Hufflepuff,52,63,81,52
+2594,Wizard2665,Gryffindor,81,75,77,85
+2595,Wizard1378,Ravenclaw,85,97,91,86
+2596,Wizard1832,Slytherin,83,78,86,71
+2597,Wizard3170,Hufflepuff,78,68,78,79
+2598,Wizard1755,Gryffindor,68,63,79,60
+2599,Wizard3899,Gryffindor,69,82,86,83
+2600,Wizard3772,Gryffindor,63,56,52,54
+2601,Hepzibah Dumbledore,Slytherin,71,84,84,78
+2602,Bathilda Lestrange,Ravenclaw,93,88,92,100
+2603,Wizard1173,Hufflepuff,84,81,43,50
+2604,Wizard2139,Slytherin,91,73,78,71
+2605,Dilys Lovegood,Hufflepuff,54,77,67,46
+2606,Wizard2001,Slytherin,75,82,87,86
+2607,Helga Dumbledore,Slytherin,73,70,70,71
+2608,Wizard4010,Slytherin,82,70,91,89
+2609,Wizard1769,Gryffindor,68,69,79,50
+2610,Wizard2671,Hufflepuff,85,42,68,83
+2611,Wizard425,Ravenclaw,92,92,95,89
+2612,Wizard2518,Ravenclaw,92,91,97,97
+2613,Remus Yaxley,Hufflepuff,77,66,71,78
+2614,Wizard2270,Ravenclaw,96,95,97,96
+2615,Newt Greengrass,Ravenclaw,98,94,91,100
+2616,Wizard2260,Ravenclaw,88,88,94,89
+2617,Wizard2315,Gryffindor,57,68,55,52
+2618,Wizard355,Ravenclaw,99,100,94,93
+2619,Wizard3030,Ravenclaw,95,87,91,91
+2620,Wizard237,Gryffindor,82,90,76,90
+2621,Bridget Parkinson,Gryffindor,50,81,90,63
+2622,Wizard3219,Hufflepuff,61,57,61,42
+2623,Wizard2016,Ravenclaw,88,91,87,98
+2624,Wizard2465,Gryffindor,90,82,80,90
+2625,Bridget Lovegood,Ravenclaw,88,97,96,93
+2626,Wizard3723,Ravenclaw,90,87,89,87
+2627,Sirius Selwyn,Ravenclaw,94,85,93,97
+2628,Wizard3540,Slytherin,90,93,84,71
+2629,Wizard3139,Gryffindor,50,78,77,50
+2630,Wizard2033,Slytherin,88,86,90,78
+2631,Wizard1804,Hufflepuff,48,46,64,78
+2632,Wizard2796,Ravenclaw,99,90,96,88
+2633,Wizard2237,Gryffindor,74,51,82,72
+2634,Wizard1552,Gryffindor,54,71,59,66
+2635,Wizard1978,Slytherin,81,94,88,73
+2636,Wizard4005,Hufflepuff,43,61,60,43
+2637,Wizard3625,Hufflepuff,53,75,45,68
+2638,Wizard584,Hufflepuff,71,83,60,42
+2639,Wizard2884,Gryffindor,82,78,80,67
+2640,Wizard2353,Gryffindor,67,84,80,68
+2641,Theseus Snape,Hufflepuff,79,64,79,75
+2642,Wizard2113,Gryffindor,65,81,75,75
+2643,Wizard2830,Slytherin,84,71,85,89
+2644,Wizard3513,Hufflepuff,64,65,69,83
+2645,Wizard1502,Gryffindor,90,74,69,60
+2646,Wizard1180,Ravenclaw,87,92,98,86
+2647,Wizard2215,Ravenclaw,94,94,100,93
+2648,Wizard291,Slytherin,84,72,80,82
+2649,Percy Zabini,Ravenclaw,91,85,93,93
+2650,Wizard567,Gryffindor,87,56,58,50
+2651,Molly Goyle,Gryffindor,71,56,78,52
+2652,Wizard385,Hufflepuff,47,44,43,42
+2653,Wizard307,Slytherin,89,72,79,91
+2654,Wizard1686,Ravenclaw,97,85,94,98
+2655,Wizard2867,Slytherin,77,74,82,95
+2656,Wizard3615,Gryffindor,66,54,76,79
+2657,Wizard1471,Slytherin,84,85,79,76
+2658,Wizard370,Slytherin,80,78,93,71
+2659,Molly McGonagall,Ravenclaw,87,86,93,93
+2660,Wizard3584,Ravenclaw,96,92,87,86
+2661,Wizard2744,Hufflepuff,57,83,63,61
+2662,Wizard3574,Hufflepuff,74,78,46,76
+2663,Wizard3037,Slytherin,88,89,79,71
+2664,Wizard265,Ravenclaw,87,85,92,89
+2665,Wizard607,Ravenclaw,90,97,88,95
+2666,Newt Weasley,Hufflepuff,79,84,65,77
+2667,Wizard2281,Slytherin,77,86,82,76
+2668,Wizard3382,Gryffindor,71,58,58,79
+2669,Wizard1839,Gryffindor,58,51,75,57
+2670,Wizard1818,Hufflepuff,80,62,85,72
+2671,Wizard3155,Slytherin,74,72,80,78
+2672,Wizard51,Ravenclaw,96,90,100,90
+2673,Wizard1718,Slytherin,75,85,72,77
+2674,Wizard2423,Hufflepuff,42,68,71,48
+2675,Wizard1799,Ravenclaw,87,91,97,91
+2676,Wizard1909,Slytherin,71,86,82,85
+2677,Wizard3482,Ravenclaw,97,85,96,92
+2678,Wizard461,Slytherin,74,87,87,85
+2679,Wizard1628,Hufflepuff,77,61,70,73
+2680,Wizard464,Ravenclaw,99,87,86,85
+2681,Wizard3324,Ravenclaw,85,100,87,89
+2682,Wizard1140,Ravenclaw,91,94,100,90
+2683,Wizard3171,Hufflepuff,43,71,74,48
+2684,Wizard1831,Hufflepuff,72,63,46,71
+2685,Wizard3234,Ravenclaw,98,87,91,87
+2686,Wizard3962,Slytherin,80,71,76,71
+2687,Wizard3168,Hufflepuff,65,56,56,84
+2688,Salazar Pucey,Gryffindor,74,86,83,83
+2689,Godric Hagrid,Hufflepuff,73,58,66,71
+2690,Wizard3126,Ravenclaw,92,95,99,85
+2691,Wizard2923,Slytherin,80,80,72,70
+2692,Wizard3233,Ravenclaw,89,90,92,88
+2693,Wizard670,Hufflepuff,55,67,47,76
+2694,Dilys Carrow,Ravenclaw,96,90,89,87
+2695,Wizard402,Gryffindor,66,85,77,78
+2696,Wizard315,Ravenclaw,98,100,92,95
+2697,Wizard9,Slytherin,83,88,85,91
+2698,Severus Carrow,Slytherin,72,89,92,83
+2699,Wizard2060,Slytherin,70,85,88,83
+2700,Albus Riddle,Ravenclaw,86,97,91,94
+2701,Wizard1512,Ravenclaw,85,100,90,100
+2702,Wizard273,Gryffindor,62,72,62,87
+2703,Wizard2685,Slytherin,70,89,71,95
+2704,Wizard2987,Hufflepuff,42,58,52,43
+2705,Bellatrix Malfoy,Gryffindor,66,61,84,65
+2706,Remus Pucey,Gryffindor,61,58,57,84
+2707,Wizard2379,Ravenclaw,89,91,95,92
+2708,Wizard3984,Ravenclaw,86,85,93,92
+2709,Wizard1713,Slytherin,85,80,87,88
+2710,Wizard1332,Gryffindor,90,68,84,58
+2711,Wizard1202,Hufflepuff,43,44,78,62
+2712,Remus Bones,Gryffindor,72,58,60,82
+2713,Wizard2252,Slytherin,72,79,94,86
+2714,Wizard3065,Slytherin,74,95,92,91
+2715,Wizard2143,Slytherin,81,72,90,92
+2716,Wizard1039,Slytherin,81,72,75,74
+2717,Wizard2365,Ravenclaw,94,100,100,97
+2718,Bathilda Riddle,Slytherin,82,77,84,91
+2719,Wizard1269,Slytherin,89,75,89,76
+2720,Wizard1365,Slytherin,78,89,71,89
+2721,Wizard3596,Gryffindor,68,62,90,89
+2722,Wizard250,Slytherin,73,89,74,84
+2723,Wizard622,Gryffindor,70,75,55,69
+2724,Wizard3019,Hufflepuff,43,52,74,63
+2725,Wizard482,Gryffindor,59,78,69,83
+2726,Wizard2042,Slytherin,75,88,77,70
+2727,Wizard3354,Ravenclaw,92,94,98,91
+2728,Wizard4029,Slytherin,80,80,79,81
+2729,Wizard452,Hufflepuff,74,84,40,72
+2730,Wizard263,Slytherin,82,73,71,87
+2731,Wizard4086,Ravenclaw,87,88,93,90
+2732,Wizard1372,Gryffindor,57,88,59,86
+2733,Wizard1569,Hufflepuff,40,45,76,57
+2734,Wizard1303,Ravenclaw,88,86,87,100
+2735,Minerva Yaxley,Slytherin,90,76,95,91
+2736,Wizard1845,Slytherin,82,94,90,72
+2737,Wizard1756,Ravenclaw,91,91,94,98
+2738,Arthur Diggory,Gryffindor,82,84,89,59
+2739,Wizard1841,Ravenclaw,96,98,100,99
+2740,Lucius Crouch,Hufflepuff,76,67,63,65
+2741,Wizard866,Hufflepuff,65,73,67,44
+2742,Wizard2862,Ravenclaw,86,100,99,92
+2743,Wizard2250,Hufflepuff,51,49,84,67
+2744,Wizard3332,Gryffindor,89,72,88,86
+2745,Wizard829,Ravenclaw,89,92,100,85
+2746,Wizard1826,Gryffindor,52,77,60,53
+2747,Wizard1391,Slytherin,95,74,88,73
+2748,Wizard3088,Hufflepuff,68,48,77,61
+2749,Albus Parkinson,Gryffindor,84,87,65,76
+2750,Wizard3345,Slytherin,82,72,82,78
+2751,Wizard1023,Ravenclaw,96,86,91,95
+2752,Wizard2870,Hufflepuff,41,40,56,78
+2753,Theseus Crouch,Ravenclaw,99,96,94,97
+2754,Wizard1003,Gryffindor,79,56,53,69
+2755,Wizard2196,Slytherin,85,85,89,92
+2756,Wizard673,Hufflepuff,57,57,41,44
+2757,Wizard3521,Ravenclaw,93,85,85,95
+2758,Wizard2998,Hufflepuff,58,62,78,82
+2759,Wizard3878,Slytherin,84,90,79,91
+2760,Wizard3230,Hufflepuff,63,75,53,41
+2761,Wizard2376,Slytherin,83,75,85,80
+2762,Wizard43,Gryffindor,59,82,80,56
+2763,Hepzibah Diggory,Slytherin,95,88,83,74
+2764,Wizard3719,Hufflepuff,70,44,73,78
+2765,Wizard2095,Hufflepuff,70,68,82,72
+2766,Wizard2654,Hufflepuff,41,43,40,48
+2767,Wizard3612,Gryffindor,85,53,53,55
+2768,Wizard2659,Ravenclaw,87,94,98,100
+2769,Wizard2381,Hufflepuff,49,47,73,49
+2770,Wizard3060,Hufflepuff,70,83,62,50
+2771,Wizard343,Ravenclaw,99,100,91,94
+2772,Wizard2569,Ravenclaw,85,88,93,92
+2773,Wizard1798,Hufflepuff,62,44,76,44
+2774,Percy Parkinson,Ravenclaw,96,100,100,87
+2775,Wizard3618,Hufflepuff,54,66,63,71
+2776,Wizard1941,Gryffindor,62,57,59,79
+2777,Wizard3793,Hufflepuff,42,44,55,81
+2778,Bridget Shacklebolt,Gryffindor,54,90,78,62
+2779,Wizard2560,Hufflepuff,59,47,80,53
+2780,Wizard1319,Ravenclaw,99,92,93,98
+2781,Wizard1005,Gryffindor,76,80,71,72
+2782,Wizard988,Hufflepuff,78,43,48,63
+2783,Wizard473,Slytherin,93,88,74,84
+2784,Wizard3712,Ravenclaw,90,86,100,87
+2785,Wizard3543,Gryffindor,53,71,59,61
+2786,Wizard1447,Slytherin,76,93,93,86
+2787,Wizard1015,Gryffindor,68,53,57,67
+2788,Wizard3020,Gryffindor,53,85,66,56
+2789,Wizard1534,Gryffindor,79,57,53,75
+2790,Wilhelmina Diggory,Slytherin,95,72,85,72
+2791,Arthur Lestrange,Ravenclaw,98,86,90,93
+2792,Wizard2273,Hufflepuff,78,50,47,62
+2793,Wizard3210,Ravenclaw,85,99,87,98
+2794,Wizard1695,Gryffindor,62,85,69,51
+2795,Wizard3533,Gryffindor,63,90,79,57
+2796,Wizard2694,Hufflepuff,59,79,54,57
+2797,Wizard1349,Slytherin,74,80,90,91
+2798,Wizard783,Gryffindor,86,87,73,77
+2799,Lucius Bones,Gryffindor,72,74,61,62
+2800,Wizard2753,Slytherin,93,75,74,87
+2801,Horace Tonks,Ravenclaw,100,87,98,89
+2802,Wizard301,Ravenclaw,90,89,91,96
+2803,Wizard3442,Slytherin,82,85,79,81
+2804,Wizard2608,Hufflepuff,40,63,43,80
+2805,Wizard846,Gryffindor,68,51,50,83
+2806,Filius Snape,Gryffindor,50,54,52,78
+2807,Wizard633,Slytherin,94,88,95,92
+2808,Wizard3628,Hufflepuff,66,83,85,54
+2809,Dilys Diggory,Slytherin,91,87,85,86
+2810,Wizard1028,Hufflepuff,48,85,71,74
+2811,Wizard4098,Slytherin,80,75,93,90
+2812,Wizard3028,Gryffindor,89,87,71,63
+2813,Wizard1754,Slytherin,76,88,90,72
+2814,Wizard908,Gryffindor,60,84,54,86
+2815,Wizard2876,Slytherin,95,75,78,94
+2816,Wizard2104,Gryffindor,57,56,90,81
+2817,Rubeus Weasley,Hufflepuff,60,45,58,69
+2818,Wizard3281,Ravenclaw,99,90,99,92
+2819,Wizard758,Slytherin,92,84,95,83
+2820,Wizard1026,Ravenclaw,90,93,90,98
+2821,Wizard843,Slytherin,92,72,78,93
+2822,Wizard3288,Hufflepuff,41,78,84,74
+2823,Bridget Flitwick,Gryffindor,51,88,66,69
+2824,Leta Greengrass,Ravenclaw,88,87,91,90
+2825,Wizard3797,Gryffindor,80,85,88,63
+2826,Wizard2555,Slytherin,95,87,89,94
+2827,Wizard797,Gryffindor,70,53,78,73
+2828,Wizard516,Gryffindor,75,79,72,79
+2829,Tom Goyle,Slytherin,88,88,94,74
+2830,Wizard1232,Gryffindor,77,54,80,83
+2831,Wizard1071,Gryffindor,57,52,69,57
+2832,Wizard369,Gryffindor,63,71,72,52
+2833,Wizard2716,Gryffindor,73,77,56,60
+2834,Wizard3981,Ravenclaw,85,92,98,94
+2835,Wizard2641,Slytherin,86,74,73,95
+2836,Wizard456,Hufflepuff,40,75,71,57
+2837,Wizard2864,Hufflepuff,54,62,56,60
+2838,Wizard503,Hufflepuff,73,66,49,81
+2839,Wizard705,Hufflepuff,59,57,61,40
+2840,Rubeus Slughorn,Hufflepuff,76,57,45,56
+2841,Wizard3374,Slytherin,84,89,75,92
+2842,Filius Crouch,Hufflepuff,61,42,59,68
+2843,Godric Parkinson,Hufflepuff,44,46,40,59
+2844,Wizard594,Hufflepuff,73,54,56,76
+2845,Wizard873,Ravenclaw,98,95,93,97
+2846,Wizard3166,Ravenclaw,96,88,89,94
+2847,Wizard3960,Slytherin,79,87,90,74
+2848,Wizard1095,Slytherin,84,86,79,92
+2849,Wizard2258,Ravenclaw,89,90,100,91
+2850,Wizard3504,Hufflepuff,42,57,85,74
+2851,Wizard1500,Slytherin,89,72,88,91
+2852,Wizard3075,Ravenclaw,95,91,88,89
+2853,Wizard3072,Slytherin,75,76,87,70
+2854,Wizard2067,Ravenclaw,98,91,86,100
+2855,Wizard1954,Ravenclaw,86,89,88,91
+2856,Wizard3459,Hufflepuff,68,81,41,66
+2857,Wizard2191,Hufflepuff,68,81,57,77
+2858,Wizard2882,Ravenclaw,97,92,97,87
+2859,Wizard806,Ravenclaw,93,100,90,92
+2860,Wizard190,Hufflepuff,62,70,62,41
+2861,Wizard3025,Slytherin,86,82,78,95
+2862,Wizard3188,Ravenclaw,92,95,88,95
+2863,Wizard3987,Hufflepuff,76,48,55,81
+2864,Wizard418,Hufflepuff,79,40,62,46
+2865,Godric Malfoy,Hufflepuff,53,55,68,43
+2866,Wizard763,Ravenclaw,91,93,96,89
+2867,Wizard3955,Gryffindor,71,58,73,70
+2868,Kingsley Slughorn,Ravenclaw,90,90,88,93
+2869,Wizard1949,Ravenclaw,88,92,87,97
+2870,Wizard2515,Gryffindor,54,90,88,65
+2871,Wizard1053,Hufflepuff,73,55,53,67
+2872,Wizard3118,Slytherin,70,95,84,93
+2873,Wizard2108,Gryffindor,68,86,77,69
+2874,Kingsley Snape,Gryffindor,86,89,62,54
+2875,Wizard358,Gryffindor,56,67,85,55
+2876,Wizard2142,Ravenclaw,86,91,99,99
+2877,Wizard3587,Hufflepuff,64,80,69,49
+2878,Bridget Malfoy,Ravenclaw,96,93,96,85
+2879,Wizard3601,Hufflepuff,48,46,63,66
+2880,Minerva Snape,Hufflepuff,67,54,49,60
+2881,Wizard1935,Ravenclaw,86,96,97,98
+2882,Wizard1600,Gryffindor,85,77,77,54
+2883,Wizard1146,Hufflepuff,62,55,75,44
+2884,Wizard830,Hufflepuff,52,54,56,74
+2885,Wizard2205,Hufflepuff,49,64,60,61
+2886,Wizard1129,Ravenclaw,97,100,91,90
+2887,Wizard2405,Gryffindor,68,86,72,57
+2888,Nymphadora Malfoy,Slytherin,77,76,74,88
+2889,Wizard3034,Hufflepuff,42,50,57,45
+2890,Wizard112,Slytherin,88,84,90,79
+2891,Wizard1262,Hufflepuff,80,48,79,76
+2892,Wizard15,Hufflepuff,54,45,43,58
+2893,Percy Peverell,Slytherin,89,80,76,80
+2894,Wizard486,Hufflepuff,81,55,58,59
+2895,Wizard1843,Slytherin,83,82,94,79
+2896,Wizard445,Hufflepuff,56,56,81,54
+2897,Wizard3127,Ravenclaw,94,96,88,89
+2898,Wizard2296,Ravenclaw,95,94,100,91
+2899,Wizard867,Slytherin,72,70,89,80
+2900,Minerva Slughorn,Hufflepuff,52,81,66,63
+2901,Wizard2464,Hufflepuff,56,47,60,60
+2902,Wizard278,Gryffindor,72,90,70,86
+2903,Wizard1498,Hufflepuff,75,79,63,50
+2904,Wizard2934,Gryffindor,65,57,79,72
+2905,Bridget McGonagall,Gryffindor,73,59,57,61
+2906,Wizard2983,Gryffindor,54,64,82,65
+2907,Wizard3529,Hufflepuff,50,69,75,67
+2908,Wizard3798,Gryffindor,62,86,50,63
+2909,Wizard3231,Hufflepuff,43,46,42,82
+2910,Hepzibah Yaxley,Hufflepuff,74,67,82,49
+2911,Wizard4050,Ravenclaw,92,99,94,92
+2912,Wizard3747,Gryffindor,80,71,54,90
+2913,Wizard1121,Gryffindor,77,64,61,84
+2914,Wizard2603,Ravenclaw,88,88,99,92
+2915,Wizard1442,Hufflepuff,84,66,85,79
+2916,Wizard210,Ravenclaw,85,91,99,89
+2917,Wizard2885,Ravenclaw,87,89,95,90
+2918,Wizard1887,Ravenclaw,99,100,93,97
+2919,Wizard609,Ravenclaw,100,89,86,97
+2920,Severus Zabini,Ravenclaw,98,87,96,99
+2921,Nymphadora McGonagall,Gryffindor,67,85,90,76
+2922,Wilhelmina Hagrid,Ravenclaw,100,93,98,92
+2923,Wizard2062,Ravenclaw,89,97,100,89
+2924,Wizard737,Ravenclaw,93,94,92,85
+2925,Wizard1678,Slytherin,92,71,86,81
+2926,Wizard217,Hufflepuff,72,72,83,66
+2927,Wizard1562,Hufflepuff,57,82,49,72
+2928,Wizard1054,Hufflepuff,53,55,46,70
+2929,Albus Flitwick,Gryffindor,81,83,90,84
+2930,Wizard3763,Ravenclaw,100,93,98,90
+2931,Wizard694,Slytherin,77,76,89,78
+2932,Nymphadora Carrow,Hufflepuff,82,40,62,41
+2933,Wizard258,Slytherin,91,71,87,79
+2934,Wizard893,Slytherin,88,80,87,70
+2935,Horace Bones,Slytherin,74,90,93,94
+2936,Bridget Dumbledore,Ravenclaw,93,98,85,85
+2937,Wizard380,Slytherin,74,78,70,75
+2938,Percy Snape,Ravenclaw,97,89,87,87
+2939,Wizard1231,Gryffindor,60,50,79,73
+2940,Salazar Yaxley,Ravenclaw,89,97,98,97
+2941,Wizard3292,Hufflepuff,62,53,69,69
+2942,Wizard101,Hufflepuff,82,79,70,78
+2943,Sirius McGonagall,Hufflepuff,41,74,84,60
+2944,Wizard1993,Slytherin,91,73,89,88
+2945,Wizard1322,Gryffindor,53,66,75,89
+2946,Remus Tonks,Gryffindor,87,53,78,62
+2947,Theseus Selwyn,Slytherin,91,80,79,89
+2948,Wizard3688,Ravenclaw,90,97,95,88
+2949,Wizard787,Gryffindor,86,69,50,52
+2950,Wizard3503,Ravenclaw,88,100,93,87
+2951,Wizard2847,Hufflepuff,75,43,59,65
+2952,Wizard566,Gryffindor,63,86,78,62
+2953,Wizard3049,Hufflepuff,76,55,47,80
+2954,Wizard1707,Slytherin,84,86,73,72
+2955,Wizard1525,Slytherin,71,91,92,80
+2956,Wizard2239,Hufflepuff,84,76,68,51
+2957,Wizard3998,Hufflepuff,55,61,44,70
+2958,Wizard2822,Ravenclaw,91,98,96,100
+2959,Wizard1639,Ravenclaw,87,93,90,86
+2960,Wizard3500,Ravenclaw,97,86,90,98
+2961,Wizard3890,Ravenclaw,95,95,88,85
+2962,Wizard549,Slytherin,72,89,86,78
+2963,Wizard1720,Hufflepuff,82,49,49,51
+2964,Wizard1624,Ravenclaw,98,99,91,98
+2965,Wizard3896,Gryffindor,90,64,77,69
+2966,Wizard3910,Slytherin,81,71,86,85
+2967,Wizard1999,Hufflepuff,49,41,78,47
+2968,Wizard3444,Gryffindor,89,71,68,88
+2969,Wizard372,Hufflepuff,45,54,75,53
+2970,Wizard1951,Hufflepuff,47,60,65,54
+2971,Newt Flitwick,Gryffindor,51,66,79,89
+2972,Wizard2153,Hufflepuff,73,44,59,83
+2973,Wizard750,Gryffindor,89,89,63,58
+2974,Wizard4055,Hufflepuff,81,75,76,61
+2975,Wizard4007,Gryffindor,80,86,60,53
+2976,Wizard864,Ravenclaw,87,98,90,98
+2977,Wizard2604,Ravenclaw,96,94,92,90
+2978,Wizard3368,Gryffindor,77,79,51,55
+2979,Wizard1394,Ravenclaw,93,90,92,95
+2980,Wizard1621,Gryffindor,59,70,66,84
+2981,Newt Dumbledore,Hufflepuff,65,45,77,75
+2982,Wizard524,Slytherin,81,89,87,83
+2983,Wizard1598,Slytherin,75,89,76,85
+2984,Wizard3928,Gryffindor,56,61,78,84
+2985,Wizard2688,Slytherin,94,83,81,70
+2986,Wizard1977,Gryffindor,56,69,63,67
+2987,Wizard1594,Gryffindor,90,55,87,52
+2988,Bellatrix Riddle,Slytherin,90,77,70,73
+2989,Wizard1061,Slytherin,92,77,79,86
+2990,Wizard422,Slytherin,85,77,79,75
+2991,Wizard3754,Gryffindor,51,80,60,66
+2992,Wizard1355,Slytherin,76,83,72,94
+2993,Wizard2214,Slytherin,88,79,72,73
+2994,Nymphadora Riddle,Slytherin,92,87,82,76
+2995,Salazar Lupin,Slytherin,86,87,82,95
+2996,Newt Pucey,Ravenclaw,93,91,85,88
+2997,Wizard1851,Hufflepuff,48,51,82,61
+2998,Percy Grindelwald,Slytherin,82,89,84,82
+2999,Wizard1142,Gryffindor,60,80,56,54
+3000,Wulfric Flitwick,Ravenclaw,92,89,88,95
+3001,Wizard3313,Gryffindor,66,56,58,70
+3002,Wizard720,Ravenclaw,86,86,85,87
+3003,Wizard2325,Slytherin,79,92,77,75
+3004,Wizard3448,Slytherin,90,79,95,79
+3005,Nymphadora Grindelwald,Hufflepuff,71,71,56,66
+3006,Wizard1092,Slytherin,76,82,88,76
+3007,Wizard912,Hufflepuff,80,71,80,85
+3008,Wizard1123,Gryffindor,65,83,57,75
+3009,Wizard2723,Slytherin,76,82,92,91
+3010,Wizard1721,Slytherin,84,86,80,81
+3011,Wizard2961,Ravenclaw,86,92,92,92
+3012,Wizard3134,Slytherin,88,95,75,81
+3013,Wizard2039,Hufflepuff,82,51,82,41
+3014,Wizard3112,Ravenclaw,99,91,88,99
+3015,Wizard4095,Hufflepuff,81,42,52,77
+3016,Wizard3639,Ravenclaw,88,97,93,90
+3017,Wizard1434,Slytherin,81,72,87,73
+3018,Wizard2336,Slytherin,84,91,70,92
+3019,Wizard1062,Ravenclaw,100,100,96,94
+3020,Wizard3777,Slytherin,82,80,77,71
+3021,Remus Lupin,Ravenclaw,90,89,90,95
+3022,Wizard2089,Hufflepuff,70,75,43,76
+3023,Wizard2050,Hufflepuff,46,65,79,45
+3024,Wizard1174,Gryffindor,82,68,72,76
+3025,Wizard537,Ravenclaw,95,89,93,97
+3026,Wizard2875,Hufflepuff,78,57,46,51
+3027,Wizard3179,Slytherin,89,81,73,92
+3028,Wizard2134,Gryffindor,50,81,56,52
+3029,Wizard1866,Slytherin,73,76,79,94
+3030,Wizard55,Hufflepuff,68,79,55,51
+3031,Wizard3339,Slytherin,90,70,76,70
+3032,Wizard3557,Ravenclaw,100,87,100,95
+3033,Wizard2408,Slytherin,82,94,75,84
+3034,Wizard3462,Gryffindor,77,81,65,66
+3035,Wizard1739,Slytherin,92,81,88,77
+3036,Wizard3694,Slytherin,85,76,95,85
+3037,Wizard2080,Ravenclaw,93,96,97,93
+3038,Bridget Riddle,Gryffindor,52,71,65,74
+3039,Wizard3715,Gryffindor,64,61,71,79
+3040,Wizard2431,Ravenclaw,87,86,100,88
+3041,Wizard1347,Hufflepuff,53,62,52,52
+3042,Wizard2029,Gryffindor,50,81,77,70
+3043,Wizard3704,Hufflepuff,66,59,50,49
+3044,Wizard3512,Gryffindor,58,56,85,78
+3045,Wizard1912,Ravenclaw,90,89,86,90
+3046,Wizard2152,Slytherin,84,77,77,70
+3047,Wizard1341,Slytherin,76,92,92,74
+3048,Nymphadora Diggory,Slytherin,75,75,90,72
+3049,Wizard42,Gryffindor,87,75,89,61
+3050,Minerva Grindelwald,Slytherin,78,93,85,88
+3051,Wizard196,Hufflepuff,44,69,78,58
+3052,Wizard4092,Slytherin,93,77,91,73
+3053,Godric Hooch,Ravenclaw,88,100,96,88
+3054,Wizard3786,Gryffindor,81,74,85,83
+3055,Wizard3606,Slytherin,81,93,94,73
+3056,Wizard3017,Hufflepuff,69,77,56,48
+3057,Wizard2289,Slytherin,79,81,74,86
+3058,Wizard540,Slytherin,80,89,81,80
+3059,Wizard240,Gryffindor,50,74,80,58
+3060,Wizard2510,Slytherin,83,85,74,93
+3061,Wizard2274,Gryffindor,89,56,90,50
+3062,Wizard451,Hufflepuff,82,85,59,84
+3063,Wizard3614,Ravenclaw,88,93,85,99
+3064,Lucius Weasley,Slytherin,94,81,75,94
+3065,Wizard2483,Ravenclaw,86,93,100,88
+3066,Wizard1255,Gryffindor,54,86,72,70
+3067,Wizard586,Slytherin,94,70,73,86
+3068,Wizard2300,Ravenclaw,97,92,90,95
+3069,Arthur Grindelwald,Hufflepuff,44,75,52,56
+3070,Wizard1633,Gryffindor,82,57,68,70
+3071,Wizard4085,Slytherin,85,83,90,86
+3072,Wizard3278,Ravenclaw,98,100,100,94
+3073,Wizard406,Hufflepuff,69,41,46,42
+3074,Molly Shacklebolt,Hufflepuff,60,46,57,55
+3075,Wizard748,Ravenclaw,99,86,95,99
+3076,Wizard57,Ravenclaw,96,87,86,89
+3077,Wizard2003,Slytherin,80,86,72,88
+3078,Wizard2286,Hufflepuff,71,51,47,53
+3079,Wizard1541,Slytherin,84,81,70,78
+3080,Wizard2938,Slytherin,74,74,80,83
+3081,Wizard1013,Gryffindor,90,56,52,62
+3082,Bellatrix Greengrass,Slytherin,94,81,75,77
+3083,Wizard3963,Hufflepuff,74,82,81,56
+3084,Wizard3275,Slytherin,82,78,74,86
+3085,Wizard1068,Slytherin,80,72,94,81
+3086,Newt Peverell,Slytherin,83,70,94,84
+3087,Wizard3187,Gryffindor,51,64,70,89
+3088,Wizard3782,Ravenclaw,92,100,93,87
+3089,Wizard2948,Slytherin,88,79,81,89
+3090,Wilhelmina McGonagall,Hufflepuff,62,79,79,60
+3091,Wizard1861,Ravenclaw,88,86,93,91
+3092,Wizard975,Slytherin,78,73,76,74
+3093,Wizard3420,Hufflepuff,64,83,72,54
+3094,Wizard2928,Hufflepuff,75,63,85,67
+3095,Wizard1559,Slytherin,70,89,95,93
+3096,Wizard2979,Gryffindor,65,51,50,51
+3097,Wizard3523,Ravenclaw,92,99,92,95
+3098,Wizard1108,Gryffindor,80,65,61,51
+3099,Kingsley Selwyn,Hufflepuff,52,83,42,48
+3100,Wizard2319,Ravenclaw,99,92,85,94
+3101,Wizard2463,Gryffindor,79,84,59,61
+3102,Wizard1056,Ravenclaw,97,98,94,93
+3103,Wizard684,Hufflepuff,71,47,53,52
+3104,Bathilda Goyle,Slytherin,75,80,72,92
+3105,Wizard3501,Ravenclaw,90,92,90,94
+3106,Wizard922,Slytherin,93,74,86,80
+3107,Wizard2275,Hufflepuff,55,67,75,56
+3108,Wizard1271,Slytherin,76,79,91,72
+3109,Helga Malfoy,Slytherin,82,90,70,79
+3110,Wizard862,Ravenclaw,94,93,93,95
+3111,Wizard2564,Hufflepuff,81,57,64,74
+3112,Wizard3990,Hufflepuff,55,76,76,75
+3113,Wizard303,Gryffindor,75,87,90,76
+3114,Wizard2101,Slytherin,91,72,91,75
+3115,Wizard3562,Hufflepuff,40,76,85,68
+3116,Wizard392,Ravenclaw,93,86,99,87
+3117,Wizard1006,Gryffindor,76,59,50,60
+3118,Wizard3413,Ravenclaw,94,86,99,96
+3119,Wizard28,Hufflepuff,84,55,78,50
+3120,Wizard3274,Gryffindor,52,82,55,73
+3121,Wizard665,Ravenclaw,100,96,88,85
+3122,Wizard3531,Gryffindor,58,61,67,89
+3123,Wulfric Slughorn,Gryffindor,90,51,50,64
+3124,Horace Selwyn,Gryffindor,62,50,71,55
+3125,Wizard2732,Gryffindor,64,50,80,69
+3126,Wizard1380,Hufflepuff,85,69,76,79
+3127,Wizard213,Ravenclaw,86,100,89,88
+3128,Wizard724,Slytherin,84,83,71,89
+3129,Wizard734,Ravenclaw,87,89,99,90
+3130,Wizard3161,Hufflepuff,78,52,51,48
+3131,Wizard2838,Slytherin,80,70,71,87
+3132,Dilys Goyle,Gryffindor,81,69,86,77
+3133,Wizard2743,Ravenclaw,94,96,87,88
+3134,Wizard1141,Slytherin,76,85,94,74
+3135,Wizard816,Hufflepuff,58,66,50,61
+3136,Wizard1094,Slytherin,95,87,93,82
+3137,Wizard3250,Ravenclaw,88,93,88,97
+3138,Wizard546,Gryffindor,57,63,74,75
+3139,Wizard1509,Ravenclaw,85,97,94,92
+3140,Wizard1655,Slytherin,82,93,93,88
+3141,Wizard18,Hufflepuff,68,51,71,69
+3142,Wizard3378,Gryffindor,79,73,70,56
+3143,Wizard1706,Ravenclaw,99,87,99,91
+3144,Wizard1245,Hufflepuff,70,65,55,65
+3145,Wizard1110,Slytherin,88,76,72,83
+3146,Gellert Pucey,Hufflepuff,49,61,57,44
+3147,Wizard183,Ravenclaw,86,95,86,93
+3148,Wizard2575,Gryffindor,90,55,81,73
+3149,Wizard3768,Slytherin,92,89,86,92
+3150,Wizard1699,Ravenclaw,89,88,99,85
+3151,Wizard2242,Gryffindor,52,89,71,85
+3152,Wizard656,Hufflepuff,60,47,56,47
+3153,Wizard3423,Gryffindor,53,54,87,82
+3154,Wizard583,Gryffindor,72,54,59,73
+3155,Wizard330,Ravenclaw,99,98,86,96
+3156,Wizard931,Gryffindor,74,90,62,87
+3157,Wizard1055,Hufflepuff,77,70,72,55
+3158,Wizard2387,Ravenclaw,91,85,99,91
+3159,Wizard3000,Slytherin,86,90,79,84
+3160,Wizard2369,Hufflepuff,42,44,71,63
+3161,Wizard95,Gryffindor,66,63,65,90
+3162,Wizard954,Ravenclaw,93,86,92,86
+3163,Wizard3953,Hufflepuff,80,52,57,70
+3164,Kingsley McGonagall,Ravenclaw,97,97,99,91
+3165,Wizard4075,Gryffindor,51,86,78,61
+3166,Wizard3545,Ravenclaw,93,89,87,98
+3167,Wizard2070,Slytherin,75,86,83,74
+3168,Wizard2223,Slytherin,82,88,82,72
+3169,Wizard782,Gryffindor,51,83,62,57
+3170,Gellert Shacklebolt,Gryffindor,63,77,79,83
+3171,Wizard3214,Hufflepuff,73,73,49,53
+3172,Wulfric Greengrass,Gryffindor,62,86,83,67
+3173,Wizard1132,Gryffindor,85,72,69,59
+3174,Wizard3580,Hufflepuff,41,61,81,56
+3175,Wizard2490,Ravenclaw,87,98,87,96
+3176,Wizard2170,Slytherin,83,87,79,86
+3177,Wizard1186,Hufflepuff,70,43,65,53
+3178,Wizard261,Ravenclaw,97,90,98,86
+3179,Wizard2611,Ravenclaw,91,86,92,86
+3180,Wizard3247,Hufflepuff,59,83,71,49
+3181,Wizard153,Hufflepuff,60,48,40,56
+3182,Wizard876,Ravenclaw,95,89,98,94
+3183,Horace Pucey,Gryffindor,52,72,80,50
+3184,Wizard3743,Slytherin,77,81,79,80
+3185,Wizard394,Slytherin,90,95,78,74
+3186,Wizard4006,Gryffindor,59,54,74,55
+3187,Wizard1890,Hufflepuff,48,84,74,78
+3188,Albus Greengrass,Slytherin,70,77,81,85
+3189,Wizard3560,Ravenclaw,94,87,87,94
+3190,Wizard1265,Gryffindor,86,57,72,73
+3191,Wizard3355,Gryffindor,69,56,82,72
+3192,Wizard1719,Gryffindor,57,89,62,69
+3193,Wizard1176,Slytherin,80,92,94,78
+3194,Wizard271,Gryffindor,55,86,86,84
+3195,Wizard98,Slytherin,92,81,81,89
+3196,Gellert Yaxley,Gryffindor,67,67,73,85
+3197,Minerva Zabini,Gryffindor,78,73,55,65
+3198,Wizard3178,Ravenclaw,89,94,91,99
+3199,Wizard3206,Hufflepuff,62,83,41,65
+3200,Wizard34,Slytherin,84,92,91,74
+3201,Wizard2269,Ravenclaw,87,96,87,96
+3202,Wizard1268,Gryffindor,73,66,53,86
+3203,Hepzibah Crabbe,Hufflepuff,58,74,47,72
+3204,Albus Selwyn,Gryffindor,59,84,78,52
+3205,Wizard3542,Gryffindor,76,66,67,87
+3206,Wizard3756,Gryffindor,61,87,69,78
+3207,Wizard2664,Slytherin,81,81,79,91
+3208,Wizard2372,Gryffindor,66,55,81,84
+3209,Wizard3803,Ravenclaw,88,92,91,90
+3210,Helga Crouch,Slytherin,88,70,89,80
+3211,Wizard1454,Ravenclaw,85,92,86,95
+3212,Wizard1452,Gryffindor,82,72,58,68
+3213,Wizard1757,Gryffindor,86,61,89,81
+3214,Wizard3829,Hufflepuff,49,58,40,68
+3215,Wizard3465,Ravenclaw,89,94,100,91
+3216,Wizard2254,Hufflepuff,54,74,54,57
+3217,Wizard3003,Ravenclaw,95,100,86,91
+3218,Wizard3026,Hufflepuff,73,53,59,67
+3219,Wizard1035,Hufflepuff,52,69,49,77
+3220,Wizard1127,Ravenclaw,92,86,100,90
+3221,Minerva Malfoy,Slytherin,90,76,89,79
+3222,Wizard1938,Ravenclaw,92,96,89,93
+3223,Arthur Carrow,Hufflepuff,72,54,56,68
+3224,Wizard3916,Gryffindor,77,53,57,62
+3225,Wizard480,Slytherin,95,95,86,79
+3226,Wizard3464,Hufflepuff,75,53,61,40
+3227,Wizard2525,Gryffindor,57,84,71,90
+3228,Wizard439,Ravenclaw,94,90,93,89
+3229,Wizard2054,Hufflepuff,67,77,44,44
+3230,Minerva Crouch,Slytherin,86,77,85,74
+3231,Wizard3032,Gryffindor,71,51,85,72
+3232,Wizard267,Ravenclaw,86,96,100,90
+3233,Wizard2024,Gryffindor,88,56,70,77
+3234,Sirius Slughorn,Slytherin,91,93,89,76
+3235,Wizard3018,Hufflepuff,41,56,62,84
+3236,Wizard289,Slytherin,86,86,77,73
+3237,Wizard3833,Gryffindor,70,57,51,66
+3238,Wizard2975,Slytherin,71,93,84,91
+3239,Wizard569,Gryffindor,90,60,79,72
+3240,Wizard3753,Hufflepuff,51,73,80,63
+3241,Wizard2619,Ravenclaw,98,99,100,92
+3242,Wizard490,Gryffindor,65,68,84,61
+3243,Wizard3024,Ravenclaw,92,99,85,89
+3244,Wizard2942,Slytherin,80,85,89,84
+3245,Dilys Greengrass,Hufflepuff,49,46,69,64
+3246,Wizard2091,Slytherin,75,85,95,93
+3247,Wizard2385,Ravenclaw,88,95,100,100
+3248,Wizard3240,Slytherin,82,73,83,80
+3249,Nymphadora Greengrass,Hufflepuff,66,43,51,44
+3250,Bellatrix Parkinson,Hufflepuff,81,53,77,56
+3251,Wizard2801,Gryffindor,51,87,71,79
+3252,Wizard3245,Gryffindor,72,88,80,53
+3253,Minerva Dumbledore,Hufflepuff,50,52,55,41
+3254,Sirius Grindelwald,Ravenclaw,91,95,93,86
+3255,Wizard2440,Ravenclaw,100,91,91,94
+3256,Wizard2681,Ravenclaw,94,86,98,85
+3257,Wizard1017,Gryffindor,59,69,70,88
+3258,Wizard1272,Slytherin,93,95,74,92
+3259,Wizard4041,Slytherin,88,92,90,88
+3260,Wizard2345,Gryffindor,72,89,54,83
+3261,Wizard284,Ravenclaw,100,87,93,95
+3262,Wizard3643,Hufflepuff,43,61,73,50
+3263,Wizard3508,Slytherin,93,90,75,74
+3264,Arthur Zabini,Ravenclaw,100,94,98,88
+3265,Wizard2697,Gryffindor,65,74,88,78
+3266,Wizard3061,Gryffindor,85,71,77,84
+3267,Wizard2390,Gryffindor,82,66,60,80
+3268,Wizard2828,Ravenclaw,87,86,86,86
+3269,Wizard17,Slytherin,82,88,70,79
+3270,Wizard3078,Slytherin,86,94,81,88
+3271,Wizard3922,Gryffindor,65,54,88,68
+3272,Minerva Bones,Slytherin,71,78,70,92
+3273,Wizard3731,Hufflepuff,40,46,59,85
+3274,Wizard3895,Gryffindor,62,65,88,70
+3275,Wizard3776,Ravenclaw,92,91,93,90
+3276,Wizard3885,Ravenclaw,90,96,98,85
+3277,Wizard4019,Hufflepuff,61,47,47,74
+3278,Wizard1449,Gryffindor,75,53,82,63
+3279,Wizard1392,Gryffindor,60,87,52,52
+3280,Wizard3087,Slytherin,85,75,76,71
+3281,Wizard332,Gryffindor,78,58,62,54
+3282,Wizard2842,Hufflepuff,43,54,78,40
+3283,Wizard1894,Slytherin,78,83,84,75
+3284,Wizard3066,Slytherin,70,84,72,74
+3285,Wizard56,Slytherin,79,75,86,91
+3286,Bridget Goyle,Slytherin,88,93,83,81
+3287,Wizard3740,Ravenclaw,90,92,100,85
+3288,Wizard1405,Gryffindor,74,86,75,66
+3289,Wizard412,Gryffindor,57,88,85,64
+3290,Wizard2162,Ravenclaw,92,87,90,88
+3291,Wizard3610,Hufflepuff,40,40,74,82
+3292,Wizard1837,Hufflepuff,55,52,62,54
+3293,Wizard200,Ravenclaw,85,93,99,95
+3294,Wizard1609,Slytherin,71,77,79,80
+3295,Wizard3796,Gryffindor,51,57,63,68
+3296,Wizard1046,Gryffindor,75,66,69,75
+3297,Wizard789,Hufflepuff,43,41,70,51
+3298,Wizard1710,Gryffindor,65,61,76,83
+3299,Wizard81,Slytherin,95,89,72,74
+3300,Wizard3613,Hufflepuff,82,64,85,83
+3301,Wizard138,Ravenclaw,98,100,91,85
+3302,Wizard3593,Hufflepuff,82,84,52,64
+3303,Wizard483,Hufflepuff,47,41,42,74
+3304,Wizard3985,Ravenclaw,91,90,85,92
+3305,Wizard3906,Hufflepuff,64,77,52,40
+3306,Wizard2123,Hufflepuff,55,78,71,82
+3307,Wizard1614,Hufflepuff,74,42,74,43
+3308,Lucius Malfoy,Ravenclaw,93,92,96,92
+3309,Wizard3011,Slytherin,87,87,70,80
+3310,Wizard3847,Ravenclaw,86,92,90,98
+3311,Wizard1904,Gryffindor,70,67,67,64
+3312,Wizard3053,Gryffindor,60,69,65,59
+3313,Wizard3909,Hufflepuff,82,71,65,83
+3314,Minerva Lestrange,Slytherin,73,73,94,87
+3315,Wizard3711,Gryffindor,53,57,79,87
+3316,Minerva Black,Slytherin,78,91,74,82
+3317,Molly Hooch,Gryffindor,81,75,76,64
+3318,Wizard2013,Hufflepuff,85,52,76,77
+3319,Wizard3869,Gryffindor,75,77,80,68
+3320,Wizard2248,Ravenclaw,94,97,98,100
+3321,Wizard2709,Hufflepuff,47,60,57,51
+3322,Wizard2476,Gryffindor,58,77,59,52
+3323,Wizard3373,Hufflepuff,44,56,75,57
+3324,Wizard1540,Hufflepuff,65,71,79,69
+3325,Godric Grindelwald,Gryffindor,87,54,85,63
+3326,Wizard1664,Slytherin,89,92,77,89
+3327,Arthur Lupin,Gryffindor,54,58,68,65
+3328,Wizard575,Gryffindor,71,81,72,56
+3329,Helga Greengrass,Hufflepuff,48,41,83,74
+3330,Wizard202,Gryffindor,53,86,76,84
+3331,Wizard1407,Hufflepuff,67,63,85,65
+3332,Wizard2141,Slytherin,87,87,95,84
+3333,Wizard342,Ravenclaw,94,97,85,85
+3334,Wizard2821,Ravenclaw,96,99,91,95
+3335,Wizard2235,Slytherin,82,72,77,82
+3336,Wizard3249,Slytherin,73,82,88,85
+3337,Wizard2265,Gryffindor,59,70,63,81
+3338,Wizard813,Hufflepuff,69,77,72,55
+3339,Wizard3048,Ravenclaw,86,86,88,99
+3340,Wizard2339,Hufflepuff,48,85,46,68
+3341,Wizard136,Hufflepuff,84,81,84,72
+3342,Wizard1289,Hufflepuff,56,69,83,80
+3343,Wizard3241,Ravenclaw,92,93,86,100
+3344,Wizard2572,Slytherin,83,76,88,70
+3345,Arthur Hagrid,Hufflepuff,58,78,77,47
+3346,Wizard2271,Gryffindor,59,76,75,72
+3347,Wizard1292,Gryffindor,83,62,61,80
+3348,Wizard774,Ravenclaw,87,85,94,93
+3349,Molly Diggory,Gryffindor,55,71,84,79
+3350,Wizard637,Gryffindor,65,69,78,52
+3351,Wizard3651,Hufflepuff,50,51,63,51
+3352,Wizard403,Hufflepuff,81,57,57,48
+3353,Wizard4056,Hufflepuff,41,45,65,84
+3354,Wizard859,Hufflepuff,65,57,60,74
+3355,Wizard869,Gryffindor,90,84,77,77
+3356,Wulfric Diggory,Hufflepuff,56,77,80,58
+3357,Wizard4021,Slytherin,79,93,76,73
+3358,Wizard1009,Hufflepuff,67,54,84,68
+3359,Wizard3006,Slytherin,78,74,70,92
+3360,Wizard1778,Hufflepuff,79,44,60,82
+3361,Wizard3220,Hufflepuff,62,43,43,66
+3362,Wizard2963,Ravenclaw,98,91,92,91
+3363,Wizard858,Hufflepuff,63,49,57,68
+3364,Wizard3986,Hufflepuff,68,51,83,74
+3365,Wizard1086,Ravenclaw,100,98,85,93
+3366,Wizard2772,Slytherin,76,80,84,78
+3367,Wilhelmina Crouch,Ravenclaw,93,96,93,95
+3368,Wizard3123,Ravenclaw,86,98,93,96
+3369,Wizard1098,Slytherin,90,86,78,82
+3370,Salazar Malfoy,Hufflepuff,68,69,63,55
+3371,Tom Parkinson,Hufflepuff,75,84,49,50
+3372,Wizard2474,Slytherin,95,83,91,92
+3373,Wizard148,Gryffindor,82,79,90,80
+3374,Wizard3997,Slytherin,74,83,75,95
+3375,Albus Diggory,Hufflepuff,78,65,83,81
+3376,Wizard3982,Hufflepuff,85,83,74,75
+3377,Horace Black,Slytherin,87,89,75,90
+3378,Wizard766,Slytherin,89,71,78,70
+3379,Wizard3547,Ravenclaw,90,90,93,94
+3380,Wizard760,Slytherin,92,84,83,94
+3381,Wizard2249,Slytherin,86,79,75,91
+3382,Wizard877,Slytherin,82,84,73,94
+3383,Wizard283,Gryffindor,66,85,83,69
+3384,Gellert Malfoy,Hufflepuff,75,70,56,54
+3385,Wizard1723,Ravenclaw,93,97,88,94
+3386,Wizard836,Gryffindor,55,83,69,84
+3387,Wizard3757,Hufflepuff,75,44,56,82
+3388,Wizard3380,Gryffindor,86,73,64,74
+3389,Wizard1102,Ravenclaw,89,89,90,97
+3390,Wizard1448,Hufflepuff,52,58,75,66
+3391,Lucius Flitwick,Slytherin,72,86,77,81
+3392,Wizard1868,Slytherin,95,86,93,85
+3393,Wizard1873,Hufflepuff,79,42,62,49
+3394,Bathilda Shacklebolt,Hufflepuff,46,40,51,80
+3395,Gellert Lovegood,Gryffindor,78,72,50,83
+3396,Wulfric Tonks,Slytherin,91,94,95,85
+3397,Wizard3495,Gryffindor,73,85,80,71
+3398,Minerva Tonks,Ravenclaw,97,92,90,95
+3399,Molly Weasley,Ravenclaw,96,97,95,98
+3400,Wizard629,Ravenclaw,96,89,91,86
+3401,Wizard3490,Ravenclaw,100,98,93,85
+3402,Bathilda Lovegood,Gryffindor,84,66,79,62
+3403,Wulfric Shacklebolt,Slytherin,85,84,75,85
+3404,Wizard3390,Slytherin,93,78,92,90
+3405,Wizard1168,Ravenclaw,97,99,99,95
+3406,Wizard2022,Gryffindor,62,83,80,54
+3407,Kingsley Diggory,Gryffindor,59,54,69,87
+3408,Wizard2460,Ravenclaw,88,92,99,92
+3409,Wizard3488,Gryffindor,75,77,81,90
+3410,Rubeus Shacklebolt,Hufflepuff,46,69,83,75
+3411,Godric Crabbe,Hufflepuff,44,47,63,81
+3412,Wizard935,Ravenclaw,99,85,98,92
+3413,Wizard3913,Ravenclaw,90,87,95,93
+3414,Wizard2199,Hufflepuff,57,62,79,62
+3415,Wizard2679,Ravenclaw,97,88,98,92
+3416,Wizard2859,Slytherin,75,74,90,72
+3417,Wizard2434,Slytherin,73,86,92,70
+3418,Remus Grindelwald,Hufflepuff,47,76,66,69
+3419,Wizard7,Ravenclaw,96,94,87,91
+3420,Wizard1944,Slytherin,86,74,82,90
+3421,Wizard3236,Hufflepuff,56,40,77,58
+3422,Wizard1916,Slytherin,85,85,89,92
+3423,Wizard1417,Hufflepuff,54,80,77,48
+3424,Wizard2119,Hufflepuff,54,44,42,46
+3425,Wizard2529,Slytherin,77,71,92,82
+3426,Dilys Lestrange,Gryffindor,61,62,76,77
+3427,Arthur Riddle,Ravenclaw,94,87,88,85
+3428,Wizard2456,Ravenclaw,93,99,98,100
+3429,Wizard3486,Ravenclaw,86,86,99,95
+3430,Wizard2657,Slytherin,89,80,76,73
+3431,Wizard3389,Slytherin,88,95,73,77
+3432,Wizard2663,Slytherin,79,90,79,93
+3433,Wizard658,Ravenclaw,97,96,96,91
+3434,Wizard3758,Hufflepuff,84,60,56,46
+3435,Minerva Parkinson,Ravenclaw,92,97,89,95
+3436,Wizard2473,Slytherin,76,91,86,83
+3437,Wizard242,Slytherin,79,88,72,90
+3438,Gellert Selwyn,Gryffindor,55,64,88,88
+3439,Wizard3808,Slytherin,73,86,72,72
+3440,Wizard1253,Gryffindor,73,56,89,60
+3441,Wizard1934,Ravenclaw,87,97,97,99
+3442,Wizard2168,Hufflepuff,50,84,71,61
+3443,Wizard610,Hufflepuff,45,78,70,43
+3444,Wizard585,Ravenclaw,96,86,85,89
+3445,Wizard3183,Hufflepuff,40,49,56,40
+3446,Wizard738,Slytherin,94,88,94,91
+3447,Wizard368,Gryffindor,53,87,66,77
+3448,Wizard506,Slytherin,86,89,75,71
+3449,Filius Grindelwald,Ravenclaw,100,91,97,99
+3450,Wizard2780,Hufflepuff,72,53,44,67
+3451,Wizard3638,Gryffindor,66,90,90,68
+3452,Wizard3578,Gryffindor,73,72,57,78
+3453,Wizard3881,Slytherin,88,72,82,90
+3454,Wizard2806,Slytherin,71,92,84,80
+3455,Wizard1848,Ravenclaw,91,95,94,90
+3456,Wizard1466,Gryffindor,54,81,63,87
+3457,Wizard833,Slytherin,75,73,76,87
+3458,Wizard3263,Hufflepuff,73,72,48,42
+3459,Wizard3836,Slytherin,88,93,85,86
+3460,Wizard226,Slytherin,95,73,92,71
+3461,Wizard1650,Gryffindor,52,78,50,53
+3462,Dilys Yaxley,Gryffindor,84,53,59,62
+3463,Wizard1170,Slytherin,91,70,77,86
+3464,Wizard3588,Ravenclaw,88,96,89,91
+3465,Wizard3929,Gryffindor,79,76,60,68
+3466,Wizard3124,Slytherin,77,72,90,75
+3467,Wizard1983,Hufflepuff,83,84,71,66
+3468,Wizard1120,Ravenclaw,86,86,92,94
+3469,Wizard847,Ravenclaw,99,91,97,99
+3470,Bathilda Flitwick,Ravenclaw,89,87,99,91
+3471,Wizard2736,Slytherin,76,79,88,92
+3472,Sirius Carrow,Hufflepuff,72,64,51,82
+3473,Wizard2492,Slytherin,82,87,89,77
+3474,Wizard3860,Gryffindor,57,61,87,51
+3475,Wizard4081,Ravenclaw,97,96,92,90
+3476,Wizard3320,Hufflepuff,56,41,76,65
+3477,Wizard1776,Ravenclaw,91,99,98,98
+3478,Wizard492,Slytherin,73,95,84,71
+3479,Wizard3070,Ravenclaw,96,89,88,99
+3480,Tom Riddle,Slytherin,72,87,85,95
+3481,Wizard3589,Hufflepuff,43,47,45,53
+3482,Wizard1717,Gryffindor,69,58,63,68
+3483,Wizard2356,Ravenclaw,89,88,95,100
+3484,Wizard3071,Gryffindor,90,73,70,75
+3485,Sirius Hagrid,Slytherin,70,74,71,88
+3486,Wizard1018,Gryffindor,63,80,84,67
+3487,Wizard1206,Hufflepuff,72,42,49,41
+3488,Wizard3129,Slytherin,76,89,89,87
+3489,Wizard2450,Ravenclaw,86,92,92,89
+3490,Wizard515,Ravenclaw,98,94,91,97
+3491,Wizard453,Ravenclaw,95,96,91,92
+3492,Wizard2591,Slytherin,80,94,83,72
+3493,Wizard3316,Ravenclaw,90,99,96,88
+3494,Wulfric Parkinson,Hufflepuff,60,45,80,66
+3495,Wizard1031,Hufflepuff,63,47,58,50
+3496,Wizard2451,Ravenclaw,89,90,91,91
+3497,Wizard995,Hufflepuff,74,79,55,56
+3498,Bridget Lupin,Ravenclaw,91,89,88,91
+3499,Wizard1674,Hufflepuff,48,49,75,85
+3500,Bellatrix Crabbe,Slytherin,86,95,75,95
+3501,Rowena Bones,Hufflepuff,60,48,57,73
+3502,Wizard493,Gryffindor,58,56,75,50
+3503,Rowena Crouch,Slytherin,74,76,77,93
+3504,Wizard1936,Hufflepuff,43,53,80,83
+3505,Wizard2350,Gryffindor,68,60,80,54
+3506,Wizard1131,Hufflepuff,82,76,75,57
+3507,Wizard3396,Slytherin,84,73,95,82
+3508,Rowena Flitwick,Gryffindor,60,77,81,74
+3509,Wizard3668,Ravenclaw,89,90,95,88
+3510,Wizard2412,Gryffindor,62,53,61,52
+3511,Wizard2843,Ravenclaw,86,95,85,91
+3512,Wizard3524,Slytherin,86,75,87,92
+3513,Wilhelmina Bones,Gryffindor,59,60,86,69
+3514,Filius Lestrange,Ravenclaw,100,95,97,90
+3515,Wizard2799,Slytherin,92,72,95,89
+3516,Wizard3199,Hufflepuff,83,43,71,71
+3517,Wizard2364,Ravenclaw,87,94,95,90
+3518,Wizard1834,Hufflepuff,78,65,70,70
+3519,Wizard613,Gryffindor,86,84,79,71
+3520,Wizard1193,Slytherin,87,87,73,90
+3521,Godric Crouch,Ravenclaw,99,97,86,98
+3522,Wizard5,Ravenclaw,89,100,87,93
+3523,Salazar Snape,Hufflepuff,76,54,68,47
+3524,Wizard3811,Slytherin,84,94,85,89
+3525,Wizard3194,Slytherin,87,94,73,95
+3526,Wizard3450,Gryffindor,58,60,75,69
+3527,Wizard3094,Ravenclaw,94,92,85,100
+3528,Wizard2964,Slytherin,77,81,94,79
+3529,Wizard3815,Hufflepuff,50,80,65,60
+3530,Wizard3204,Gryffindor,50,88,85,56
+3531,Wizard2447,Gryffindor,71,60,71,82
+3532,Wizard1138,Slytherin,82,94,87,85
+3533,Wizard448,Gryffindor,68,68,62,68
+3534,Wizard1302,Gryffindor,65,62,60,52
+3535,Wizard3611,Hufflepuff,51,77,53,77
+3536,Wizard2046,Hufflepuff,62,62,67,45
+3537,Wizard597,Gryffindor,72,51,71,79
+3538,Wizard3714,Ravenclaw,97,89,96,100
+3539,Wizard3325,Gryffindor,75,71,56,62
+3540,Wizard497,Hufflepuff,64,45,77,77
+3541,Wizard1238,Slytherin,71,82,73,84
+3542,Wizard2823,Gryffindor,52,70,87,76
+3543,Wizard3741,Slytherin,81,75,85,75
+3544,Wizard3855,Gryffindor,52,82,74,90
+3545,Wizard1485,Gryffindor,74,78,76,63
+3546,Wizard3093,Hufflepuff,53,79,62,68
+3547,Leta Grindelwald,Slytherin,87,85,78,92
+3548,Wizard1283,Slytherin,91,87,76,74
+3549,Wizard1932,Ravenclaw,85,86,100,96
+3550,Wizard2984,Hufflepuff,74,48,73,57
+3551,Wizard1982,Gryffindor,57,83,61,82
+3552,Rubeus Pucey,Ravenclaw,93,100,90,90
+3553,Wizard2605,Slytherin,83,74,78,82
+3554,Wizard2561,Hufflepuff,63,42,52,70
+3555,Wizard3590,Hufflepuff,46,72,40,57
+3556,Wizard805,Gryffindor,65,68,69,71
+3557,Wizard1601,Ravenclaw,97,93,92,99
+3558,Wizard3496,Ravenclaw,85,91,93,91
+3559,Wizard1891,Gryffindor,85,73,72,63
+3560,Wizard2629,Gryffindor,89,75,70,79
+3561,Wizard38,Gryffindor,88,90,84,57
+3562,Wizard4023,Ravenclaw,100,92,94,94
+3563,Wizard76,Slytherin,90,95,84,76
+3564,Molly Carrow,Slytherin,90,74,93,72
+3565,Wizard3276,Gryffindor,53,64,85,55
+3566,Wizard1197,Ravenclaw,96,86,95,100
+3567,Wizard941,Gryffindor,73,62,66,59
+3568,Wizard181,Slytherin,85,74,92,74
+3569,Wizard3996,Ravenclaw,86,86,86,89
+3570,Wizard1274,Hufflepuff,66,75,42,77
+3571,Rowena Pucey,Slytherin,86,85,77,76
+3572,Wizard2521,Hufflepuff,59,42,43,42
+3573,Bellatrix Selwyn,Slytherin,86,88,95,78
+3574,Wizard3371,Gryffindor,75,81,51,75
+3575,Bathilda Snape,Gryffindor,82,84,71,71
+3576,Wizard918,Gryffindor,80,72,55,50
+3577,Wizard3558,Hufflepuff,53,52,54,70
+3578,Wizard1924,Hufflepuff,83,55,41,64
+3579,Wizard3348,Gryffindor,56,63,88,71
+3580,Wizard3289,Gryffindor,83,65,54,81
+3581,Wizard2247,Gryffindor,63,73,89,74
+3582,Wizard944,Ravenclaw,89,89,89,91
+3583,Wizard3395,Slytherin,86,74,93,72
+3584,Wizard4031,Slytherin,76,85,90,74
+3585,Wizard1760,Hufflepuff,85,47,42,53
+3586,Horace Peverell,Slytherin,74,82,70,91
+3587,Wizard2145,Hufflepuff,73,71,84,53
+3588,Wizard507,Slytherin,89,71,70,85
+3589,Wizard1450,Slytherin,85,71,85,81
+3590,Severus Weasley,Hufflepuff,44,41,55,52
+3591,Wizard2686,Slytherin,78,70,71,81
+3592,Wizard235,Gryffindor,74,56,90,80
+3593,Wizard3603,Ravenclaw,95,92,99,97
+3594,Wizard1181,Ravenclaw,85,85,97,100
+3595,Helga Lestrange,Gryffindor,65,59,81,57
+3596,Godric Zabini,Slytherin,79,76,76,76
+3597,Wizard1286,Hufflepuff,66,64,41,55
+3598,Wizard3505,Gryffindor,86,89,85,70
+3599,Theseus Flitwick,Gryffindor,70,57,77,64
+3600,Wizard4001,Gryffindor,53,67,61,75
+3601,Wizard1080,Gryffindor,83,58,75,87
+3602,Wizard3447,Ravenclaw,88,98,96,90
+3603,Wizard256,Slytherin,91,95,80,71
+3604,Wizard692,Gryffindor,90,53,89,59
+3605,Wizard2729,Gryffindor,77,84,73,68
+3606,Wizard1000,Gryffindor,66,63,80,60
+3607,Dilys Zabini,Slytherin,75,75,92,85
+3608,Wizard2781,Hufflepuff,83,58,74,69
+3609,Leta Lovegood,Gryffindor,71,69,65,55
+3610,Tom Shacklebolt,Gryffindor,50,78,83,90
+3611,Wizard3312,Hufflepuff,41,65,84,63
+3612,Wizard3115,Slytherin,70,72,86,90
+3613,Wizard824,Gryffindor,79,80,90,53
+3614,Wizard173,Slytherin,70,77,87,84
+3615,Wizard2503,Slytherin,93,91,89,78
+3616,Wizard2457,Slytherin,73,92,78,72
+3617,Wilhelmina Hooch,Ravenclaw,95,90,94,91
+3618,Wizard2066,Ravenclaw,94,89,93,87
+3619,Wizard574,Gryffindor,60,57,67,57
+3620,Wizard678,Slytherin,70,84,83,84
+3621,Wizard1542,Slytherin,79,94,87,71
+3622,Lucius Black,Gryffindor,84,65,83,68
+3623,Wizard2899,Ravenclaw,100,98,97,97
+3624,Wizard26,Hufflepuff,60,78,84,81
+3625,Wizard1446,Slytherin,75,94,77,88
+3626,Horace Yaxley,Hufflepuff,67,75,69,47
+3627,Wizard379,Ravenclaw,90,86,98,96
+3628,Wizard1241,Hufflepuff,70,64,66,44
+3629,Wizard845,Hufflepuff,59,73,59,67
+3630,Wizard865,Slytherin,79,94,84,75
+3631,Wizard1490,Slytherin,93,79,77,70
+3632,Wizard3443,Gryffindor,77,87,57,66
+3633,Wizard172,Slytherin,86,86,82,85
+3634,Wizard3344,Gryffindor,77,65,81,83
+3635,Wizard3716,Hufflepuff,45,64,43,70
+3636,Wizard3172,Hufflepuff,42,53,57,56
+3637,Wizard1470,Slytherin,91,85,88,93
+3638,Sirius Parkinson,Gryffindor,55,88,63,68
+3639,Wizard2240,Slytherin,86,90,75,83
+3640,Wizard755,Gryffindor,68,79,63,61
+3641,Wizard1822,Hufflepuff,78,65,77,63
+3642,Wizard2110,Slytherin,76,75,94,84
+3643,Wizard502,Ravenclaw,85,86,98,92
+3644,Wizard644,Ravenclaw,88,99,99,93
+3645,Wizard2279,Gryffindor,87,72,88,71
+3646,Wizard2025,Ravenclaw,88,95,90,96
+3647,Sirius Weasley,Hufflepuff,46,64,75,59
+3648,Arthur Malfoy,Gryffindor,73,59,74,86
+3649,Wizard3859,Hufflepuff,45,52,53,73
+3650,Wizard2176,Ravenclaw,93,86,87,91
+3651,Wizard3810,Gryffindor,63,62,59,71
+3652,Wizard2368,Hufflepuff,61,48,84,53
+3653,Wizard2713,Slytherin,73,84,83,80
+3654,Wizard3892,Gryffindor,55,89,57,71
+3655,Wizard328,Ravenclaw,86,93,95,94
+3656,Wizard1923,Ravenclaw,94,92,88,91
+3657,Wizard2929,Slytherin,87,76,91,78
+3658,Rowena Carrow,Ravenclaw,88,87,98,92
+3659,Wizard463,Gryffindor,87,75,84,85
+3660,Nymphadora Hooch,Slytherin,77,82,95,93
+3661,Wizard577,Hufflepuff,65,71,42,72
+3662,Wizard2813,Ravenclaw,86,90,98,88
+3663,Wizard2362,Ravenclaw,90,97,94,95
+3664,Wizard1571,Hufflepuff,80,67,76,75
+3665,Wizard3365,Hufflepuff,81,43,80,75
+3666,Bridget Yaxley,Hufflepuff,73,84,59,80
+3667,Wizard3856,Gryffindor,65,79,83,56
+3668,Wizard2370,Slytherin,89,91,79,77
+3669,Bellatrix Goyle,Ravenclaw,100,93,95,92
+3670,Wizard3099,Slytherin,80,76,83,93
+3671,Hepzibah Peverell,Gryffindor,54,87,67,56
+3672,Wizard989,Hufflepuff,61,70,41,69
+3673,Lucius Yaxley,Ravenclaw,95,96,94,91
+3674,Albus Crouch,Slytherin,78,93,80,80
+3675,Wizard2646,Hufflepuff,57,64,63,61
+3676,Wizard1802,Ravenclaw,85,91,87,92
+3677,Salazar Dumbledore,Ravenclaw,92,98,86,88
+3678,Wizard2565,Ravenclaw,86,95,90,89
+3679,Wizard1284,Slytherin,93,73,86,70
+3680,Wizard1625,Slytherin,88,79,74,81
+3681,Wulfric Yaxley,Ravenclaw,93,89,87,86
+3682,Wizard884,Ravenclaw,92,95,85,98
+3683,Wizard966,Gryffindor,50,82,63,75
+3684,Rowena Yaxley,Hufflepuff,53,43,53,45
+3685,Gellert Carrow,Slytherin,77,72,95,92
+3686,Bathilda Carrow,Ravenclaw,94,91,93,94
+3687,Wizard2109,Slytherin,91,84,86,86
+3688,Wizard915,Slytherin,86,90,75,82
+3689,Wizard939,Hufflepuff,68,52,59,68
+3690,Wizard2206,Ravenclaw,88,93,94,85
+3691,Salazar Crabbe,Ravenclaw,98,89,93,86
+3692,Wizard2036,Hufflepuff,45,82,65,68
+3693,Wizard350,Ravenclaw,89,87,94,85
+3694,Kingsley Black,Hufflepuff,53,65,77,55
+3695,Wizard2677,Ravenclaw,100,95,98,88
+3696,Albus Lestrange,Hufflepuff,71,85,51,60
+3697,Wizard533,Hufflepuff,70,62,67,43
+3698,Wizard335,Slytherin,91,95,74,78
+3699,Wizard2573,Slytherin,80,83,81,76
+3700,Wizard1945,Slytherin,89,89,75,85
+3701,Wizard1687,Gryffindor,74,71,63,56
+3702,Wizard1486,Gryffindor,82,68,79,52
+3703,Wizard534,Hufflepuff,63,56,66,85
+3704,Wizard3914,Gryffindor,57,59,51,55
+3705,Bridget Greengrass,Hufflepuff,83,44,40,79
+3706,Wizard1996,Slytherin,85,80,76,93
+3707,Wizard3385,Gryffindor,65,52,56,80
+3708,Gellert Dumbledore,Gryffindor,67,56,65,57
+3709,Wizard3693,Slytherin,95,71,94,75
+3710,Wizard3554,Gryffindor,64,86,65,64
+3711,Wizard1906,Hufflepuff,83,52,85,52
+3712,Wizard54,Slytherin,83,79,90,94
+3713,Wizard1730,Ravenclaw,97,95,100,89
+3714,Wizard3956,Gryffindor,64,90,64,90
+3715,Wizard2947,Gryffindor,84,79,71,56
+3716,Wizard1694,Slytherin,83,76,85,72
+3717,Wizard1507,Slytherin,93,90,80,76
+3718,Wizard2637,Slytherin,91,75,78,94
+3719,Wizard466,Ravenclaw,92,97,87,99
+3720,Wizard2471,Hufflepuff,71,76,58,79
+3721,Wizard2620,Slytherin,92,80,85,83
+3722,Wizard2653,Slytherin,88,82,83,73
+3723,Minerva Greengrass,Ravenclaw,96,92,90,93
+3724,Wizard4057,Gryffindor,63,78,53,50
+3725,Gellert Hooch,Slytherin,71,90,80,81
+3726,Wizard4037,Hufflepuff,42,65,47,78
+3727,Wizard3430,Hufflepuff,85,65,50,43
+3728,Wizard2203,Gryffindor,65,83,90,52
+3729,Wizard2668,Gryffindor,55,81,80,60
+3730,Wizard3616,Hufflepuff,75,58,67,47
+3731,Wizard221,Hufflepuff,56,83,60,41
+3732,Leta Snape,Gryffindor,65,84,65,88
+3733,Wizard1704,Gryffindor,61,73,53,81
+3734,Wizard539,Hufflepuff,79,64,45,76
+3735,Wizard950,Ravenclaw,86,89,99,87
+3736,Wizard2151,Slytherin,90,77,85,86
+3737,Wulfric Hagrid,Ravenclaw,97,85,95,90
+3738,Wizard427,Gryffindor,75,50,57,81
+3739,Wizard1314,Slytherin,81,89,79,91
+3740,Wizard275,Slytherin,91,89,78,86
+3741,Wizard917,Slytherin,77,75,87,86
+3742,Wizard454,Hufflepuff,50,71,47,47
+3743,Wizard2804,Hufflepuff,72,64,48,61
+3744,Wizard1107,Ravenclaw,99,94,85,95
+3745,Wizard3718,Ravenclaw,87,90,92,88
+3746,Wizard1244,Gryffindor,73,78,90,52
+3747,Wizard78,Ravenclaw,92,93,96,100
+3748,Wizard752,Ravenclaw,96,89,90,97
+3749,Wizard1444,Ravenclaw,97,85,98,88
+3750,Wizard2920,Ravenclaw,90,85,91,93
+3751,Wizard129,Ravenclaw,95,86,90,91
+3752,Wizard803,Hufflepuff,74,42,44,70
+3753,Albus Slughorn,Gryffindor,57,90,79,83
+3754,Wizard3425,Ravenclaw,85,91,97,97
+3755,Wizard1072,Gryffindor,90,64,70,78
+3756,Wizard3800,Gryffindor,63,80,75,68
+3757,Wizard3010,Slytherin,71,74,77,80
+3758,Wizard1011,Ravenclaw,90,97,98,95
+3759,Wizard973,Hufflepuff,42,84,60,72
+3760,Wizard134,Ravenclaw,91,98,85,87
+3761,Wizard953,Slytherin,83,76,71,89
+3762,Bellatrix Slughorn,Slytherin,83,92,87,84
+3763,Severus Dumbledore,Hufflepuff,72,65,43,60
+3764,Wizard376,Gryffindor,50,77,53,50
+3765,Wizard3828,Ravenclaw,99,87,97,86
+3766,Wizard642,Ravenclaw,93,95,97,88
+3767,Leta Slughorn,Slytherin,79,82,92,91
+3768,Wizard1560,Slytherin,87,78,88,90
+3769,Wizard2055,Hufflepuff,48,49,83,45
+3770,Bathilda Hagrid,Slytherin,74,73,89,91
+3771,Wizard1431,Ravenclaw,94,99,99,96
+3772,Hepzibah Crouch,Slytherin,75,82,71,92
+3773,Wizard3489,Slytherin,91,82,75,75
+3774,Wizard48,Hufflepuff,79,67,57,46
+3775,Wizard3470,Hufflepuff,48,41,84,56
+3776,Wizard323,Ravenclaw,96,100,90,90
+3777,Wizard3583,Ravenclaw,89,89,87,85
+3778,Wizard1310,Slytherin,84,85,78,90
+3779,Wizard1390,Ravenclaw,85,85,87,95
+3780,Wizard2330,Hufflepuff,46,46,43,78
+3781,Wizard4090,Slytherin,75,77,89,78
+3782,Wizard334,Slytherin,88,75,83,84
+3783,Helga Diggory,Gryffindor,73,76,85,76
+3784,Filius Hagrid,Hufflepuff,74,78,41,66
+3785,Wizard3597,Gryffindor,70,81,77,53
+3786,Wizard1724,Hufflepuff,58,62,51,80
+3787,Wizard2433,Hufflepuff,72,51,79,58
+3788,Wizard2377,Hufflepuff,60,68,76,71
+3789,Wizard1163,Hufflepuff,49,77,63,63
+3790,Wizard3388,Ravenclaw,89,95,90,86
+3791,Wizard318,Ravenclaw,100,93,96,88
+3792,Molly Lupin,Hufflepuff,48,43,43,63
+3793,Wizard3827,Slytherin,81,89,84,90
+3794,Wizard2328,Ravenclaw,95,86,86,92
+3795,Wizard2442,Ravenclaw,95,89,94,97
+3796,Wizard1356,Slytherin,84,92,76,76
+3797,Sirius Hooch,Hufflepuff,57,48,61,69
+3798,Wizard481,Ravenclaw,100,90,97,89
+3799,Wizard409,Gryffindor,86,66,75,66
+3800,Theseus Zabini,Slytherin,94,72,88,70
+3801,Wizard4009,Hufflepuff,50,60,77,53
+3802,Wizard3084,Hufflepuff,49,58,80,64
+3803,Wizard365,Gryffindor,57,70,77,77
+3804,Wizard359,Hufflepuff,75,83,83,44
+3805,Wizard2960,Ravenclaw,94,91,89,95
+3806,Wizard1667,Hufflepuff,70,69,41,55
+3807,Wizard2140,Gryffindor,70,77,85,77
+3808,Wizard511,Ravenclaw,96,99,92,86
+3809,Wizard2788,Ravenclaw,85,85,95,89
+3810,Kingsley Hagrid,Ravenclaw,98,87,94,93
+3811,Wizard3014,Hufflepuff,40,71,68,40
+3812,Rubeus Lovegood,Ravenclaw,93,90,94,90
+3813,Wizard468,Gryffindor,64,68,73,57
+3814,Wizard3073,Ravenclaw,89,100,87,88
+3815,Wizard2444,Gryffindor,90,54,52,74
+3816,Horace Shacklebolt,Ravenclaw,88,97,91,94
+3817,Leta McGonagall,Ravenclaw,95,94,89,97
+3818,Wizard1144,Slytherin,70,80,75,77
+3819,Wizard2825,Slytherin,78,89,82,92
+3820,Wizard1064,Ravenclaw,99,96,95,95
+3821,Wizard662,Ravenclaw,91,100,87,92
+3822,Wizard3083,Hufflepuff,71,53,49,79
+3823,Wizard1589,Hufflepuff,59,49,85,41
+3824,Sirius Tonks,Ravenclaw,87,91,96,86
+3825,Wizard3846,Gryffindor,69,70,75,61
+3826,Percy Slughorn,Hufflepuff,69,53,58,72
+3827,Wizard3710,Gryffindor,87,54,78,56
+3828,Wizard3517,Ravenclaw,99,96,94,100
+3829,Arthur Snape,Ravenclaw,97,91,85,99
+3830,Wizard2488,Ravenclaw,88,92,92,88
+3831,Wizard1907,Hufflepuff,47,71,85,80
+3832,Tom Peverell,Slytherin,75,72,85,85
+3833,Wizard1374,Gryffindor,87,67,83,68
+3834,Gellert Grindelwald,Ravenclaw,90,93,86,85
+3835,Wizard3052,Ravenclaw,87,96,91,94
+3836,Wizard230,Ravenclaw,94,95,89,86
+3837,Wizard712,Hufflepuff,45,55,69,75
+3838,Wizard3530,Hufflepuff,60,75,58,59
+3839,Hepzibah Snape,Hufflepuff,72,74,68,45
+3840,Wizard2698,Gryffindor,78,79,75,70
+3841,Wizard3198,Gryffindor,70,75,87,83
+3842,Wizard1593,Gryffindor,64,70,50,74
+3843,Wizard3819,Ravenclaw,89,88,87,97
+3844,Wizard545,Slytherin,84,83,71,72
+3845,Wizard4020,Hufflepuff,82,49,61,67
+3846,Wizard2832,Ravenclaw,98,98,89,97
+3847,Wizard1808,Ravenclaw,88,96,94,99
+3848,Wizard3045,Slytherin,93,77,72,74
+3849,Wizard123,Hufflepuff,73,74,65,57
+3850,Wizard520,Hufflepuff,61,66,70,51
+3851,Wizard3894,Ravenclaw,88,93,100,89
+3852,Wizard630,Slytherin,86,79,93,72
+3853,Wizard340,Hufflepuff,41,52,78,64
+3854,Wizard1892,Gryffindor,54,87,59,68
+3855,Wizard1950,Ravenclaw,88,88,89,90
+3856,Rubeus Bones,Slytherin,71,91,80,77
+3857,Wizard704,Hufflepuff,82,85,76,78
+3858,Wizard2192,Gryffindor,77,90,63,57
+3859,Wizard1554,Slytherin,76,93,90,83
+3860,Wizard157,Hufflepuff,84,52,82,55
+3861,Wizard2312,Gryffindor,79,57,72,78
+3862,Wizard3454,Ravenclaw,94,96,99,89
+3863,Wizard2088,Slytherin,92,74,94,70
+3864,Wizard595,Slytherin,91,84,70,73
+3865,Wizard1910,Slytherin,95,82,90,86
+3866,Wizard384,Ravenclaw,92,87,85,85
+3867,Wizard2175,Hufflepuff,49,47,69,69
+3868,Wizard46,Slytherin,79,83,78,91
+3869,Wizard3246,Hufflepuff,57,67,82,59
+3870,Wizard2224,Slytherin,74,94,70,74
+3871,Wizard1771,Gryffindor,77,59,84,50
+3872,Rubeus Peverell,Hufflepuff,40,68,61,65
+3873,Wizard631,Gryffindor,67,55,56,66
+3874,Rubeus Tonks,Slytherin,75,82,72,71
+3875,Wizard111,Slytherin,78,81,89,78
+3876,Wizard269,Hufflepuff,47,52,59,51
+3877,Bridget Lestrange,Ravenclaw,85,100,90,91
+3878,Gellert Riddle,Hufflepuff,48,82,82,78
+3879,Wizard280,Slytherin,83,92,86,89
+3880,Wizard776,Hufflepuff,45,65,80,71
+3881,Wizard2851,Gryffindor,83,73,86,74
+3882,Wizard71,Slytherin,86,70,82,95
+3883,Wizard1465,Slytherin,93,88,79,91
+3884,Wizard2341,Slytherin,74,91,83,90
+3885,Percy McGonagall,Gryffindor,64,82,74,70
+3886,Wizard279,Slytherin,71,86,73,87
+3887,Wizard4033,Gryffindor,68,86,72,50
+3888,Salazar Crouch,Slytherin,93,71,86,86
+3889,Wizard1955,Ravenclaw,99,96,90,86
+3890,Wizard2627,Hufflepuff,54,58,46,69
+3891,Wizard1745,Ravenclaw,100,96,93,89
+3892,Wizard305,Slytherin,86,77,90,80
+3893,Wizard1033,Gryffindor,80,84,58,72
+3894,Wizard2228,Hufflepuff,61,76,81,68
+3895,Wizard732,Slytherin,85,82,78,72
+3896,Wizard3474,Ravenclaw,98,95,95,90
+3897,Wizard911,Gryffindor,58,73,78,67
+3898,Helga Lovegood,Hufflepuff,42,84,43,50
+3899,Wizard2765,Slytherin,90,75,72,79
+3900,Wizard3273,Slytherin,90,85,70,86
+3901,Wizard3044,Slytherin,87,92,88,84
+3902,Wizard4026,Slytherin,92,94,75,94
+3903,Wizard3428,Hufflepuff,52,43,49,56
+3904,Wizard3392,Ravenclaw,85,88,95,96
+3905,Wizard2351,Hufflepuff,55,70,66,46
+3906,Wizard1368,Hufflepuff,44,62,83,70
+3907,Wizard1797,Hufflepuff,64,53,60,43
+3908,Wizard59,Gryffindor,74,85,50,79
+3909,Wizard1759,Gryffindor,71,86,74,69
+3910,Wizard400,Slytherin,89,87,94,86
+3911,Wizard1252,Gryffindor,90,76,81,81
+3912,Wizard1027,Slytherin,82,71,81,81
+3913,Wizard3295,Gryffindor,69,78,90,85
+3914,Wizard2588,Slytherin,86,71,74,82
+3915,Wizard1234,Hufflepuff,83,44,50,72
+3916,Wizard2774,Gryffindor,50,73,72,57
+3917,Wizard2467,Slytherin,86,77,74,83
+3918,Wizard1124,Hufflepuff,47,81,72,77
+3919,Wizard3617,Ravenclaw,100,88,93,92
+3920,Wizard2324,Ravenclaw,99,99,89,90
+3921,Wizard3608,Hufflepuff,61,75,75,49
+3922,Wizard349,Gryffindor,61,56,72,77
+3923,Wizard2512,Ravenclaw,90,85,97,94
+3924,Wizard1184,Slytherin,80,93,92,77
+3925,Wizard3221,Gryffindor,78,56,56,82
+3926,Wizard1863,Gryffindor,64,79,88,83
+3927,Wizard3497,Slytherin,82,84,75,93
+3928,Lucius Pucey,Slytherin,84,89,82,86
+3929,Wizard2678,Ravenclaw,93,96,96,87
+3930,Wizard125,Ravenclaw,94,92,89,87
+3931,Wizard1969,Hufflepuff,44,74,73,45
+3932,Wizard4083,Gryffindor,81,67,73,55
+3933,Wizard649,Hufflepuff,45,52,52,82
+3934,Arthur Hooch,Gryffindor,74,66,51,72
+3935,Wizard1222,Hufflepuff,52,76,45,60
+3936,Wizard1573,Ravenclaw,94,92,91,92
+3937,Wizard2969,Hufflepuff,43,50,65,58
+3938,Wizard3336,Ravenclaw,87,98,88,98
+3939,Minerva Peverell,Gryffindor,71,64,80,53
+3940,Wizard3453,Ravenclaw,95,89,97,100
+3941,Rubeus McGonagall,Gryffindor,82,89,80,54
+3942,Wizard657,Hufflepuff,84,54,66,71
+3943,Minerva Selwyn,Slytherin,72,87,85,76
+3944,Wizard1203,Ravenclaw,90,90,90,87
+3945,Wizard70,Ravenclaw,97,98,93,90
+3946,Wizard2699,Ravenclaw,90,98,85,88
+3947,Wizard2615,Gryffindor,76,83,84,87
+3948,Wizard1215,Hufflepuff,84,73,81,68
+3949,Wizard1824,Hufflepuff,68,48,49,48
+3950,Wizard1741,Ravenclaw,87,90,85,94
+3951,Wizard3315,Gryffindor,73,67,61,62
+3952,Wizard2416,Gryffindor,62,54,73,70
+3953,Wizard771,Slytherin,93,71,85,77
+3954,Wizard3426,Gryffindor,86,55,69,55
+3955,Lucius Shacklebolt,Hufflepuff,84,69,85,75
+3956,Wizard3333,Ravenclaw,94,86,90,89
+3957,Wizard3689,Ravenclaw,87,90,100,92
+3958,Wizard3532,Slytherin,95,81,71,87
+3959,Nymphadora Weasley,Hufflepuff,70,56,69,74
+3960,Wizard1497,Slytherin,77,78,76,80
+3961,Wizard3357,Gryffindor,50,53,79,52
+3962,Wizard58,Ravenclaw,88,90,91,97
+3963,Wizard3383,Ravenclaw,85,88,99,91
+3964,Wizard3143,Ravenclaw,89,89,89,92
+3965,Wizard1838,Ravenclaw,94,89,85,93
+3966,Wizard1436,Gryffindor,83,87,61,82
+3967,Wizard2193,Hufflepuff,40,66,64,41
+3968,Kingsley Yaxley,Slytherin,73,79,91,72
+3969,Wizard144,Hufflepuff,77,46,85,54
+3970,Kingsley Shacklebolt,Slytherin,93,89,92,87
+3971,Wizard1364,Slytherin,91,74,70,71
+3972,Wizard2020,Slytherin,70,72,76,95
+3973,Wizard2980,Slytherin,86,74,77,81
+3974,Wizard436,Hufflepuff,40,70,55,72
+3975,Wizard2257,Slytherin,79,77,83,95
+3976,Remus Lovegood,Ravenclaw,87,99,88,99
+3977,Wizard3327,Gryffindor,68,87,86,80
+3978,Wizard3795,Ravenclaw,92,90,87,95
+3979,Wizard2187,Ravenclaw,93,88,89,92
+3980,Wizard2394,Gryffindor,59,51,61,90
+3981,Wizard2793,Ravenclaw,90,85,100,88
+3982,Wizard2321,Ravenclaw,93,85,91,98
+3983,Wizard364,Ravenclaw,90,89,100,95
+3984,Wizard635,Hufflepuff,64,59,59,85
+3985,Wizard4059,Gryffindor,72,70,50,77
+3986,Wizard1130,Gryffindor,72,88,62,66
+3987,Wizard747,Gryffindor,67,74,74,75
+3988,Wizard4076,Hufflepuff,50,61,58,56
+3989,Rowena Crabbe,Ravenclaw,99,96,97,91
+3990,Wizard3209,Gryffindor,75,64,66,87
+3991,Wizard1563,Slytherin,95,76,84,85
+3992,Hepzibah Hagrid,Gryffindor,53,52,70,67
+3993,Wizard2829,Gryffindor,51,72,61,70
+3994,Wizard2011,Hufflepuff,41,72,46,61
+3995,Wizard1478,Hufflepuff,47,70,59,66
+3996,Lucius Hagrid,Ravenclaw,92,99,92,98
+3997,Sirius Pucey,Slytherin,82,71,78,75
+3998,Wizard2602,Hufflepuff,46,48,59,60
+3999,Wizard4077,Hufflepuff,75,81,54,43
+4000,Wizard1453,Slytherin,89,84,76,77
+4001,Wizard1254,Gryffindor,66,54,61,65
+4002,Wizard3652,Gryffindor,77,82,63,76
+4003,Wizard1859,Ravenclaw,87,99,91,91
+4004,Rowena Shacklebolt,Hufflepuff,80,80,55,51
+4005,Hepzibah Zabini,Ravenclaw,96,90,92,87
+4006,Wizard3745,Ravenclaw,98,98,90,100
+4007,Wizard795,Ravenclaw,92,96,94,85
+4008,Wizard2133,Gryffindor,62,59,60,63
+4009,Wizard850,Gryffindor,60,73,55,61
+4010,Wizard1819,Slytherin,81,82,82,74
+4011,Wizard2669,Hufflepuff,79,44,85,67
+4012,Wizard1290,Hufflepuff,42,65,64,57
+4013,Wizard1308,Ravenclaw,94,92,87,95
+4014,Wizard401,Gryffindor,53,73,72,74
+4015,Wizard992,Ravenclaw,97,87,90,100
+4016,Wizard499,Ravenclaw,90,96,86,89
+4017,Wizard1119,Slytherin,95,95,93,80
+4018,Wizard634,Ravenclaw,93,93,94,89
+4019,Wizard2449,Slytherin,85,90,82,89
+4020,Wizard3556,Slytherin,73,91,86,78
+4021,Wizard292,Ravenclaw,92,90,86,99
+4022,Wizard188,Hufflepuff,69,58,49,43
+4023,Wizard898,Ravenclaw,88,87,92,90
+4024,Wizard3637,Hufflepuff,43,44,45,60
+4025,Wizard606,Gryffindor,77,64,78,75
+4026,Wizard616,Gryffindor,59,80,88,50
+4027,Dilys Selwyn,Ravenclaw,93,94,98,87
+4028,Wizard2970,Slytherin,92,89,84,82
+4029,Wizard2404,Hufflepuff,56,77,57,74
+4030,Albus Yaxley,Ravenclaw,86,85,92,100
+4031,Wizard2403,Slytherin,71,78,75,82
+4032,Wizard3321,Ravenclaw,95,99,97,100
+4033,Wizard198,Ravenclaw,91,85,93,92
+4034,Wizard3305,Slytherin,83,89,95,92
+4035,Wizard3905,Ravenclaw,99,92,92,94
+4036,Wizard3079,Gryffindor,66,51,81,86
+4037,Wizard2502,Hufflepuff,49,49,69,58
+4038,Wizard2164,Gryffindor,90,51,88,60
+4039,Wizard3975,Hufflepuff,41,52,81,69
+4040,Wizard1280,Slytherin,73,72,82,74
+4041,Wizard2836,Hufflepuff,61,66,49,85
+4042,Wizard1432,Slytherin,85,94,91,75
+4043,Wizard1648,Gryffindor,71,56,70,55
+4044,Hepzibah Carrow,Gryffindor,86,64,65,60
+4045,Horace Crouch,Ravenclaw,91,97,88,91
+4046,Wizard1761,Slytherin,83,78,84,72
+4047,Wizard1076,Gryffindor,64,89,64,83
+4048,Wizard73,Gryffindor,71,51,86,81
+4049,Wizard1491,Hufflepuff,45,77,80,82
+4050,Wizard3673,Gryffindor,89,50,53,62
+4051,Wizard2623,Hufflepuff,72,63,58,41
+4052,Wizard2304,Gryffindor,83,53,80,83
+4053,Wizard2786,Ravenclaw,93,90,88,86
+4054,Bridget Snape,Hufflepuff,48,62,73,43
+4055,Wizard84,Ravenclaw,94,98,100,95
+4056,Wizard308,Slytherin,88,79,87,85
+4057,Wizard1588,Ravenclaw,86,88,85,93
+4058,Wizard1456,Gryffindor,82,79,51,62
+4059,Wizard2217,Ravenclaw,87,99,86,91
+4060,Wizard768,Ravenclaw,91,96,94,95
+4061,Wizard2877,Hufflepuff,67,40,71,72
+4062,Wizard2981,Gryffindor,85,66,67,63
+4063,Hepzibah Hooch,Slytherin,90,70,93,88
+4064,Wizard1328,Gryffindor,73,64,51,90
+4065,Wizard1481,Gryffindor,70,77,84,87
+4066,Wizard2819,Ravenclaw,87,91,92,92
+4067,Wizard2284,Gryffindor,80,82,61,82
+4068,Wizard212,Slytherin,74,89,71,87
+4069,Tom Pucey,Gryffindor,79,85,56,80
+4070,Wizard2760,Ravenclaw,96,85,87,88
+4071,Wizard2073,Ravenclaw,93,87,88,92
+4072,Wizard2787,Ravenclaw,97,92,98,99
+4073,Wizard2624,Hufflepuff,81,53,84,52
+4074,Wizard3150,Ravenclaw,85,95,92,85
+4075,Wizard469,Slytherin,90,80,91,95
+4076,Dilys Black,Ravenclaw,89,98,86,86
+4077,Wizard2818,Slytherin,78,73,89,94
+4078,Wizard1737,Gryffindor,59,79,53,80
+4079,Wizard1953,Ravenclaw,94,89,88,99
+4080,Wizard3522,Gryffindor,69,82,64,64
+4081,Wizard3640,Gryffindor,57,58,67,80
+4082,Wizard3867,Gryffindor,58,75,69,54
+4083,Wizard528,Ravenclaw,91,94,92,97
+4084,Wizard1668,Hufflepuff,44,68,43,70
+4085,Wizard3259,Slytherin,90,82,95,79
+4086,Wizard2354,Slytherin,94,70,73,84
+4087,Wizard2941,Hufflepuff,69,57,41,62
+4088,Wizard2771,Slytherin,75,87,75,83
+4089,Remus Flitwick,Gryffindor,70,90,69,76
+4090,Tom Selwyn,Gryffindor,77,55,79,66
+4091,Wilhelmina Parkinson,Hufflepuff,73,76,64,48
+4092,Wizard3164,Ravenclaw,95,97,93,89
+4093,Wizard2805,Slytherin,92,71,74,78
+4094,Wizard3595,Gryffindor,51,64,55,86
+4095,Wizard2255,Gryffindor,61,88,53,60
+4096,Newt Snape,Ravenclaw,85,88,90,88
+4097,Wizard2307,Slytherin,79,94,86,90
+4098,Wizard671,Slytherin,81,78,94,88
+4099,Wizard521,Slytherin,75,86,70,76
+4100,Wizard1295,Hufflepuff,81,63,72,48
+4101,Wizard1145,Hufflepuff,46,48,66,53
+4102,Wizard1112,Hufflepuff,61,51,44,40
+4103,Helga Slughorn,Ravenclaw,85,95,91,97
+4104,Wizard2571,Hufflepuff,69,76,54,57
+4105,Wizard825,Slytherin,79,72,92,91
+4106,Wizard676,Gryffindor,76,53,54,86
+4107,Wizard2389,Hufflepuff,54,85,63,44
+4108,Wizard3067,Slytherin,86,84,84,92
+4109,Wizard3804,Slytherin,72,76,85,89
+4110,Bellatrix Grindelwald,Slytherin,88,73,90,89
+4111,Wizard2458,Gryffindor,74,77,65,61
+4112,Wizard3897,Ravenclaw,94,87,91,98
+4113,Wizard2116,Slytherin,76,86,93,82
+4114,Wizard1752,Slytherin,73,73,82,86
+4115,Nymphadora Black,Gryffindor,70,67,78,85
+4116,Wizard2850,Ravenclaw,87,96,98,98
+4117,Wizard2558,Ravenclaw,97,99,86,98
+4118,Wizard3666,Slytherin,79,94,92,75
+4119,Wizard1376,Ravenclaw,90,92,96,100
+4120,Wizard3946,Gryffindor,71,72,86,63
+4121,Wizard518,Gryffindor,70,52,74,80
+4122,Wizard2670,Slytherin,73,79,81,76
+4123,Wizard3653,Slytherin,87,88,83,70
+4124,Wizard3452,Hufflepuff,71,45,43,74
+4125,Wizard2534,Gryffindor,70,90,81,66
+4126,Wizard1482,Gryffindor,58,69,72,90
+4127,Wizard2246,Hufflepuff,69,84,65,69
+4128,Wizard1188,Gryffindor,70,72,74,76
+4129,Wizard955,Gryffindor,80,89,84,62
+4130,Wizard3971,Ravenclaw,87,99,90,100
+4131,Wizard2971,Ravenclaw,99,92,100,86
+4132,Wizard2695,Ravenclaw,85,97,92,100
+4133,Wizard791,Ravenclaw,100,99,99,92
+4134,Wizard1795,Hufflepuff,57,40,58,48
+4135,Wizard1658,Slytherin,94,78,86,76
+4136,Wizard3222,Ravenclaw,89,86,87,92
+4137,Wizard3983,Slytherin,78,72,89,80
+4138,Wizard517,Gryffindor,89,54,71,67
+4139,Theseus Carrow,Ravenclaw,99,88,91,91
+4140,Wizard2097,Slytherin,95,87,89,70
+4141,Wizard432,Slytherin,80,93,73,84
+4142,Wizard654,Gryffindor,78,71,61,56
+4143,Wizard1618,Hufflepuff,58,43,50,60
+4144,Wizard4014,Hufflepuff,70,58,79,53
+4145,Wizard1158,Ravenclaw,92,88,85,94
+4146,Wizard1514,Hufflepuff,63,51,61,41
+4147,Wizard3687,Slytherin,85,94,75,82
+4148,Wizard2956,Ravenclaw,99,95,100,88
+4149,Nymphadora Snape,Gryffindor,81,71,57,54
+4150,Wizard1931,Slytherin,79,94,72,77
+4151,Wizard2682,Ravenclaw,96,89,99,92
+4152,Wizard844,Slytherin,83,74,90,71
+4153,Wizard2706,Ravenclaw,95,95,98,90
+4154,Lucius Parkinson,Slytherin,91,70,84,81
+4155,Wizard686,Gryffindor,81,88,69,73
+4156,Wizard683,Ravenclaw,92,88,88,95
+4157,Nymphadora Parkinson,Hufflepuff,51,71,67,74
+4158,Wizard1171,Slytherin,90,94,92,87
+4159,Bathilda Yaxley,Ravenclaw,94,85,95,98
+4160,Wizard3573,Ravenclaw,85,95,90,99
+4161,Wizard612,Slytherin,76,80,70,82
+4162,Kingsley Lestrange,Gryffindor,78,71,63,69
+4163,Wizard2076,Slytherin,93,79,92,90
+4164,Wizard2422,Gryffindor,89,64,71,51
+4165,Dilys Grindelwald,Gryffindor,55,55,53,60
+4166,Wizard437,Gryffindor,88,50,83,79
+4167,Wizard785,Hufflepuff,58,42,56,49
+4168,Theseus Shacklebolt,Slytherin,95,92,87,92
+4169,Wizard1069,Hufflepuff,71,80,44,69
+4170,Kingsley Bones,Ravenclaw,94,86,91,86
+4171,Wizard2808,Slytherin,91,82,73,94
+4172,Wizard1024,Slytherin,81,84,79,72
+4173,Wizard2127,Slytherin,91,71,89,74
+4174,Nymphadora Crouch,Ravenclaw,91,85,98,92
+4175,Wizard2190,Ravenclaw,88,94,100,100
+4176,Wizard229,Slytherin,92,77,81,84
+4177,Wizard3326,Slytherin,95,90,79,71
+4178,Wizard2845,Ravenclaw,95,90,94,90
+4179,Wizard2628,Slytherin,86,94,80,74
+4180,Wizard608,Ravenclaw,95,89,91,96
+4181,Albus Zabini,Slytherin,87,70,85,91
+4182,Horace Lupin,Hufflepuff,73,74,85,49
+4183,Severus Crabbe,Slytherin,93,79,88,92
+4184,Percy Lupin,Slytherin,88,82,81,95
+4185,Wizard2454,Hufflepuff,80,83,65,41
+4186,Wizard186,Hufflepuff,80,60,85,43
+4187,Wizard687,Gryffindor,81,66,82,68
+4188,Wizard52,Ravenclaw,92,91,93,94
+4189,Wizard874,Slytherin,93,83,72,71
+4190,Wizard4015,Gryffindor,78,59,68,70
+4191,Wizard3598,Hufflepuff,44,79,73,79
+4192,Wizard49,Hufflepuff,74,77,81,71
+4193,Wizard1784,Hufflepuff,60,68,52,71
+4194,Wizard180,Hufflepuff,43,79,64,52
+4195,Wizard855,Slytherin,70,85,84,78
+4196,Wizard2505,Ravenclaw,92,98,95,95
+4197,Rubeus Hooch,Ravenclaw,91,87,89,88
+4198,Wizard1973,Gryffindor,59,69,55,80
+4199,Wizard175,Ravenclaw,99,92,92,92
+4200,Wizard3302,Slytherin,81,76,70,80
+4201,Wizard1472,Ravenclaw,100,88,90,86
+4202,Wizard807,Gryffindor,55,61,60,68
+4203,Wizard2277,Ravenclaw,92,100,89,92
+4204,Wizard1729,Gryffindor,82,50,68,74
+4205,Wizard2213,Slytherin,94,81,77,71
+4206,Albus Malfoy,Ravenclaw,96,100,87,90
+4207,Wizard974,Slytherin,79,93,95,86
+4208,Wizard598,Slytherin,79,71,79,95
+4209,Wizard2323,Slytherin,95,88,77,70
+4210,Wizard1960,Slytherin,94,95,81,83
+4211,Wizard3582,Slytherin,80,74,85,81
+4212,Wizard960,Gryffindor,79,67,81,55
+4213,Wizard1987,Ravenclaw,87,91,91,91
+4214,Wizard4016,Ravenclaw,97,92,98,98
+4215,Wizard3876,Slytherin,89,76,72,88
+4216,Wizard262,Gryffindor,85,72,52,52
+4217,Wizard3095,Ravenclaw,86,96,94,95
+4218,Wizard2303,Slytherin,76,91,83,70
+4219,Wizard3153,Hufflepuff,82,70,78,77
+4220,Wizard3938,Slytherin,70,80,89,80
+4221,Wizard2158,Gryffindor,67,87,64,65
+4222,Wizard108,Gryffindor,54,84,88,66
+4223,Wizard3175,Hufflepuff,80,53,47,46
+4224,Wizard2395,Hufflepuff,46,51,50,77
+4225,Wizard1187,Ravenclaw,100,93,85,86
+4226,Horace Flitwick,Gryffindor,70,69,59,90
+4227,Wizard1159,Ravenclaw,89,85,94,98
+4228,Wizard1494,Gryffindor,86,79,76,86
+4229,Wizard1768,Ravenclaw,96,91,92,99
+4230,Wizard1128,Ravenclaw,100,88,87,93
+4231,Wizard1147,Slytherin,87,73,83,83
+4232,Wizard1067,Hufflepuff,74,54,69,61
+4233,Wizard142,Slytherin,87,83,90,89
+4234,Wizard2986,Gryffindor,63,50,56,88
+4235,Wizard4054,Gryffindor,57,53,57,86
+4236,Bathilda Dumbledore,Hufflepuff,58,63,48,80
+4237,Wizard1207,Gryffindor,68,79,88,87
+4238,Wizard1221,Ravenclaw,87,91,98,85
+4239,Wizard1336,Hufflepuff,58,82,51,60
+4240,Wizard2030,Gryffindor,79,70,73,57
+4241,Remus Goyle,Hufflepuff,78,41,84,81
+4242,Wizard2367,Slytherin,86,95,93,82
+4243,Wizard1877,Hufflepuff,51,77,81,51
+4244,Wizard979,Hufflepuff,58,42,60,63
+4245,Wizard2595,Gryffindor,63,82,54,65
+4246,Wizard1063,Hufflepuff,75,70,74,58
+4247,Wizard1299,Ravenclaw,99,93,97,97
+4248,Wizard1125,Hufflepuff,57,59,75,52
+4249,Bridget Grindelwald,Gryffindor,77,78,59,70
+4250,Theseus Hagrid,Hufflepuff,73,85,82,79
+4251,Wizard1683,Ravenclaw,89,93,88,93
+4252,Wizard2826,Hufflepuff,57,56,44,67
+4253,Wizard3192,Ravenclaw,97,92,96,85
+4254,Wizard421,Gryffindor,62,70,69,79
+4255,Tom McGonagall,Ravenclaw,88,88,85,96
+4256,Wizard3107,Gryffindor,54,75,69,82
+4257,Wizard1256,Ravenclaw,90,98,94,91
+4258,Wizard2075,Hufflepuff,68,62,65,69
+4259,Wizard4043,Gryffindor,60,72,79,87
+4260,Wizard1608,Slytherin,92,77,94,90
+4261,Wizard1467,Gryffindor,80,61,54,74
+4262,Filius McGonagall,Slytherin,85,72,80,75
+4263,Wizard1251,Ravenclaw,95,88,87,94
+4264,Wizard3059,Gryffindor,74,76,79,51
+4265,Wizard3229,Slytherin,93,79,83,86
+4266,Wizard1765,Hufflepuff,63,67,73,76
+4267,Wizard1816,Ravenclaw,85,99,89,87
+4268,Albus Hagrid,Hufflepuff,46,43,52,58
+4269,Tom Lestrange,Gryffindor,87,51,81,66
+4270,Wizard2019,Hufflepuff,59,68,49,57
+4271,Wizard1634,Slytherin,94,72,94,93
+4272,Godric Black,Hufflepuff,64,74,84,47
+4273,Wizard3002,Gryffindor,53,65,52,89
+4274,Wizard3283,Gryffindor,53,85,89,78
+4275,Wizard478,Ravenclaw,89,94,92,89
+4276,Wizard582,Gryffindor,83,74,89,89
+4277,Wizard1744,Ravenclaw,97,89,96,98
+4278,Wizard1990,Ravenclaw,96,97,100,90
+4279,Wizard901,Ravenclaw,97,92,98,85
+4280,Wizard3350,Ravenclaw,93,99,85,86
+4281,Wizard3977,Slytherin,95,73,83,75
+4282,Wizard826,Hufflepuff,43,78,83,61
+4283,Wizard2439,Ravenclaw,86,96,93,92
+4284,Bathilda Selwyn,Hufflepuff,52,68,59,50
+4285,Wizard3957,Hufflepuff,56,85,64,51
+4286,Wizard2689,Gryffindor,72,66,66,66
+4287,Wizard417,Gryffindor,70,85,74,79
+4288,Wizard3253,Ravenclaw,93,100,94,91
+4289,Wizard2131,Ravenclaw,95,90,95,94
+4290,Wizard3864,Ravenclaw,86,95,94,91
+4291,Lucius Carrow,Hufflepuff,40,45,55,65
+4292,Wizard555,Gryffindor,69,51,68,74
+4293,Wizard3974,Gryffindor,63,67,64,63
+4294,Rowena Riddle,Ravenclaw,93,93,93,100
+4295,Wizard2840,Hufflepuff,41,67,51,53
+4296,Wizard2742,Ravenclaw,92,94,100,97
+4297,Wizard3309,Hufflepuff,54,49,71,73
+4298,Filius Crabbe,Gryffindor,90,69,65,90
+4299,Sirius Peverell,Ravenclaw,87,94,95,86
+4300,Filius Tonks,Hufflepuff,83,67,59,80
+4301,Wulfric Pucey,Hufflepuff,71,54,62,51
+4302,Wizard695,Gryffindor,89,65,84,85
+4303,Wizard835,Slytherin,84,90,89,75
+4304,Wizard2118,Gryffindor,55,70,50,81
+4305,Wizard697,Slytherin,82,75,92,92
+4306,Wizard1008,Slytherin,74,89,74,73
+4307,Wizard3825,Slytherin,80,72,78,81
+4308,Wizard120,Gryffindor,74,86,84,77
+4309,Percy Black,Slytherin,89,72,87,87
+4310,Wizard2233,Hufflepuff,44,50,71,70
+4311,Wizard3923,Slytherin,78,89,80,77
+4312,Wizard3122,Hufflepuff,61,58,82,80
+4313,Wizard1661,Hufflepuff,74,59,64,47
+4314,Bellatrix Shacklebolt,Gryffindor,80,53,67,53
+4315,Wizard3217,Ravenclaw,93,96,92,97
+4316,Wizard3760,Hufflepuff,65,69,84,49
+4317,Remus Slughorn,Gryffindor,65,65,51,61
+4318,Albus Carrow,Hufflepuff,58,71,77,69
+4319,Wizard1602,Ravenclaw,94,97,86,99
+4320,Wizard2115,Slytherin,72,81,90,95
+4321,Wizard2204,Gryffindor,55,57,90,60
+4322,Wizard3604,Slytherin,85,73,92,90
+4323,Wizard2429,Slytherin,73,78,80,86
+4324,Wizard351,Hufflepuff,64,42,52,60
+4325,Wizard3629,Hufflepuff,69,77,41,45
+4326,Wizard1410,Slytherin,70,74,89,73
+4327,Wizard2360,Slytherin,73,90,90,95
+4328,Wizard1901,Slytherin,80,74,83,82
+4329,Wizard2550,Hufflepuff,80,79,64,85
+4330,Rowena Black,Ravenclaw,98,97,95,96
+4331,Wizard780,Ravenclaw,99,94,85,91
+4332,Wizard3695,Hufflepuff,40,44,78,76
+4333,Filius Black,Hufflepuff,80,58,44,72
+4334,Wizard2448,Slytherin,85,88,74,72
+4335,Wizard3110,Gryffindor,82,73,54,67
+4336,Wizard927,Gryffindor,83,62,88,73
+4337,Wizard3749,Ravenclaw,100,98,88,94
+4338,Wizard1519,Gryffindor,85,61,76,80
+4339,Wizard3969,Ravenclaw,86,99,89,99
+4340,Horace Carrow,Hufflepuff,57,41,43,60
+4341,Wizard804,Gryffindor,72,69,77,83
+4342,Wizard39,Hufflepuff,41,80,46,52
+4343,Severus Hooch,Gryffindor,71,61,70,85
+4344,Wizard3421,Hufflepuff,59,56,71,49
+4345,Sirius Goyle,Gryffindor,80,52,52,73
+4346,Wizard1613,Gryffindor,62,76,79,81
+4347,Wizard529,Slytherin,79,92,71,91
+4348,Wizard550,Slytherin,94,95,77,95
+4349,Wizard3218,Ravenclaw,96,100,85,90
+4350,Horace Slughorn,Gryffindor,65,88,64,66
+4351,Wizard309,Hufflepuff,44,43,77,60
+4352,Wizard1780,Hufflepuff,41,60,77,84
+4353,Wizard1393,Slytherin,85,87,85,71
+4354,Wizard1307,Ravenclaw,100,98,95,97
+4355,Wizard689,Slytherin,78,75,95,81
+4356,Wizard688,Gryffindor,87,81,71,82
+4357,Wizard1700,Hufflepuff,64,53,69,46
+4358,Wizard605,Slytherin,91,75,95,88
+4359,Wizard625,Hufflepuff,64,50,57,85
+4360,Godric Bones,Hufflepuff,53,85,45,82
+4361,Wizard298,Slytherin,93,93,74,72
+4362,Wizard2635,Slytherin,72,91,78,87
+4363,Wizard193,Hufflepuff,82,74,57,42
+4364,Wizard2612,Gryffindor,80,78,86,65
+4365,Wizard1057,Slytherin,83,81,92,91
+4366,Wizard434,Ravenclaw,93,94,90,92
+4367,Wizard559,Hufflepuff,41,75,60,76
+4368,Dilys Snape,Gryffindor,70,72,57,81
+4369,Wizard2291,Slytherin,79,92,86,87
+4370,Wizard3137,Slytherin,82,73,92,83
+4371,Wizard154,Hufflepuff,77,81,52,84
+4372,Wizard664,Hufflepuff,84,83,52,58
+4373,Wizard1858,Gryffindor,53,64,79,64
+4374,Wizard366,Gryffindor,78,70,76,59
+4375,Rowena Lestrange,Ravenclaw,91,98,86,87
+4376,Wizard3948,Ravenclaw,93,93,96,95
+4377,Wizard2331,Slytherin,73,79,81,76
+4378,Rowena Diggory,Slytherin,90,77,95,89
+4379,Wizard913,Gryffindor,69,78,88,65
+4380,Wizard1109,Ravenclaw,99,92,87,88
+4381,Bathilda Slughorn,Hufflepuff,55,48,41,49
+4382,Wizard447,Ravenclaw,87,89,91,100
+4383,Wizard1227,Gryffindor,71,88,73,81
+4384,Wizard3619,Slytherin,74,70,70,95
+4385,Wizard82,Slytherin,88,90,80,84
+4386,Wizard1641,Hufflepuff,58,57,47,51
+4387,Godric Shacklebolt,Ravenclaw,91,94,92,97
+4388,Wizard3571,Gryffindor,58,67,59,86
+4389,Wizard3258,Gryffindor,74,61,73,67
+4390,Wizard2933,Hufflepuff,84,69,70,56
+4391,Wizard167,Gryffindor,59,76,76,84
+4392,Newt Carrow,Slytherin,74,77,95,70
+4393,Wizard2498,Gryffindor,80,66,80,54
+4394,Severus McGonagall,Slytherin,91,72,86,83
+4395,Wizard3994,Gryffindor,80,86,65,82
+4396,Wizard357,Ravenclaw,89,94,86,89
+4397,Salazar Lovegood,Slytherin,81,77,83,91
+4398,Wizard3105,Hufflepuff,43,80,41,51
+4399,Wizard3959,Slytherin,73,73,87,93
+4400,Wizard3868,Gryffindor,50,81,67,52
+4401,Wizard1779,Hufflepuff,84,59,48,70
+4402,Wizard430,Gryffindor,53,60,61,77
+4403,Wizard3670,Hufflepuff,66,70,41,44
+4404,Wizard2047,Ravenclaw,95,85,92,87
+4405,Wizard2501,Slytherin,92,78,75,82
+4406,Wizard4084,Slytherin,81,93,89,84
+4407,Wizard702,Slytherin,71,93,76,87
+4408,Wizard1226,Hufflepuff,60,54,41,45
+4409,Wilhelmina Lestrange,Gryffindor,89,86,56,67
+4410,Wizard1324,Ravenclaw,98,99,93,96
+4411,Gellert Crabbe,Gryffindor,81,88,89,71
+4412,Wizard3830,Slytherin,90,85,76,80
+4413,Wizard2767,Gryffindor,64,81,55,74
+4414,Wizard4000,Ravenclaw,90,97,95,90
+4415,Wizard1296,Gryffindor,64,68,53,54
+4416,Molly Zabini,Slytherin,94,92,77,79
+4417,Wizard1975,Gryffindor,55,63,59,73
+4418,Wizard674,Ravenclaw,98,86,90,89
+4419,Wizard3119,Ravenclaw,87,87,87,89
+4420,Wizard3726,Ravenclaw,87,97,92,89
+4421,Wizard1629,Slytherin,73,86,87,93
+4422,Wizard30,Slytherin,78,86,73,93
+4423,Wizard3773,Ravenclaw,93,87,89,87
+4424,Salazar Parkinson,Ravenclaw,96,88,92,94
+4425,Wizard1462,Ravenclaw,88,87,87,89
+4426,Wizard3713,Gryffindor,66,87,60,88
+4427,Wizard3702,Slytherin,85,81,85,81
+4428,Bellatrix Tonks,Slytherin,81,75,84,81
+4429,Wizard373,Hufflepuff,59,64,75,40
+4430,Wizard2171,Slytherin,74,90,71,93
+4431,Wizard1101,Ravenclaw,95,99,90,99
+4432,Newt Lupin,Ravenclaw,96,88,94,85
+4433,Wizard2388,Ravenclaw,91,88,95,85
+4434,Wizard3096,Slytherin,76,74,73,95
+4435,Wizard2202,Slytherin,95,83,84,88
+4436,Bellatrix McGonagall,Hufflepuff,81,55,71,42
+4437,Wizard1646,Slytherin,85,73,72,90
+4438,Godric Diggory,Gryffindor,59,85,59,51
+4439,Wizard457,Gryffindor,68,66,55,76
+4440,Wizard897,Slytherin,83,89,85,80
+4441,Wizard66,Slytherin,79,82,75,78
+4442,Gellert Zabini,Gryffindor,53,55,82,63
+4443,Wizard2436,Ravenclaw,97,95,93,85
+4444,Wilhelmina Malfoy,Slytherin,95,73,91,88
+4445,Wizard943,Slytherin,86,72,78,74
+4446,Wizard1515,Hufflepuff,62,53,58,84
+4447,Wizard1423,Gryffindor,53,73,52,78
+4448,Wizard852,Slytherin,91,77,93,94
+4449,Wizard1879,Ravenclaw,100,100,86,88
+4450,Wizard1078,Ravenclaw,85,92,94,92
+4451,Wizard3843,Slytherin,78,84,78,82
+4452,Wizard996,Slytherin,73,73,81,83
+4453,Wizard3407,Gryffindor,68,79,50,68
+4454,Percy Greengrass,Ravenclaw,98,87,98,96
+4455,Wizard1726,Gryffindor,69,65,54,83
+4456,Lucius Selwyn,Hufflepuff,53,61,60,62
+4457,Wizard3954,Hufflepuff,53,78,80,48
+4458,Rowena Lovegood,Slytherin,77,73,91,88
+4459,Wizard571,Gryffindor,62,75,78,72
+4460,Wizard1777,Ravenclaw,98,86,86,97
+4461,Wizard1399,Ravenclaw,98,100,89,91
+4462,Wizard2421,Gryffindor,50,63,73,73
+4463,Newt Bones,Slytherin,85,75,92,71
+4464,Wizard3650,Hufflepuff,80,69,55,46
+4465,Wizard1919,Hufflepuff,50,81,44,66
+4466,Wizard1921,Ravenclaw,96,91,90,96
+4467,Wizard1731,Ravenclaw,92,85,91,100
+4468,Wizard3502,Slytherin,93,84,92,92
+4469,Wizard2874,Ravenclaw,93,87,97,88
+4470,Wizard981,Gryffindor,58,71,75,72
+4471,Wizard2211,Gryffindor,52,77,60,90
+4472,Wizard155,Slytherin,94,85,81,93
+4473,Wizard3404,Slytherin,84,90,71,89
+4474,Wizard116,Ravenclaw,92,98,87,96
+4475,Sirius Greengrass,Ravenclaw,99,95,100,94
+4476,Wizard3186,Hufflepuff,71,50,70,63
+4477,Wizard3682,Ravenclaw,91,99,89,96
+4478,Wizard1612,Slytherin,81,74,88,90
+4479,Wizard3318,Gryffindor,57,62,71,64
+4480,Wizard1905,Hufflepuff,42,43,40,55
+4481,Theseus Yaxley,Slytherin,91,70,88,82
+4482,Wizard3823,Hufflepuff,52,81,69,57
+4483,Wizard3884,Slytherin,91,77,95,83
+4484,Wizard438,Ravenclaw,96,100,97,89
+4485,Wizard1956,Gryffindor,67,89,87,67
+4486,Wizard336,Ravenclaw,95,88,85,85
+4487,Wizard2061,Hufflepuff,70,58,51,41
+4488,Wizard1379,Ravenclaw,98,90,88,92
+4489,Wizard3570,Ravenclaw,86,92,96,90
+4490,Wizard1781,Gryffindor,84,81,84,70
+4491,Wizard1574,Gryffindor,88,88,57,77
+4492,Wizard371,Slytherin,93,88,92,93
+4493,Wizard2302,Gryffindor,73,50,52,59
+4494,Wizard2776,Gryffindor,77,76,50,66
+4495,Molly Hagrid,Gryffindor,65,86,73,84
+4496,Wizard1320,Hufflepuff,77,70,82,74
+4497,Wizard1782,Hufflepuff,43,67,44,54
+4498,Nymphadora Goyle,Hufflepuff,75,48,52,54
+4499,Wizard2430,Ravenclaw,85,88,91,92
+4500,Wizard1749,Gryffindor,51,84,87,87
+4501,Leta Pucey,Gryffindor,62,80,52,77
+4502,Wizard802,Ravenclaw,93,93,96,91
+4503,Wizard165,Ravenclaw,97,91,95,100
+4504,Dilys Weasley,Hufflepuff,56,65,55,52
+4505,Wizard1077,Hufflepuff,72,67,54,77
+4506,Wizard3449,Gryffindor,78,69,69,59
+4507,Wizard2992,Gryffindor,86,77,88,51
+4508,Wizard2962,Gryffindor,71,52,57,82
+4509,Dilys Bones,Slytherin,82,90,80,75
+4510,Wizard2777,Slytherin,88,81,73,74
+4511,Wizard1889,Gryffindor,83,64,70,50
+4512,Wizard914,Slytherin,87,87,95,83
+4513,Wizard1333,Ravenclaw,97,88,89,100
+4514,Wizard1794,Slytherin,73,79,95,84
+4515,Godric Greengrass,Hufflepuff,61,61,51,46
+4516,Tom Malfoy,Gryffindor,62,54,88,58
+4517,Wizard2527,Hufflepuff,49,75,60,74
+4518,Wizard2520,Slytherin,88,88,79,80
+4519,Wizard3579,Gryffindor,81,70,59,50
+4520,Wizard1516,Gryffindor,84,85,73,80
+4521,Wizard730,Gryffindor,50,77,82,84
+4522,Wizard3033,Slytherin,94,91,85,86
+4523,Wizard3208,Slytherin,81,76,95,74
+4524,Wizard2420,Gryffindor,54,88,85,68
+4525,Filius Zabini,Hufflepuff,83,46,85,50
+4526,Wizard2725,Gryffindor,70,60,63,77
+4527,Wizard2326,Gryffindor,73,52,52,79
+4528,Wizard146,Gryffindor,67,86,73,85
+4529,Wizard3761,Gryffindor,70,69,68,53
+4530,Severus Tonks,Slytherin,79,81,92,82
+4531,Wizard2944,Gryffindor,73,74,83,60
+4532,Rubeus Parkinson,Ravenclaw,90,98,92,85
+4533,Wizard354,Hufflepuff,48,57,41,59
+4534,Wizard2866,Slytherin,76,82,81,79
+4535,Wizard3544,Slytherin,74,87,80,89
+4536,Wizard614,Slytherin,95,76,82,93
+4537,Wizard3400,Slytherin,79,94,92,74
+4538,Wizard2827,Gryffindor,83,56,53,66
+4539,Wizard2609,Hufflepuff,77,41,61,68
+4540,Wizard3243,Hufflepuff,58,55,67,59
+4541,Wizard1398,Gryffindor,80,84,60,67
+4542,Wizard2590,Hufflepuff,81,73,40,54
+4543,Wizard317,Slytherin,70,92,82,73
+4544,Wizard2262,Hufflepuff,71,73,64,51
+4545,Wizard3304,Gryffindor,55,87,54,67
+4546,Wizard3125,Gryffindor,65,69,74,66
+4547,Wizard3972,Ravenclaw,90,100,88,87
+4548,Wizard3300,Slytherin,90,70,91,81
+4549,Wizard2667,Ravenclaw,86,91,93,93
+4550,Wizard3559,Ravenclaw,92,87,97,85
+4551,Wizard2680,Ravenclaw,86,95,97,92
+4552,Wizard1740,Gryffindor,54,75,51,89
+4553,Wizard1190,Gryffindor,78,54,68,84
+4554,Wizard1344,Gryffindor,61,79,72,54
+4555,Wizard523,Hufflepuff,68,72,75,75
+4556,Wizard3485,Hufflepuff,63,40,70,45
+4557,Helga McGonagall,Gryffindor,50,64,75,88
+4558,Wizard3774,Slytherin,80,87,95,93
+4559,Wizard4004,Slytherin,88,76,92,84
+4560,Wizard3491,Hufflepuff,48,53,67,48
+4561,Wizard1647,Hufflepuff,81,63,84,63
+4562,Wizard3303,Ravenclaw,86,94,89,89
+4563,Wizard2626,Slytherin,82,92,74,70
+4564,Wizard2868,Gryffindor,79,61,60,59
+4565,Wizard3103,Slytherin,93,80,86,73
+4566,Wizard2375,Ravenclaw,90,99,96,90
+4567,Wizard2309,Gryffindor,50,60,90,90
+4568,Helga Pucey,Slytherin,86,76,72,76
+4569,Wizard573,Ravenclaw,92,89,86,87
+4570,Wizard3406,Slytherin,95,80,85,74
+4571,Wizard3585,Slytherin,81,71,85,92
+4572,Wizard3076,Gryffindor,75,90,62,76
+4573,Wizard708,Gryffindor,69,79,87,89
+4574,Molly Snape,Gryffindor,66,56,77,87
+4575,Wizard1762,Ravenclaw,97,85,91,88
+4576,Wizard2593,Gryffindor,53,75,50,75
+4577,Wizard2673,Ravenclaw,85,99,87,93
+4578,Wizard1857,Slytherin,90,80,94,92
+4579,Rowena Greengrass,Slytherin,85,74,85,78
+4580,Wizard1974,Gryffindor,77,69,89,75
+4581,Wizard1835,Hufflepuff,51,80,67,77
+4582,Newt Tonks,Slytherin,92,70,73,74
+4583,Wizard3898,Hufflepuff,84,80,68,70
+4584,Wizard1800,Slytherin,89,94,70,89
+4585,Albus Shacklebolt,Ravenclaw,92,100,85,89
+4586,Wizard793,Ravenclaw,85,85,89,99
+4587,Wizard1309,Ravenclaw,97,95,85,98
+4588,Wizard2735,Slytherin,74,80,80,91
+4589,Wizard1351,Ravenclaw,90,88,98,87
+4590,Wizard1240,Hufflepuff,47,73,49,51
+4591,Wizard3473,Gryffindor,73,51,77,62
+4592,Wizard3005,Gryffindor,87,67,82,71
+4593,Wizard1518,Ravenclaw,98,89,100,89
+4594,Wizard2238,Ravenclaw,92,91,93,91
+4595,Wizard3964,Slytherin,88,71,78,74
+4596,Theseus Lovegood,Ravenclaw,88,85,87,89
+4597,Bellatrix Crouch,Gryffindor,86,68,70,60
+4598,Remus Malfoy,Gryffindor,51,58,82,59
+4599,Wizard2122,Hufflepuff,81,85,56,57
+4600,Wizard4064,Slytherin,79,91,92,73
+4601,Wizard2051,Ravenclaw,89,86,87,90
+4602,Wizard1813,Hufflepuff,73,61,56,66
+4603,Wizard2012,Gryffindor,82,66,52,74
+4604,Wizard1852,Gryffindor,53,60,67,85
+4605,Wizard3013,Ravenclaw,98,86,85,94
+4606,Wizard2043,Hufflepuff,41,68,46,68
+4607,Wizard207,Slytherin,82,78,86,86
+4608,Wizard2195,Slytherin,75,72,93,95
+4609,Wizard548,Ravenclaw,98,88,95,99
+4610,Wizard324,Gryffindor,58,90,76,88
+4611,Wizard1106,Slytherin,89,83,79,75
+4612,Wizard1840,Gryffindor,67,85,85,68
+4613,Wizard2410,Slytherin,81,76,72,77
+4614,Wizard2173,Slytherin,82,79,82,80
+4615,Wizard2917,Slytherin,71,79,82,89
+4616,Wizard1883,Ravenclaw,85,94,85,91
+4617,Wizard100,Slytherin,93,70,71,95
+4618,Wizard2182,Slytherin,92,75,85,84
+4619,Leta Lupin,Hufflepuff,45,51,81,58
+4620,Wizard4094,Slytherin,92,83,88,71
+4621,Wizard277,Ravenclaw,91,93,93,87
+4622,Wizard2082,Gryffindor,50,82,67,55
+4623,Wizard2455,Gryffindor,85,70,74,55
+4624,Wizard971,Hufflepuff,61,85,75,72
+4625,Wizard2007,Hufflepuff,66,75,72,79
+4626,Wizard2530,Gryffindor,73,72,56,56
+4627,Leta Malfoy,Slytherin,78,72,91,80
+4628,Godric Lestrange,Slytherin,86,84,93,85
+4629,Wizard1113,Hufflepuff,61,44,80,53
+4630,Albus Weasley,Slytherin,88,91,89,92
+4631,Wizard762,Gryffindor,52,55,55,59
+4632,Wizard1479,Hufflepuff,77,60,69,69
+4633,Wizard1335,Hufflepuff,48,63,53,70
+4634,Wizard2696,Slytherin,91,74,90,81
+4635,Wizard3264,Ravenclaw,85,95,88,94
+4636,Severus Malfoy,Slytherin,79,94,87,85
+4637,Wizard699,Slytherin,89,93,71,80
+4638,Bathilda Lupin,Slytherin,78,77,83,72
+4639,Wizard1656,Gryffindor,58,71,58,70
+4640,Wizard130,Gryffindor,80,78,75,81
+4641,Wizard2651,Ravenclaw,92,85,99,98
+4642,Wizard2779,Hufflepuff,58,45,51,52
+4643,Wizard861,Ravenclaw,89,86,97,96
+4644,Wizard2610,Ravenclaw,97,99,85,97
+4645,Kingsley Weasley,Ravenclaw,96,88,94,88
+4646,Wizard3476,Hufflepuff,47,81,63,40
+4647,Helga Yaxley,Ravenclaw,100,93,99,93
+4648,Wizard1774,Ravenclaw,85,94,87,96
+4649,Wizard735,Slytherin,91,71,70,78
+4650,Wizard3310,Hufflepuff,74,84,66,43
+4651,Wizard1477,Slytherin,86,89,81,76
+4652,Wizard1266,Ravenclaw,96,99,88,96
+4653,Newt Yaxley,Ravenclaw,94,97,96,93
+4654,Wizard3844,Slytherin,77,79,89,94
+4655,Wizard1506,Ravenclaw,92,95,86,94
+4656,Wizard53,Hufflepuff,85,45,63,61
+4657,Wizard736,Slytherin,75,71,81,87
+4658,Albus Grindelwald,Slytherin,94,79,82,70
+4659,Wizard440,Slytherin,74,79,91,79
+4660,Wizard3952,Hufflepuff,49,70,48,42
+4661,Wizard2121,Slytherin,73,74,79,87
+4662,Wizard3657,Ravenclaw,99,85,85,100
+4663,Wizard2392,Slytherin,78,73,72,90
+4664,Bellatrix Weasley,Ravenclaw,85,98,98,90
+4665,Wizard3337,Gryffindor,85,57,70,56
+4666,Wizard986,Slytherin,93,76,73,70
+4667,Wizard1415,Gryffindor,63,58,59,60
+4668,Wizard3384,Ravenclaw,86,93,88,87
+4669,Nymphadora Shacklebolt,Slytherin,87,80,95,90
+4670,Wizard563,Hufflepuff,51,61,81,57
+4671,Wizard3736,Ravenclaw,98,89,94,88
+4672,Wizard1476,Hufflepuff,80,40,78,51
+4673,Wizard1544,Ravenclaw,99,90,86,85
+4674,Wizard1763,Ravenclaw,88,88,96,92
+4675,Wizard182,Slytherin,86,70,85,84
+4676,Wizard214,Ravenclaw,89,87,88,88
+4677,Tom Bones,Gryffindor,82,69,59,78
+4678,Wizard13,Gryffindor,62,64,72,79
+4679,Wizard410,Gryffindor,84,85,88,62
+4680,Wizard2366,Ravenclaw,92,88,99,88
+4681,Wizard2959,Ravenclaw,88,88,90,85
+4682,Wizard3431,Hufflepuff,49,55,45,75
+4683,Wizard3478,Slytherin,78,74,79,82
+4684,Wizard36,Ravenclaw,96,98,90,87
+4685,Wizard2784,Gryffindor,68,87,58,67
+4686,Wizard2897,Ravenclaw,87,97,87,95
+4687,Wizard3438,Hufflepuff,74,76,84,44
+4688,Wizard1603,Gryffindor,84,83,73,69
+4689,Wizard2761,Gryffindor,53,51,86,90
+4690,Wizard1435,Slytherin,81,84,86,75
+4691,Wizard3933,Slytherin,89,75,77,71
+4692,Wizard1505,Hufflepuff,80,66,76,57
+4693,Wizard3848,Slytherin,90,71,78,77
+4694,Wizard2295,Gryffindor,61,89,74,68
+4695,Wizard1223,Slytherin,82,89,71,86
+4696,Sirius Crabbe,Slytherin,70,94,76,91
+4697,Albus Pucey,Ravenclaw,95,89,88,100
+4698,Wizard1363,Ravenclaw,97,93,90,99
+4699,Wizard1216,Ravenclaw,94,88,85,95
+4700,Wizard3402,Hufflepuff,82,50,45,54
+4701,Wizard2600,Gryffindor,52,56,82,58
+4702,Wizard2272,Gryffindor,52,80,70,74
+4703,Wulfric Malfoy,Ravenclaw,90,100,96,91
+4704,Wizard2010,Gryffindor,77,87,62,89
+4705,Wizard2566,Ravenclaw,93,94,90,94
+4706,Kingsley Peverell,Hufflepuff,72,45,80,45
+4707,Nymphadora Peverell,Gryffindor,73,67,90,71
+4708,Wizard3988,Gryffindor,89,85,83,61
+4709,Wizard570,Slytherin,77,71,89,89
+4710,Leta Selwyn,Ravenclaw,90,97,98,95
+4711,Wizard1315,Slytherin,71,71,79,73
+4712,Wizard3235,Slytherin,76,91,82,86
+4713,Rubeus Malfoy,Slytherin,73,82,77,95
+4714,Wizard3441,Gryffindor,70,69,73,71
+4715,Wizard1627,Gryffindor,62,54,50,58
+4716,Wizard1081,Gryffindor,71,73,73,64
+4717,Wizard3551,Slytherin,78,86,81,73
+4718,Wizard1787,Hufflepuff,54,84,77,57
+4719,Wizard3759,Ravenclaw,92,88,88,85
+4720,Wizard3410,Gryffindor,70,56,59,67
+4721,Wizard3173,Hufflepuff,72,70,78,67
+4722,Wizard767,Gryffindor,80,79,73,89
+4723,Wizard476,Hufflepuff,44,81,42,74
+4724,Wizard891,Hufflepuff,44,51,55,49
+4725,Wizard660,Ravenclaw,87,98,97,91
+4726,Wizard4047,Slytherin,76,81,88,73
+4727,Wizard3509,Slytherin,89,91,87,92
+4728,Wizard94,Ravenclaw,91,93,98,87
+4729,Rowena Malfoy,Slytherin,81,70,90,76
+4730,Wizard589,Ravenclaw,99,91,95,93
+4731,Wizard2597,Gryffindor,78,62,57,52
+4732,Wizard2613,Gryffindor,79,86,55,58
+4733,Wizard3117,Slytherin,91,82,72,89
+4734,Wizard2288,Gryffindor,69,64,70,65
+4735,Wizard3717,Ravenclaw,85,88,89,99
+4736,Wizard1198,Gryffindor,68,52,83,68
+4737,Wizard1118,Gryffindor,76,57,61,55
+4738,Wizard3116,Ravenclaw,93,86,88,90
+4739,Newt Slughorn,Hufflepuff,63,85,61,59
+4740,Wizard2972,Slytherin,84,72,83,95
+4741,Wizard2911,Slytherin,93,82,84,85
+4742,Wizard3789,Slytherin,94,82,83,86
+4743,Newt Grindelwald,Ravenclaw,96,90,94,97
+4744,Wizard8,Gryffindor,52,62,87,75
+4745,Wizard22,Hufflepuff,73,49,63,84
+4746,Filius Peverell,Ravenclaw,95,93,89,95
+4747,Wizard203,Hufflepuff,46,66,76,46
+4748,Wizard1049,Slytherin,74,89,70,95
+4749,Wizard998,Hufflepuff,42,44,79,47
+4750,Wizard1096,Gryffindor,60,72,88,80
+4751,Wizard1911,Ravenclaw,91,93,99,90
+4752,Wizard1705,Gryffindor,54,82,80,58
+4753,Wizard361,Gryffindor,63,75,68,83
+4754,Wizard1638,Slytherin,76,74,89,82
+4755,Gellert Lupin,Slytherin,87,83,70,84
+4756,Dilys Lupin,Slytherin,71,80,70,84
+4757,Wizard1402,Ravenclaw,96,90,87,96
+4758,Wizard6,Ravenclaw,96,98,96,96
+4759,Wizard3362,Gryffindor,63,70,84,68
+4760,Wizard3507,Ravenclaw,100,90,91,85
+4761,Wizard3621,Hufflepuff,60,72,80,49
+4762,Wizard903,Ravenclaw,87,87,86,90
+4763,Helga Riddle,Gryffindor,85,65,83,65
+4764,Wizard2314,Ravenclaw,96,93,86,95
+4765,Wizard772,Hufflepuff,60,71,40,76
+4766,Dilys Hooch,Hufflepuff,60,63,50,84
+4767,Albus Tonks,Slytherin,76,84,75,70
+4768,Wizard2034,Gryffindor,78,90,67,53
+4769,Wizard2068,Ravenclaw,92,91,99,86
+4770,Wizard3936,Gryffindor,87,62,68,63
+4771,Remus Hooch,Slytherin,87,72,95,80
+4772,Wizard1632,Hufflepuff,73,63,84,60
+4773,Wizard3861,Slytherin,82,81,83,76
+4774,Wizard717,Ravenclaw,95,91,86,90
+4775,Wizard2748,Slytherin,88,84,75,76
+4776,Wizard398,Gryffindor,63,65,68,50
+4777,Wizard3342,Gryffindor,53,66,70,88
+4778,Wizard3871,Hufflepuff,72,60,71,75
+4779,Godric Snape,Hufflepuff,52,42,70,73
+4780,Wizard3366,Slytherin,75,74,86,94
+4781,Wizard2212,Gryffindor,82,86,71,85
+4782,Wizard1998,Hufflepuff,82,64,83,69
+4783,Wizard2106,Hufflepuff,66,83,81,55
+4784,Wizard527,Slytherin,72,94,95,86
+4785,Wizard1030,Gryffindor,54,75,64,66
+4786,Wizard1748,Hufflepuff,64,69,76,53
+4787,Wizard636,Ravenclaw,88,87,95,98
+4788,Wizard1546,Ravenclaw,89,86,99,96
+4789,Wizard2815,Ravenclaw,92,99,89,91
+4790,Wizard3306,Gryffindor,85,71,90,78
+4791,Percy Shacklebolt,Hufflepuff,53,73,41,46
+4792,Severus Hagrid,Hufflepuff,76,82,72,76
+4793,Wizard2540,Hufflepuff,62,65,80,85
+4794,Wizard2009,Gryffindor,80,85,88,77
+4795,Wizard718,Ravenclaw,97,94,92,97
+4796,Wizard2773,Gryffindor,76,78,64,54
+4797,Tom Greengrass,Slytherin,71,92,92,81
+4798,Wizard209,Gryffindor,57,55,50,85
+4799,Arthur Crabbe,Ravenclaw,96,98,88,90
+4800,Wizard3483,Gryffindor,81,82,56,88
+4801,Sirius Lovegood,Ravenclaw,95,90,97,94
+4802,Wizard1976,Gryffindor,51,65,50,85
+4803,Bathilda Crabbe,Hufflepuff,75,51,46,71
+4804,Wizard2889,Ravenclaw,95,91,88,95
+4805,Wizard2071,Slytherin,88,85,75,82
+4806,Wizard3900,Gryffindor,56,62,84,74
+4807,Wizard3027,Ravenclaw,85,93,97,100
+4808,Wizard2722,Ravenclaw,85,98,91,86
+4809,Wizard626,Ravenclaw,90,99,99,86
+4810,Wizard2803,Gryffindor,81,77,52,82
+4811,Wizard3147,Slytherin,90,89,77,74
+4812,Wizard2216,Gryffindor,50,74,74,57
+4813,Wizard3534,Gryffindor,74,71,86,53
+4814,Wizard3195,Gryffindor,73,76,87,85
+4815,Wizard1114,Ravenclaw,88,99,92,93
+4816,Wizard885,Gryffindor,57,69,50,59
+4817,Newt Crouch,Slytherin,72,72,81,74
+4818,Wizard3335,Hufflepuff,83,63,85,43
+4819,Wizard75,Hufflepuff,80,73,64,52
+4820,Wizard3888,Slytherin,74,81,94,92
+4821,Wizard2074,Hufflepuff,83,82,77,82
+4822,Wizard1696,Gryffindor,51,54,50,52
+4823,Wizard1750,Hufflepuff,61,78,85,72
+4824,Wizard1895,Gryffindor,67,64,66,65
+4825,Wizard3086,Slytherin,93,82,81,76
+4826,Wizard3807,Gryffindor,76,82,51,53
+4827,Wizard3780,Gryffindor,66,66,58,53
+4828,Wizard1457,Slytherin,77,89,80,79
+4829,Wizard1406,Hufflepuff,58,43,65,44
+4830,Hepzibah Goyle,Hufflepuff,84,64,46,77
+4831,Wizard1041,Slytherin,83,71,70,78
+4832,Wizard2117,Hufflepuff,83,72,83,68
+4833,Wizard1766,Slytherin,82,94,91,80
+4834,Wizard1414,Hufflepuff,67,65,52,79
+4835,Wizard109,Gryffindor,82,58,89,50
+4836,Wizard645,Slytherin,73,70,71,91
+4837,Wizard2163,Hufflepuff,57,63,48,58
+4838,Wizard2316,Slytherin,86,74,93,71
+4839,Wizard2715,Gryffindor,54,62,75,67
+4840,Wizard3130,Gryffindor,78,81,72,59
+4841,Wizard2509,Ravenclaw,94,85,99,100
+4842,Wizard2084,Slytherin,71,75,89,78
+4843,Theseus Bones,Ravenclaw,86,87,91,97
+4844,Wizard2130,Ravenclaw,90,89,88,92
+4845,Wizard1422,Hufflepuff,47,66,71,57
+4846,Wizard2419,Gryffindor,78,74,50,70
+4847,Hepzibah Bones,Slytherin,89,82,94,76
+4848,Wizard192,Gryffindor,58,86,77,78
+4849,Wizard2079,Gryffindor,52,72,66,82
+4850,Rubeus Snape,Gryffindor,75,61,72,55
+4851,Wizard530,Slytherin,84,84,89,72
+4852,Wizard2332,Hufflepuff,72,46,43,77
+4853,Wizard245,Ravenclaw,97,100,87,86
+4854,Wizard1579,Ravenclaw,89,93,88,100
+4855,Wizard3,Slytherin,72,89,93,82
+4856,Wizard67,Ravenclaw,96,100,89,85
+4857,Wizard2720,Gryffindor,75,62,71,61
+4858,Wizard393,Ravenclaw,87,95,91,96
+4859,Bathilda Zabini,Slytherin,74,87,85,88
+4860,Wizard1264,Slytherin,89,71,79,78
+4861,Wizard1854,Hufflepuff,46,48,48,59
+4862,Wizard2384,Slytherin,76,92,85,90
+4863,Wizard150,Slytherin,82,89,73,76
+4864,Wizard2871,Gryffindor,57,62,66,50
+4865,Filius Riddle,Slytherin,94,90,81,82
+4866,Wizard1297,Ravenclaw,97,92,95,95
+4867,Wizard2111,Gryffindor,68,62,77,63
+4868,Wizard2795,Hufflepuff,65,69,67,51
+4869,Wizard1493,Slytherin,82,85,84,72
+4870,Theseus Lestrange,Slytherin,93,94,84,81
+4871,Wizard233,Gryffindor,73,58,78,64
+4872,Wizard3468,Ravenclaw,85,92,85,100
+4873,Wizard887,Ravenclaw,97,97,95,97
+4874,Wizard1817,Gryffindor,51,61,79,58
+4875,Wizard1212,Hufflepuff,82,72,50,44
+4876,Wizard4068,Gryffindor,81,58,79,66
+4877,Wizard2343,Gryffindor,81,84,70,67
+4878,Wizard137,Gryffindor,77,87,71,74
+4879,Wizard3262,Gryffindor,88,84,74,84
+4880,Wizard2415,Ravenclaw,93,97,86,89
+4881,Wizard2905,Hufflepuff,66,73,57,45
+4882,Minerva Riddle,Ravenclaw,97,98,86,96
+4883,Wizard3277,Slytherin,80,84,78,95
+4884,Wizard3091,Hufflepuff,72,74,72,79
+4885,Wizard3211,Hufflepuff,65,84,54,45
+4886,Wizard204,Slytherin,93,90,84,87
+4887,Wizard522,Slytherin,79,82,85,86
+4888,Wizard83,Slytherin,79,90,82,79
+4889,Wizard1352,Slytherin,89,82,71,80
+4890,Wizard3935,Hufflepuff,40,74,55,80
+4891,Wizard1043,Hufflepuff,59,67,85,63
+4892,Wizard2985,Slytherin,77,75,94,88
+4893,Wizard3850,Ravenclaw,100,86,93,92
+4894,Wizard3182,Gryffindor,50,68,58,61
+4895,Wizard4060,Ravenclaw,87,98,94,97
+4896,Wizard1620,Ravenclaw,94,94,98,97
+4897,Rubeus Lestrange,Slytherin,71,77,95,81
+4898,Wizard360,Ravenclaw,89,91,87,94
+4899,Wizard2015,Slytherin,78,90,70,91
+4900,Wizard2,Hufflepuff,85,61,56,69
+4901,Wizard105,Ravenclaw,96,94,100,99
+4902,Wizard2438,Ravenclaw,89,91,93,99
+4903,Wizard3519,Slytherin,87,88,78,82
+4904,Wizard80,Hufflepuff,48,66,54,59
+4905,Wizard3375,Ravenclaw,91,95,100,95
+4906,Filius Weasley,Hufflepuff,56,82,42,58
+4907,Wizard1317,Slytherin,76,79,72,86
+4908,Theseus Greengrass,Hufflepuff,48,49,49,62
+4909,Wizard624,Slytherin,86,89,70,94
+4910,Wizard1085,Gryffindor,88,65,59,86
+4911,Wizard2841,Hufflepuff,63,49,80,72
+4912,Wulfric Snape,Hufflepuff,58,49,79,41
+4913,Wizard1036,Hufflepuff,56,77,45,54
+4914,Wizard87,Hufflepuff,82,56,72,50
+4915,Sirius Malfoy,Ravenclaw,99,99,99,85
+4916,Wizard3826,Hufflepuff,67,65,63,57
+4917,Wizard2660,Hufflepuff,77,73,69,40
+4918,Wizard1504,Hufflepuff,67,43,49,71
+4919,Wizard1535,Slytherin,89,73,84,72
+4920,Wizard2690,Ravenclaw,97,87,91,93
+4921,Wizard652,Gryffindor,80,60,67,57
+4922,Wizard2090,Slytherin,86,71,70,71
+4923,Wizard2662,Hufflepuff,60,85,77,75
+4924,Wizard3739,Slytherin,74,78,88,88
+4925,Wizard3177,Ravenclaw,92,90,93,96
+4926,Wizard3050,Ravenclaw,90,93,88,94
+4927,Wizard4022,Slytherin,70,82,87,95
+4928,Wizard3226,Slytherin,91,75,83,80
+4929,Severus Peverell,Ravenclaw,94,100,93,91
+4930,Minerva Flitwick,Slytherin,84,85,70,78
+4931,Bellatrix Peverell,Ravenclaw,89,90,94,94
+4932,Minerva McGonagall,Ravenclaw,91,87,91,86
+4933,Wizard3271,Ravenclaw,89,85,91,86
+4934,Wizard3751,Slytherin,75,84,79,79
+4935,Wizard1582,Gryffindor,62,74,71,89
+4936,Wizard450,Hufflepuff,65,83,42,54
+4937,Wizard3461,Gryffindor,51,62,64,79
+4938,Wizard746,Ravenclaw,89,88,90,85
+4939,Wizard3361,Ravenclaw,88,96,96,85
+4940,Theseus Goyle,Gryffindor,87,87,55,86
+4941,Wizard875,Gryffindor,55,73,51,51
+4942,Dilys Malfoy,Slytherin,85,76,95,94
+4943,Helga Parkinson,Slytherin,81,80,89,95
+4944,Leta Tonks,Hufflepuff,48,78,44,68
+4945,Wizard3784,Hufflepuff,65,55,82,70
+4946,Remus Lestrange,Ravenclaw,86,88,98,89
+4947,Sirius Yaxley,Ravenclaw,95,86,91,86
+4948,Wizard2407,Hufflepuff,70,83,56,70
+4949,Wizard3092,Ravenclaw,97,98,86,100
+4950,Wizard2587,Slytherin,72,87,81,79
+4951,Wizard2957,Gryffindor,70,71,89,65
+4952,Wizard2710,Ravenclaw,90,87,89,88
+4953,Wizard2538,Slytherin,82,82,95,95
+4954,Wizard2824,Slytherin,78,93,78,73
+4955,Wizard2150,Ravenclaw,95,97,95,92
+4956,Wizard2647,Ravenclaw,91,93,93,88
+4957,Wizard2758,Slytherin,92,81,93,91
+4958,Tom Hooch,Hufflepuff,41,74,83,72
+4959,Wizard2902,Ravenclaw,85,92,86,98
+4960,Tom Diggory,Ravenclaw,92,85,93,86
+4961,Wizard3980,Gryffindor,86,62,51,89
+4962,Helga Selwyn,Gryffindor,69,59,87,90
+4963,Bathilda Bones,Hufflepuff,63,61,40,81
+4964,Wizard3349,Hufflepuff,59,45,58,81
+4965,Wizard759,Hufflepuff,66,48,69,82
+4966,Wizard3945,Gryffindor,72,71,73,53
+4967,Wizard2475,Slytherin,79,74,83,89
+4968,Wizard329,Gryffindor,62,70,64,79
+4969,Wizard3434,Hufflepuff,85,68,74,41
+4970,Wizard2414,Gryffindor,81,59,90,71
+4971,Wizard2386,Ravenclaw,100,98,87,97
+4972,Wizard1321,Gryffindor,63,58,58,54
+4973,Wizard1790,Ravenclaw,96,98,86,94
+4974,Wizard2539,Slytherin,90,76,90,71
+4975,Sirius Black,Ravenclaw,100,90,98,98
+4976,Wizard2927,Slytherin,95,73,95,94
+4977,Wizard2086,Slytherin,85,76,77,80
+4978,Wizard1275,Gryffindor,65,65,69,82
+4979,Wizard916,Ravenclaw,94,99,87,88
+4980,Wizard1524,Slytherin,91,92,90,79
+4981,Wizard1833,Hufflepuff,64,58,56,66
+4982,Wizard3879,Slytherin,88,86,91,73
+4983,Wizard2401,Slytherin,76,89,86,86
+4984,Wizard187,Slytherin,73,83,93,86
+4985,Wizard413,Gryffindor,66,71,55,61
+4986,Wizard3966,Hufflepuff,80,59,74,61
+4987,Wizard266,Slytherin,89,82,95,72
+4988,Wizard2890,Ravenclaw,95,86,86,93
+4989,Wizard1194,Ravenclaw,95,95,90,97
+4990,Wizard2993,Slytherin,75,90,82,79
+4991,Wizard3546,Slytherin,95,86,89,93
+4992,Wizard3472,Ravenclaw,87,94,99,92
+4993,Wizard1626,Slytherin,70,87,75,86
+4994,Wizard1742,Hufflepuff,77,40,47,44
+4995,Leta Riddle,Ravenclaw,87,94,100,94
+4996,Wizard1672,Slytherin,75,89,90,75
+4997,Wizard1224,Slytherin,83,80,83,78
+4998,Wizard191,Ravenclaw,95,90,94,95
+4999,Leta Flitwick,Gryffindor,54,64,85,56
+5000,Wizard715,Gryffindor,72,60,82,86
