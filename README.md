@@ -12,14 +12,19 @@ For more information on OpenDP, a popular open-source library for implementing d
 ### Scenario 1: 🧝‍♂️ House Elf Working Conditions 🧝‍♀️
 
 **Use Case:** Surveying house elves anonymously about working conditions at Hogwarts.  
+
 **Challenge:** House elves fear their masters discovering critical feedback about working hours or conditions.  
-**Solution:** Use Differential Privacy (DP) to aggregate survey results.
+
+**Solution:** Use Differential Privacy (DP) to aggregate survey results.  
 
 ### Scenario 2: 🦁 Student Performace Analysis Across Houses 🐍
 
-**Use Case:** Comparing academic performances across different houses. 
-**Challenge:** Students might fear that their house reputation could be negatively impacted if data about lower-performing houses is released  
-**Solution:** Implement differential privacy to release only aggregated data on overall performances across houses. This way, the system can show trends without revealing individual student results, maintaining house loyalty and preventing possible stigma associated with poor performance in a particular house. 
+**Use Case:** Comparing academic performances across different houses.  
+
+**Challenge:** Students might fear that their house reputation could be negatively impacted if data about lower-performing houses is released.  
+
+**Solution:** Implement differential privacy to release only aggregated data on overall performances across houses. This way, the system can show trends without revealing individual student results, maintaining house loyalty and preventing possible stigma associated with poor performance in a particular house.  
+
 
 ## ⚡️ Installation ⚡️
 
