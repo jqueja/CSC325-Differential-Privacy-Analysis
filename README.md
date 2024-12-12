@@ -10,6 +10,7 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 - [⚡️ Installation](#installation)
 - [⚡️ Run Program](#run-program-depending-on-scenario)
 - [🖼️ Screenshots](#screenshots)
+- [📜 Conclusion](#conclusion)
 
 ## What is Differential Privacy?
 
@@ -80,7 +81,7 @@ python3 membership_attack.py
 <figure>
   <figcaption> 
     This chart shows the relationship of (ε) and the utility of the data provided. The lower (ε) value
-    the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low..
+    the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low.
   </figcaption>
   <img src="images/privacyTradeoff.png" alt="Comparison of Privacy">
 </figure>
@@ -89,5 +90,7 @@ python3 membership_attack.py
   <figcaption>Need to do.</figcaption>
   <img src="images/attackPerformance.png" alt="Attack Performance">
 </figure>
+
+## Conclusion
 
 
