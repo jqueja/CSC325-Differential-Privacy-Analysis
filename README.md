@@ -71,6 +71,8 @@ python3 houseavg.py
 ```bash
 python3 membership_attack.py
 ```
+NOTE: For the membership_attack plots, the first plot will be shown in a window. To see the following plots, close the current window, and the next plot will appear.
+
 
 ## Screenshots
 <figure>
