@@ -8,8 +8,8 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 - [🦉 Overview](#Overview)
 - [🤔 What is Differential Privacy?](#what-is-differential-privacy)
 - [⚡️ Installation](#installation)
-- [🖼️ Screenshots](#screenshots)
 - [⚡️ Run Program](#run-program-depending-on-scenario)
+- [🖼️ Screenshots](#screenshots)
 
 ## What is Differential Privacy?
 
@@ -70,3 +70,8 @@ python3 houseavg.py
 ```bash
 python3 membership_attack.py
 ```
+
+## Screenshots
+![Screenshot](images\attackPerformance.png)
+![Screenshot](images\comparisonNoisy.png)
+![Screenshot](images\privacyTradeoff.png)
