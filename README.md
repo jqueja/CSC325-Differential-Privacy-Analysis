@@ -49,13 +49,16 @@ You should notice a change in your terminal prompt. It should now display (venv)
 
 ### 3. 📜 Install Dependencies 📜
 ```bash
-pip install pandas
-```
-```bash
-pip install python-dp
+pip install -r requirements.txt
 ```
 
-## Run Program
+## Run Program depending on scenario
 ```bash
 python3 elfhours.py
+```
+```bash
+python3 houseavg.py
+```
+```bash
+python3 membership_attack.py
 ```
