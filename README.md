@@ -6,7 +6,7 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 ## 📚 Table of Contents
 - [🦉 Overview](#-overview-)
 - [🤔 What is Differential Privacy?](#-what-is-differential-privacy-)
-- [⚡️ Installation](#Installation)
+- [⚡️ Installation](#installation)
 - [🖼️ Screenshots](#screenshots)
 - [⚡️ Run Program](#run-program-depending-on-scenario)
 
