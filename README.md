@@ -6,13 +6,7 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 ## 📚 Table of Contents
 - [🦉 Overview](#-overview-)
 - [🤔 What is Differential Privacy?](#-what-is-differential-privacy-)
-- [🔮 Scenarios](#scenarios)
-  - [🧝‍♂️ House Elf Working Conditions 🧝‍♀️](#scenario-1-house-elf-working-conditions)
-  - [🦁 Student Performance Analysis Across Houses 🐍](#scenario-2-student-performance-analysis-across-houses)
-- [⚡️ Installation](#⚡️-installation)
-  - [🧪 Create a Virtual Environment 🧪](#1-create-a-virtual-environment)
-  - [🔮 Activate Virtual Environment 🔮](#2-activate-virtual-environment)
-  - [📜 Install Dependencies 📜](#3-install-dependencies)
+- [⚡️ Installation](#Installation)
 - [🖼️ Screenshots](#screenshots)
 - [⚡️ Run Program](#run-program-depending-on-scenario)
 
