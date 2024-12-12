@@ -31,7 +31,6 @@ that occurs if you change just one data point in the dataset.
 EPSILON = 10
 SENSITIVITY = 1
 
-from houseavg import ClassReporter
 
 # Creating a class ClassReporter
 class ClassReporter:
