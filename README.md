@@ -5,7 +5,7 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 
 Class: CSC 325: Introduction to Privacy  
 Professor: Donfeng Fang  
-Students: Josh Queja, Leah Sarles, Alexander Specht  
+Students: Alexander Specht, Leah Sarles, Josh Queja
 
 ## 📚 Table of Contents
 
