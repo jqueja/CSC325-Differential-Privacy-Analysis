@@ -3,6 +3,19 @@
 ## 🦉 Overview 🦉
 At the Ministry, we are conducting a data analysis project tailored for the students of Hogwarts. This initiative uses differential privacy to safeguard individual privacy while uncovering meaningful trends and insights. By introducing controlled noise into the results, we ensure that no specific student's information can be identified, fostering trust and maintaining confidentiality. This method strikes a balance between protecting privacy and preserving data utility, enabling the secure sharing of aggregated insights.
 
+## 📚 Table of Contents
+- [🦉 Overview](#-overview-)
+- [🤔 What is Differential Privacy?](#-what-is-differential-privacy-)
+- [🔮 Scenarios](#scenarios)
+  - [🧝‍♂️ House Elf Working Conditions 🧝‍♀️](#scenario-1-house-elf-working-conditions)
+  - [🦁 Student Performance Analysis Across Houses 🐍](#scenario-2-student-performance-analysis-across-houses)
+- [⚡️ Installation](#⚡️-installation)
+  - [🧪 Create a Virtual Environment 🧪](#1-create-a-virtual-environment)
+  - [🔮 Activate Virtual Environment 🔮](#2-activate-virtual-environment)
+  - [📜 Install Dependencies 📜](#3-install-dependencies)
+- [🖼️ Screenshots](#screenshots)
+- [⚡️ Run Program](#run-program-depending-on-scenario)
+
 ### 🤔 What is Differential Privacy? 🤔
 
 Differential privacy is a rigorous mathematical definition of privacy for statistical analysis and machine learning. In the simplest setting, consider an algorithm that analyzes a dataset and releases statistics about it (such as means and variances, cross-tabulations, or the parameters of a machine learning model). Such an algorithm is said to be differentially private if by looking at the output, one cannot tell whether any individual's data was included in the original dataset or not.
