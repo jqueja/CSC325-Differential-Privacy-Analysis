@@ -72,6 +72,12 @@ python3 membership_attack.py
 ```
 
 ## Screenshots
-![Screenshot](images/attackPerformance.png)
 ![Screenshot](images/comparisonNoisy.png)
+**Description:** This chart shows the comparisons of true calculated averages compared to their local and global dp counter parts. Given the (ε) value of 10.
 ![Screenshot](images/privacyTradeoff.png)
+**Description:** This chart shows the relationship of (ε) and the utility of the data provided. The lower (ε) value
+the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low.
+![Screenshot](images/attackPerformance.png)
+**Description:** need to do.
+
+
