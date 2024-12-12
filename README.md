@@ -75,7 +75,7 @@ python3 membership_attack.py
 ## Screenshots
 <figure>
   <figcaption>This chart shows the comparisons of true calculated averages compared to their local and global DP counterparts. Given the (𝜖) value of 10.</figcaption>
-  <img src="images/comparisonNoise.png" alt="Comparison of True and Noisy Averages">
+  <img src="images/comparisonNoisy.png" alt="Comparison of True and Noisy Averages">
 </figure>
 
 <figure>
