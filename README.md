@@ -79,6 +79,11 @@ python3 membership_attack.py
 </figure>
 
 <figure>
+  <figcaption>This chart shows given a low (𝜖) the utlity of the data is not useable. Given the (𝜖) value of 0.5. </figcaption>
+  <img src="images/lowEpsilon.png" alt="Comparison of True and Noisy Averages">
+</figure>
+
+<figure>
   <figcaption> 
     This chart shows the relationship of (ε) and the utility of the data provided. The lower (ε) value
     the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low.
