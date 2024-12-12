@@ -5,13 +5,13 @@ At the Ministry, we are conducting a data analysis project tailored for the stud
 
 ## 📚 Table of Contents
 
-- [🦉 Overview](#overview)
+- [🦉 Overview](#Overview)
 - [🤔 What is Differential Privacy?](#what-is-differential-privacy)
 - [⚡️ Installation](#installation)
 - [🖼️ Screenshots](#screenshots)
 - [⚡️ Run Program](#run-program-depending-on-scenario)
 
-### 🤔 What is Differential Privacy? 🤔
+## What is Differential Privacy?
 
 Differential privacy is a rigorous mathematical definition of privacy for statistical analysis and machine learning. In the simplest setting, consider an algorithm that analyzes a dataset and releases statistics about it (such as means and variances, cross-tabulations, or the parameters of a machine learning model). Such an algorithm is said to be differentially private if by looking at the output, one cannot tell whether any individual's data was included in the original dataset or not.
 
@@ -34,7 +34,7 @@ For more information on OpenDP, a popular open-source library for implementing d
 **Solution:** Implement differential privacy to release only aggregated data on overall performances across houses. This way, the system can show trends without revealing individual student results, maintaining house loyalty and preventing possible stigma associated with poor performance in a particular house.  
 
 
-### ⚡️ Installation ⚡️
+## Installation 
 
 To get started with the project, you'll need to set up a virtual environment and install the
 required dependencies. Follow the steps below to set up your environment.
