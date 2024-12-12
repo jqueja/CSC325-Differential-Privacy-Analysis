@@ -33,7 +33,7 @@ For more information on OpenDP, a popular open-source library for implementing d
 **Solution:** Implement differential privacy to release only aggregated data on overall performances across houses. This way, the system can show trends without revealing individual student results, maintaining house loyalty and preventing possible stigma associated with poor performance in a particular house.  
 
 
-## ⚡️ Installation ⚡️
+### ⚡️ Installation ⚡️
 
 To get started with the project, you'll need to set up a virtual environment and install the
 required dependencies. Follow the steps below to set up your environment.
