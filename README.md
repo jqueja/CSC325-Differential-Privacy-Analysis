@@ -77,10 +77,17 @@ python3 membership_attack.py
   <img src="images/attackPerformance.png" alt="Comparison of True and Noisy Averages">
 </figure>
 
-![Screenshot](images/privacyTradeoff.png)
-**Description:** This chart shows the relationship of (ε) and the utility of the data provided. The lower (ε) value
-the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low.
-![Screenshot](images/attackPerformance.png)
-**Description:** need to do.
+<figure>
+  <figcaption> 
+    This chart shows the relationship of (ε) and the utility of the data provided. The lower (ε) value
+    the lower the utlity is compared to a high (ε) the utlity of data is high but the privacy is low..
+  </figcaption>
+  <img src="images/privacyTradeoff.png" alt="Comparison of Privacy">
+</figure>
+
+<figure>
+  <figcaption>Need to do.</figcaption>
+  <img src="images/attackPerformance.png" alt="Attack Performance">
+</figure>
 
 
