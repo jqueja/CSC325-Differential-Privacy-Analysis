@@ -72,6 +72,6 @@ python3 membership_attack.py
 ```
 
 ## Screenshots
-![Screenshot](images\attackPerformance.png)
-![Screenshot](images\comparisonNoisy.png)
-![Screenshot](images\privacyTradeoff.png)
+![Screenshot](images/attackPerformance.png)
+![Screenshot](images/comparisonNoisy.png)
+![Screenshot](images/privacyTradeoff.png)
