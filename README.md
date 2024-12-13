@@ -67,47 +67,54 @@ pip install -r requirements.txt
 
 ## Run Program depending on scenario
 
+### House Elf Hours
 ```bash
 python3 elfhours.py
 ```
-This scenario prints various true and noisy statistical calculations for a small dataset of house elf records storing individual hours worked with a minimal number of entries.
-Input: Nothing.
-Output: Print Statistical Calculations.
+This scenario prints various true and noisy statistical calculations for a small dataset of house elf records storing individual hours worked with a minimal number of entries.<br><br>
+Input: Nothing.<br>
+Output: Print Statistical Calculations.<br>
+### House Averages
 ```bash
 python3 houseavg.py
 ```
-This scenario prints several comparisons between true and noisy statistical calculations for a dataset of 5000 students randomly divided among four different groups, and their respective grades for various academic subjects.
-Input: Nothing.
-Output: Print Statistical Calculations.
+This scenario prints several comparisons between true and noisy statistical calculations for a dataset of 5000 students randomly divided among four different groups, and their respective grades for various academic subjects.<br><br>
+Input: Nothing.<br>
+Output: Print Statistical Calculations.<br>
+### Membership Attack
 ```bash
 python3 membership_attack.py
 ```
-This scenario will run the House Average scenario, generate a plot comparing the specific privacy vs utility metrics for House Average along a range of epsilon values as well as comparing Local DP and Global DP, and generate a plot contrasting the success rate of membership inference attacks against a range of epsilon values for both Local and Global DP.
-Input: Number of membership inference attacks, range of epsilon values.
-Output: Print Statistical Calculations. Display Visual Comparison Plots.
+This scenario will run the House Average scenario, generate a plot comparing the specific privacy vs utility metrics for House Average along a range of epsilon values as well as comparing Local DP and Global DP, and generate a plot contrasting the success rate of membership inference attacks against a range of epsilon values for both Local and Global DP. <br><br>
+Input: Number of membership inference attacks, range of epsilon values.<br>
+Output: Print Statistical Calculations. Display Visual Comparison Plots. <br>
 NOTE: For the membership_attack plots, the first plot will be shown in a window. To see the following plots, close the current window, and the next plot will appear.
 
 
 ## Screenshots
 <figure>
-  <figcaption>This chart shows the comparisons of true calculated averages compared to their local and global DP counterparts, given the (𝜖) value of 10. This value, when applied to Local DP, generates a dataset that preserves the general values for the grade averages, as well as the statistical relationships between them (Ravenclaw > Slytherin > Gryffindor, Hufflepuff). Meanwhile, applying it to Global DP can produce similar results, but not with enough reliablity to make the additional privacy risks of Global DP requiring a trustworthy data curator.</figcaption>
+  <figcaption>This chart shows the comparisons of true calculated averages compared to their local and global DP counterparts, given the (𝜖) value of 10.<br><br>
+    This value, when applied to Local DP, generates a dataset that preserves the general values for the grade averages, as well as the statistical relationships between them (Ravenclaw > Slytherin > Gryffindor, Hufflepuff). Meanwhile, applying it to Global DP can produce similar results, but not with enough reliablity to make the additional privacy risks of Global DP requiring a trustworthy data curator.</figcaption>
   <img src="images/comparisonNoisy.png" alt="Comparison of True and Noisy Averages">
 </figure>
 
 <figure>
-  <figcaption>This chart shows given a low (𝜖) the utlity of the data is not useable, given the (𝜖) value of 0.5. The strictness of the epsilon value allows for enough individual grade modifications in the algorithm such that the range of noisy averages is too large to preserve any reliable statistical utility. </figcaption>
+  <figcaption>This chart shows given a low (𝜖) the utlity of the data is not useable, given the (𝜖) value of 0.5.<br><br> 
+    The strictness of the epsilon value allows for enough individual grade modifications in the algorithm such that the range of noisy averages is too large to preserve any reliable statistical utility. </figcaption>
   <img src="images/lowEpsilon.png" alt="Comparison of True and Noisy Averages">
 </figure>
 
 <figure>
   <figcaption> 
-    This chart shows the relationship of increasing (ε) values versus the utility of the data provided calculated through the Mean Absolute Error (MAE), which is the average amount of deviation from the True Means. While each application of noise to the dataset inherently results in differing amounts of MAE at each epsilon every time the calculations are run, the overall trend confirms the expected negative correlation between the (ε) value and statistical utility.
+    This chart shows the relationship of increasing (ε) values versus the utility of the data provided calculated through the Mean Absolute Error (MAE), which is the average amount of deviation from the True Means.<br><br>
+    While each application of noise to the dataset inherently results in differing amounts of MAE at each epsilon every time the calculations are run, the overall trend confirms the expected negative correlation between the (ε) value and statistical utility.
   </figcaption>
   <img src="images/privacyTradeoff.png" alt="Comparison of Privacy">
 </figure>
 
 <figure>
-  <figcaption>This chart displays the relationship between increasing epsilon values and the average False Positive Rate (FPR) and True Positive Rate (TPR) of 50 different membership inference attacks against both Local DP and Global DP algorithms. The general trend for each generation of the chart seemed to suggest that, for our particular dataset, an implementation of Local DP with an epsilon value of 10.0 preserved the most privacy through protecting against membership attacks, while still preserving the meaningful statistical conclusions and relationships of the original dataset.</figcaption>
+  <figcaption>This chart displays the relationship between increasing epsilon values and the average False Positive Rate (FPR) and True Positive Rate (TPR) of 50 different membership inference attacks against both Local DP and Global DP algorithms.<br><br>
+    The general trend for each generation of the chart seemed to suggest that, for our particular dataset, an implementation of Local DP with an epsilon value of 10.0 preserved the most privacy through protecting against membership attacks, while still preserving the meaningful statistical conclusions and relationships of the original dataset.</figcaption>
   <img src="images/attackPerformance.png" alt="Attack Performance">
 </figure>
 
